@@ -1,5 +1,10 @@
 # Data Science Masters
 
+## Goals
+* Compete in Kaggle competition and be in top N #deep learning
+* Build end to end encrypted chat app #crypto #how-the-internet-works
+* Deployed ML service to cloud for Structured data, text, Image, Video, audio
+
 ## Carriculum
 
 ### Block 1 (Jan 2 - Feb 12)
@@ -71,22 +76,15 @@
 * [Calculus II - Sequences and Series](https://www.coursera.org/learn/advanced-calculus)
 
 
-### Deep Learning 
-* [Practical Deep Learning For Coders](http://course.fast.ai/)
-
-
 ### Linear Algebra
 * [Khan Linear Algebra](https://www.khanacademy.org/math/linear-algebra)
 * [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
 * [Coding the Matrix](http://codingthematrix.com/)
 
 
-### Machine Learning
-- [Machine Learning](https://www.coursera.org/learn/machine-learning/)
-
-
 ### Probability
 * [Probability for Computer Scientists](http://web.stanford.edu/class/cs109/)
+* Edx probability (MIT)
 
 
 ### Algorithms
@@ -97,6 +95,32 @@
 * [Intro to Algorithms](https://www.udacity.com/course/intro-to-algorithms--cs215)
 * [Algorithmic Thinking I](https://www.coursera.org/learn/algorithmic-thinking-1)
 * [Algorithmic Thinking II](https://www.coursera.org/learn/algorithmic-thinking-2)
+
+
+### Machine Learning
+* [Machine Learning](https://www.coursera.org/learn/machine-learning/)
+* [Machine Learning](https://www.coursera.org/specializations/machine-learning)
+
+https://www.coursera.org/learn/machine-learning
+http://yerevann.com/a-guide-to-deep-learning/
+https://www.udacity.com/ai
+https://www.udacity.com/drive
+https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009
+https://www.edx.org/xseries/data-science-engineering-apacher-sparktm
+https://www.coursera.org/specializations/data-mining
+https://www.coursera.org/specializations/machine-learning
+
+
+### Deep Learning 
+* [Practical Deep Learning For Coders](http://course.fast.ai/)
+http://course.fast.ai/
+http://www.deeplearningbook.org/
+http://cs231n.github.io/
+http://neuralnetworksanddeeplearning.com/
+https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH
+https://www.youtube.com/playlist?list=PLlJy-eBtNFt6EuMxFYRiNRS07MCWN5UIA
+Theano
+Tensor flow
 
 
 ### Cryptography
@@ -110,11 +134,26 @@
 * [Hotel Management III - Demand Management](https://www.coursera.org/learn/demandmanagement)
 * Coursera Specialization - Think Again Specialization
 * [Statistical Machine Learning 10-702/36-702](http://www.stat.cmu.edu/~larry/=sml/)
-* [Machine Learning](https://www.coursera.org/specializations/machine-learning)
 * Justice (Edx / Harvard)
+http://cs231n.github.io/python-numpy-tutorial/
+http://www.scipy-lectures.org/
+Data science in python coursera
 
-### Books
-* 📚 Case in Point
-* 📚 Raising Capital
-* 📚 Land of lisp
 
+### 📚 Books
+* Case in Point
+* Raising Capital
+* Land of lisp
+* Pragmatic Programmer
+* Sapiens
+* Pragmatic Programmer
+* Just Babies
+* Cracking the coding interview
+
+### Resources
+http://blog.interviewing.io/lessons-from-3000-technical-interviews/
+https://www.udacity.com/nanodegree
+https://www.udacity.com/courses/all
+https://ml.berkeley.edu/blog/
+Data school
+https://github.com/open-source-society/data-science
