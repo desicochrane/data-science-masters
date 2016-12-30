@@ -108,3 +108,13 @@
 ### Electives
 * [Hotel Management II - Fundamentals of Revenue Management](https://www.coursera.org/learn/fundamentals-of-revenue-management)
 * [Hotel Management III - Demand Management](https://www.coursera.org/learn/demandmanagement)
+* Coursera Specialization - Think Again Specialization
+* [Statistical Machine Learning 10-702/36-702](http://www.stat.cmu.edu/~larry/=sml/)
+* [Machine Learning](https://www.coursera.org/specializations/machine-learning)
+* Justice (Edx / Harvard)
+
+### Books
+* 📚 Case in Point
+* 📚 Raising Capital
+* 📚 Land of lisp
+
