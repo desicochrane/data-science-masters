@@ -65,10 +65,13 @@
 -  Resources
 	- [Mathematics for Computer Science](http://www.iith.ac.in/~aravind/Files-DM/LLM-MFCS-2004.pdf) <- read this 
 	- 📚 How to prove it <- read this
+
 ### Calculus I
 - Khan academy all videos and problems
+
 ### Linear Algebra I
 - Khan Academy all videos and problems
+
 ### Machine Learning I
 - Weeks 1 to 5 https://www.coursera.org/learn/machine-learning/
 
@@ -77,8 +80,10 @@
 	- lectures 12 to 23
 	- problems 7 to 12
 	- final exam
+	
 ### Machine Learning II
-- Weeks 6 to 11 https://www.coursera.org/learn/machine-learning/ 	
+- Weeks 6 to 11 https://www.coursera.org/learn/machine-learning/ 
+
 ### Linear Algebra II
 - Lecture 1 to 16 [Video Lectures | Linear Algebra | Mathematics | MIT OpenCourseWare](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/)
 
@@ -87,6 +92,7 @@
 	- [Counting]
 	- [Core Probability]
 	- [Distributions]
+	
 ### Linear Algebra III
 - Coding the Matrix Course (python + linear algebra)
 
@@ -94,12 +100,14 @@
 - [CS109](http://web.stanford.edu/class/cs109/)
 	- [Advanced Probability]
 	- [Machine Learning]
+	
 ### Algorithms I
 - [Specialization | Coursera](https://www.coursera.org/specializations/algorithms) OR https://www.coursera.org/learn/algorithmic-thinking-1 OR https://www.udacity.com/course/intro-to-algorithms--cs215
 
 
 ### Algorithms II
 - Finish Specialization
+
 ### Deep Learning 
 - course.fast.ai
 
