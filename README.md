@@ -5,7 +5,7 @@
 ### Block 1 (Jan 2 - Feb 12)
 
 * Discrete Mathematics I
-* Khan Academy Calculus I
+* Calculus I
 * Linear Algebra I
 * Machine Learning I
 
