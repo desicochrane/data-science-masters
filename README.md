@@ -111,10 +111,17 @@
 ### Deep Learning 
 - course.fast.ai
 
+### Calculus
+* [Pre-calculus - Functions](https://www.coursera.org/learn/pre-calculus)
+* [Pre-calculus - Trigonometry](https://www.coursera.org/learn/trigonometry)
+* [Calculus I](https://www.coursera.org/learn/calculus1)
+* [Calculus II - Sequences and Series](https://www.coursera.org/learn/advanced-calculus)
+
+### Cryptography
+* [Cryptography I](https://www.coursera.org/learn/crypto)
+* [Cryptography II](https://www.coursera.org/learn/crypto2)
+* [Bitcoin and Cryptocurrencies](https://www.coursera.org/learn/cryptocurrency)
 
 ## Electives
 * [Hotel Management II- Fundamentals of Revenue Management](https://www.coursera.org/learn/fundamentals-of-revenue-management)
 * [Hotel Management III - Demand Management](https://www.coursera.org/learn/demandmanagement)
-* [Cryptography I](https://www.coursera.org/learn/crypto)
-* [Cryptography II](https://www.coursera.org/learn/crypto2)
-* [Bitcoin and Cryptocurrencies](https://www.coursera.org/learn/cryptocurrency)
