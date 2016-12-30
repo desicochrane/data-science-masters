@@ -1,8 +1,8 @@
 # Data Science Masters
 
 ## Goals
-* Compete in Kaggle competition and be in top N #deep learning
-* Build end to end encrypted chat app #crypto #how-the-internet-works
+* Compete in Kaggle competition and be in top 20%
+* Build en-to-end encrypted chat app
 * Deployed ML service to cloud for Structured data, text, Image, Video, audio
 
 ## Carriculum
@@ -61,6 +61,19 @@
 * Capstone project
 
 ## Courses
+
+## Discrete Mathematics I
+
+#### Part I: Proofs
+
+| Week | Lecture | Readings |
+| ---- | ------- | -------- |
+| 1 | [Introduction and proofs](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-1-introduction-and-proofs/) | [Chapter 1: Propositions](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/readings/MIT6_042JF10_chap01.pdf) and [Chapter 2: Patterns of proof](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/readings/MIT6_042JF10_chap02.pdf) |
+| 1 | [Induction](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-2-induction/) | [Chapter 3: Induction](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/readings/MIT6_042JF10_chap03.pdf) |
+| 2 | [Strong Induction](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-3-strong-induction/) |
+| 2 | [Strong Induction](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-3-strong-induction/) |
+| 3 | [Number Theory I](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-4-number-theory-i/) |
+| 3 | [Number Theory II](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-5-number-theory-ii/) |
 
 ### Discrete Math, Logic and Proofs
 * Lecture [Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/index.htm)
