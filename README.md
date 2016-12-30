@@ -157,3 +157,8 @@ https://www.udacity.com/courses/all
 https://ml.berkeley.edu/blog/
 Data school
 https://github.com/open-source-society/data-science
+
+
+NLP?
+Spark?
+Python/Numpy/Scipy/ScikitLearn/Pandas?
