@@ -57,52 +57,37 @@
 
 ## Courses
 
-### Discrete Math I
-- [Mathematics for Computer Science | Electrical Engineering and Computer Science | MIT OpenCourseWare](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/index.htm) <- 
-	- lectures 1 to 11
-	- problems 1 to 6
-	- midterm
--  Resources
-	- [Mathematics for Computer Science](http://www.iith.ac.in/~aravind/Files-DM/LLM-MFCS-2004.pdf) <- read this 
-	- 📚 How to prove it <- read this
+### Discrete Math, Logic and Proofs
+* Lecture [Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/index.htm)
+* Book [Mathematics for Computer Science](http://www.iith.ac.in/~aravind/Files-DM/LLM-MFCS-2004.pdf)
+* 📚 How to Prove It
 
-### Calculus I
-- Khan academy all videos and problems
 
-### Linear Algebra I
-- Khan Academy all videos and problems
+### Calculus
+* [Khan Calculus](https://www.khanacademy.org/math/calculus-home)
+* [Pre-calculus - Functions](https://www.coursera.org/learn/pre-calculus)
+* [Pre-calculus - Trigonometry](https://www.coursera.org/learn/trigonometry)
+* [Calculus I](https://www.coursera.org/learn/calculus1)
+* [Calculus II - Sequences and Series](https://www.coursera.org/learn/advanced-calculus)
 
-### Machine Learning I
-- Weeks 1 to 5 https://www.coursera.org/learn/machine-learning/
-
-### Discrete Math II
-- [Mathematics for Computer Science | Electrical Engineering and Computer Science | MIT OpenCourseWare](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/index.htm) <- 
-	- lectures 12 to 23
-	- problems 7 to 12
-	- final exam
-	
-### Machine Learning II
-- Weeks 6 to 11 https://www.coursera.org/learn/machine-learning/ 
-
-### Linear Algebra II
-- Lecture 1 to 16 [Video Lectures | Linear Algebra | Mathematics | MIT OpenCourseWare](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/)
-
-### Probability II
-- [CS109](http://web.stanford.edu/class/cs109/)
-	- [Counting]
-	- [Core Probability]
-	- [Distributions]
-	
-### Linear Algebra III
-- Coding the Matrix Course (python + linear algebra)
-
-### Probability III
-- [CS109](http://web.stanford.edu/class/cs109/)
-	- [Advanced Probability]
-	- [Machine Learning]
 
 ### Deep Learning 
-- course.fast.ai
+* [Practical Deep Learning For Coders](http://course.fast.ai/)
+
+
+### Linear Algebra
+* [Khan Linear Algebra](https://www.khanacademy.org/math/linear-algebra)
+* [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
+* [Coding the Matrix](http://codingthematrix.com/)
+
+
+### Machine Learning
+- [Machine Learning](https://www.coursera.org/learn/machine-learning/)
+
+
+### Probability
+* [Probability for Computer Scientists](http://web.stanford.edu/class/cs109/)
+
 
 ### Algorithms
 * [Algorithms I - Divide and Conquer](https://www.coursera.org/learn/algorithms-divide-conquer)
@@ -113,16 +98,12 @@
 * [Algorithmic Thinking I](https://www.coursera.org/learn/algorithmic-thinking-1)
 * [Algorithmic Thinking II](https://www.coursera.org/learn/algorithmic-thinking-2)
 
-### Calculus
-* [Pre-calculus - Functions](https://www.coursera.org/learn/pre-calculus)
-* [Pre-calculus - Trigonometry](https://www.coursera.org/learn/trigonometry)
-* [Calculus I](https://www.coursera.org/learn/calculus1)
-* [Calculus II - Sequences and Series](https://www.coursera.org/learn/advanced-calculus)
 
 ### Cryptography
 * [Cryptography I](https://www.coursera.org/learn/crypto)
 * [Cryptography II](https://www.coursera.org/learn/crypto2)
 * [Bitcoin and Cryptocurrencies](https://www.coursera.org/learn/cryptocurrency)
+
 
 ### Electives
 * [Hotel Management II - Fundamentals of Revenue Management](https://www.coursera.org/learn/fundamentals-of-revenue-management)
