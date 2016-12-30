@@ -64,6 +64,8 @@
 
 ## Discrete Mathematics I
 
+Follows the first half of [Mathematics for Computer Scientists 2010](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/) and [Mathematics for Computer Scientists 2015](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/)
+
 #### Part I: Proofs
 
 | Week | Lecture | Readings |
