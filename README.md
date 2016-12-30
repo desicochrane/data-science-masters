@@ -100,16 +100,18 @@
 - [CS109](http://web.stanford.edu/class/cs109/)
 	- [Advanced Probability]
 	- [Machine Learning]
-	
-### Algorithms I
-- [Specialization | Coursera](https://www.coursera.org/specializations/algorithms) OR https://www.coursera.org/learn/algorithmic-thinking-1 OR https://www.udacity.com/course/intro-to-algorithms--cs215
-
-
-### Algorithms II
-- Finish Specialization
 
 ### Deep Learning 
 - course.fast.ai
+
+### Algorithms
+* [Algorithms I - Divide and Conquer](https://www.coursera.org/learn/algorithms-divide-conquer)
+* [Algorithms II - Graph Search, Shortest Path, and Data Structures](https://www.coursera.org/learn/algorithms-graphs-data-structures)
+* [Algorithms III - Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming](https://www.coursera.org/learn/algorithms-greedy)
+* [Algorithms IV - Shortest Paths Revisited, NP-Complete Problems](https://www.coursera.org/learn/algorithms-npcomplete)
+* [Intro to Algorithms](https://www.udacity.com/course/intro-to-algorithms--cs215)
+* [Algorithmic Thinking I](https://www.coursera.org/learn/algorithmic-thinking-1)
+* [Algorithmic Thinking II](https://www.coursera.org/learn/algorithmic-thinking-2)
 
 ### Calculus
 * [Pre-calculus - Functions](https://www.coursera.org/learn/pre-calculus)
@@ -122,6 +124,6 @@
 * [Cryptography II](https://www.coursera.org/learn/crypto2)
 * [Bitcoin and Cryptocurrencies](https://www.coursera.org/learn/cryptocurrency)
 
-## Electives
-* [Hotel Management II- Fundamentals of Revenue Management](https://www.coursera.org/learn/fundamentals-of-revenue-management)
+### Electives
+* [Hotel Management II - Fundamentals of Revenue Management](https://www.coursera.org/learn/fundamentals-of-revenue-management)
 * [Hotel Management III - Demand Management](https://www.coursera.org/learn/demandmanagement)
