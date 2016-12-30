@@ -64,6 +64,9 @@
 
 ## Discrete Mathematics I
 
+#### Pre-requisites
+"The prerequisite is 18.01 Single Variable Calculus. In particular, some familiarity with sequences and series, limits, and differentiation and integration of functions of one variable are necessary."
+
 Follows the first half of [Mathematics for Computer Scientists 2010](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/) and [Mathematics for Computer Scientists 2015](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/)
 
 #### Part I: Proofs
