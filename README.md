@@ -136,6 +136,7 @@ http://cs231n.github.io/
 http://neuralnetworksanddeeplearning.com/
 https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH
 https://www.youtube.com/playlist?list=PLlJy-eBtNFt6EuMxFYRiNRS07MCWN5UIA
+http://rll.berkeley.edu/deeprlcourse/
 Theano
 Tensor flow
 
