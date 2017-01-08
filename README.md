@@ -97,7 +97,7 @@ Follows the first half of [Mathematics for Computer Scientists 2010](https://ocw
 * [Khan Linear Algebra](https://www.khanacademy.org/math/linear-algebra)
 * [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
 * [Coding the Matrix](http://codingthematrix.com/)
-
+* https://www.udacity.com/course/linear-algebra-refresher-course--ud953
 
 ### Probability
 * [Probability for Computer Scientists](http://web.stanford.edu/class/cs109/)
