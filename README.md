@@ -71,13 +71,18 @@ Follows the first half of [Mathematics for Computer Scientists 2010](https://ocw
 
 #### Part I: Proofs
 
-| Week | Lecture | Readings |
+| Unit | Lecture | Readings |
 | ---- | ------- | -------- |
-| 1 | [Introduction and proofs](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-1-introduction-and-proofs/) | [Chapter 1: Propositions](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/readings/MIT6_042JF10_chap01.pdf) and [Chapter 2: Patterns of proof](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/readings/MIT6_042JF10_chap02.pdf) |
+| 1 | [Introduction and proofs][discr2010-l1] | [Propositions][discr2010-r1] and [Patterns of proof][discr2010-r2] |
 | 1 | [Induction](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-2-induction/) | [Chapter 3: Induction](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/readings/MIT6_042JF10_chap03.pdf) |
 | 2 | [Strong Induction](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-3-strong-induction/) |
 | 2 | [Number Theory I](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-4-number-theory-i/) | [Chapter 4: Number theory](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/readings/MIT6_042JF10_chap04.pdf) |
 | 3 | [Number Theory II](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-5-number-theory-ii/) |
+
+[discr2010-l1]: https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-1-introduction-and-proofs/
+[discr2010-r1]: (https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/readings/MIT6_042JF10_chap01.pdf)
+[discr2010-r2](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/readings/MIT6_042JF10_chap02.pdf)
+
 
 ### Discrete Math, Logic and Proofs
 * Lecture [Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/index.htm)
