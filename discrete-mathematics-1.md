@@ -18,7 +18,7 @@ Follows the first half of [Mathematics for Computer Scientists 2010](https://ocw
 | [Proof methods][2015-l2]           | ['15 Chp 1.7 - 1.9][2015-r2] and ['10 Chp 2][2010-r2] | [b][2015-p2]   |
 | [Well Ordering principle][2015-l3] | ['15 Chp 2.1 - 2.3][2015-r3]                          | [c][2015-p3]   |
 | [Logic and Propositions][2015-l4]  | ['15 Ch 3.1 - 3.5][2015-r4]                           | [d][2015-p4]   |
-| [Intro to proofs II][2010-l1]      | ['10 Chp 1][2010-r1]                                  | [e][2010-p1]   |
+| [Intro to Proofs II][2010-l1]      | ['10 Chp 1][2010-r1]                                  | [e][2010-p1]   |
 
 Assignment: ['15 Problem Set 1](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/assignments/MIT6_042JS15_ps1.pdf)
 
