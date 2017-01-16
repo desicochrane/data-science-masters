@@ -80,8 +80,10 @@ Follows the first half of [Mathematics for Computer Scientists 2010](https://ocw
 | 3 | [Number Theory II](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-5-number-theory-ii/) |
 
 [discr2010-l1]: https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-1-introduction-and-proofs/
+
 [discr2010-r1]: (https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/readings/MIT6_042JF10_chap01.pdf)
-[discr2010-r2](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/readings/MIT6_042JF10_chap02.pdf)
+
+[discr2010-r2]: (https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/readings/MIT6_042JF10_chap02.pdf)
 
 
 ### Discrete Math, Logic and Proofs
