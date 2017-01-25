@@ -153,7 +153,7 @@ https://www.udacity.com/courses/all
 https://ml.berkeley.edu/blog/
 Data school
 https://github.com/open-source-society/data-science
-
+https://cloud.google.com/blog/big-data/2017/01/learn-tensorflow-and-deep-learning-without-a-phd
 
 NLP?
 Spark?
