@@ -126,6 +126,12 @@ Tensor flow
 * [Bitcoin and Cryptocurrencies](https://www.coursera.org/learn/cryptocurrency)
 
 
+### NLP
+https://github.com/oxford-cs-deepnlp-2017/lectures
+
+### Image and Computer Vision
+https://www.coursera.org/learn/digital/home/welcome
+
 ### Electives
 * [Hotel Management II - Fundamentals of Revenue Management](https://www.coursera.org/learn/fundamentals-of-revenue-management)
 * [Hotel Management III - Demand Management](https://www.coursera.org/learn/demandmanagement)
