@@ -104,7 +104,7 @@ https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009
 https://www.edx.org/xseries/data-science-engineering-apacher-sparktm
 https://www.coursera.org/specializations/data-mining
 https://www.coursera.org/specializations/machine-learning
-
+http://web.stanford.edu/class/cs20si/syllabus.html
 
 ### Deep Learning 
 * [Practical Deep Learning For Coders](http://course.fast.ai/)
