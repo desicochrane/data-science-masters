@@ -105,6 +105,7 @@ https://www.edx.org/xseries/data-science-engineering-apacher-sparktm
 https://www.coursera.org/specializations/data-mining
 https://www.coursera.org/specializations/machine-learning
 http://web.stanford.edu/class/cs20si/syllabus.html
+http://ai.berkeley.edu/home.html
 
 ### Deep Learning 
 * [Practical Deep Learning For Coders](http://course.fast.ai/)
