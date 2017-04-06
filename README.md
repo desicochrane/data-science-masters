@@ -7,6 +7,13 @@
 
 # Carriculum
 
+## Block 0
+
+* algebra,
+* geometry,
+* trigonometry,
+* exponents, and logarithms
+
 ## Block 1
 
 * Discrete Mathematics I
