@@ -14,6 +14,16 @@
 * Linear Algebra I
 * Machine Learning I
 
+### Calculus I (Single Variable Calculus)
+
+#### Pre-requisites
+"Single Variable Calculus is a first-year, first-semester course at MIT. The prerequisites are high school algebra and trigonometry. Prior experience with calculus is helpful but not essential"
+
+Follows the infamous MIT 18.01 [Single Variable Calculus 2010](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/index.htm) to be taken as the edX course [Calculus 1A: Differentiation](https://www.edx.org/course/calculus-1a-differentiation-mitx-18-01-1x?utm_source=OCW&utm_medium=CHP&utm_campaign=OCW)
+
+#### Supplementary Material
+* 📚 [Trigonometric Delights](http://press.princeton.edu/titles/9992.html)
+
 
 ### Discrete Mathematics I
 
@@ -22,55 +32,56 @@
 
 Follows the first half of [Mathematics for Computer Scientists 2010](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/) and [Mathematics for Computer Scientists 2015](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/)
 
-#### Readings
+#### Supplementary Material
+* [Mathematics for Computer Science (2017)](https://courses.csail.mit.edu/6.042/spring17/mcs.pdf)
 * [Mathematics for Computer Science (2010)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/readings/MIT6_042JF10_notes.pdf)
 * [Mathematics for Computer Science (2015)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/readings/MIT6_042JS15_textbook.pdf)
-* 📚 How to Prove It
+* 📚 [How to Prove It](https://www.amazon.com/How-Prove-Structured-Approach-2nd/dp/0521675995)
 
 
-### Block 2 (Feb 13 - Mar 26)
+## Block 2
 
 * Discrete Mathematics II
 * Machine Learning II
 * Linear Algebra II
 
-### Block 3 (Mar 27 - May 7)
+## Block 3
 
 * Probability I
 * Linear Algebra III
 * *Elective*
 
-### Block 4 (May 8 - Jun 18)
+## Block 4
 
 * Probability II
 * Algorithms I
 * *Elective*
 
-### Block 5 (Jun 19 - Jul 30)
+## Block 5
 
 * Algorithms II
 * Deep Learning I
 * *Elective*
 
-### Block 6 (Jul 31 - Sep 10)
+## Block 6
 
 * Algorithms III
 * Deep Learning II
 * *Elective*
 
-### Block 7 (Sep 11 - Oct 22)
+## Block 7
 
 * Algorithms III
 * Deep Learning II
 * *Elective*
 
-### Block 8 (Oct 23 - Dec 3)
+## Block 8
 
 * Algorithms IV
 * Deep Learning III
 * *Elective*
 
-### Block 9
+## Block 9
 
 * Capstone project
 
