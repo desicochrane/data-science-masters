@@ -5,14 +5,28 @@
 * Build en-to-end encrypted chat app
 * Deployed ML service to cloud for Structured data, text, Image, Video, audio
 
-## Carriculum
+# Carriculum
 
-### Block 1 (Jan 2 - Feb 12)
+## Block 1
 
 * Discrete Mathematics I
 * Calculus I
 * Linear Algebra I
 * Machine Learning I
+
+
+### Discrete Mathematics I
+
+#### Pre-requisites
+"The prerequisite is 18.01 Single Variable Calculus. In particular, some familiarity with sequences and series, limits, and differentiation and integration of functions of one variable are necessary."
+
+Follows the first half of [Mathematics for Computer Scientists 2010](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/) and [Mathematics for Computer Scientists 2015](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/)
+
+#### Readings
+* [Mathematics for Computer Science (2010)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/readings/MIT6_042JF10_notes.pdf)
+* [Mathematics for Computer Science (2015)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/readings/MIT6_042JS15_textbook.pdf)
+* 📚 How to Prove It
+
 
 ### Block 2 (Feb 13 - Mar 26)
 
