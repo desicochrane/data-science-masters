@@ -9,10 +9,12 @@
 
 ## Block 0
 
-* algebra,
-* geometry,
-* trigonometry,
+* algebra
+* geometry
+* trigonometry
 * exponents, and logarithms
+
+* 📚 [Trigonometric Delights](http://press.princeton.edu/titles/9992.html)
 
 ## Block 1
 
@@ -26,10 +28,10 @@
 #### Pre-requisites
 "Single Variable Calculus is a first-year, first-semester course at MIT. The prerequisites are high school algebra and trigonometry. Prior experience with calculus is helpful but not essential"
 
-Follows the infamous MIT 18.01 [Single Variable Calculus 2010](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/index.htm) to be taken as the edX course [Calculus 1A: Differentiation](https://www.edx.org/course/calculus-1a-differentiation-mitx-18-01-1x?utm_source=OCW&utm_medium=CHP&utm_campaign=OCW)
+Follows the infamous MIT 18.01 [Single Variable Calculus 2010](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/index.htm)
 
 #### Supplementary Material
-* 📚 [Trigonometric Delights](http://press.princeton.edu/titles/9992.html)
+* [Calculus, Better Explained: A Guide To Developing Lasting Intuition](https://betterexplained.com/calculus/lesson-1)
 * [Khan Academy Calculus Track](https://www.khanacademy.org/math/calculus-home)
 
 ### Discrete Mathematics I
