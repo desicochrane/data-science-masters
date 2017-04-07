@@ -11,10 +11,13 @@
 
 * algebra
 * geometry
-* trigonometry
+
+#### Trigonometry
+* 📚 [Trigonometric Delights](http://press.princeton.edu/titles/9992.html)
+* [Khan Academny Trigonometry Track](https://www.khanacademy.org/math/trigonometry)
+
 * exponents, and logarithms
 
-* 📚 [Trigonometric Delights](http://press.princeton.edu/titles/9992.html)
 
 ## Block 1
 
