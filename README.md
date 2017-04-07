@@ -2,21 +2,20 @@
 
 ## Goals
 * Compete in Kaggle competition and be in top 20%
-* Build en-to-end encrypted chat app
 * Deployed ML service to cloud for Structured data, text, Image, Video, audio
 
 # Carriculum
 
 ## Block 0
 
-* algebra
-* geometry
+#### algebra
+#### geometry
 
 #### Trigonometry
 * 📚 [Trigonometric Delights](http://press.princeton.edu/titles/9992.html)
 * [Khan Academny Trigonometry Track](https://www.khanacademy.org/math/trigonometry)
 
-* exponents, and logarithms
+#### exponents, and logarithms
 
 
 ## Block 1
