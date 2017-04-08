@@ -18,6 +18,7 @@
 #### Geometry and Trigonometry
 * [Khan Highschool Geometry Mission](https://www.khanacademy.org/mission/geometry)
 * [Khan Trigonometry Mission](https://www.khanacademy.org/mission/trigonometry)
+* [Pre-Calculus: Trigonometry](https://www.coursera.org/learn/trigonometry)
 * 📚 [Trigonometric Delights](http://press.princeton.edu/titles/9992.html)
 
 
