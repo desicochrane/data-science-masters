@@ -8,6 +8,9 @@
 
 ## Block 0
 
+#### Exponents/Logarithms and Pre-Algebra
+* [Khan Pre-Algebra](https://www.khanacademy.org/mission/pre-algebra)
+
 #### Algebra
 * [Khan Algebra I Mission](https://www.khanacademy.org/mission/algebra)
 * [Khan Algebra II Mission](https://www.khanacademy.org/mission/algebra2)
@@ -15,11 +18,8 @@
 #### Geometry and Trigonometry
 * [Khan Highschool Geometry Mission](https://www.khanacademy.org/mission/geometry)
 * [Khan Trigonometry Mission](https://www.khanacademy.org/mission/trigonometry)
-
 * 📚 [Trigonometric Delights](http://press.princeton.edu/titles/9992.html)
 
-#### Exponents/Logarithms and Pre-Algebra
-* [Khan Pre-Algebra](https://www.khanacademy.org/mission/pre-algebra)
 
 
 ## Block 1
