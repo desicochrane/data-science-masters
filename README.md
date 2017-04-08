@@ -40,6 +40,7 @@ Follows the infamous MIT 18.01 [Single Variable Calculus 2010](https://ocw.mit.e
 #### Supplementary Material
 * [Calculus, Better Explained: A Guide To Developing Lasting Intuition](https://betterexplained.com/calculus/lesson-1)
 * [Khan Academy Calculus Track](https://www.khanacademy.org/math/calculus-home)
+* [Calculus One](https://www.coursera.org/learn/calculus1)
 
 ### Discrete Mathematics I
 
