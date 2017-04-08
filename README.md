@@ -41,6 +41,7 @@ Follows the infamous MIT 18.01 [Single Variable Calculus 2010](https://ocw.mit.e
 * [Calculus, Better Explained: A Guide To Developing Lasting Intuition](https://betterexplained.com/calculus/lesson-1)
 * [Khan Academy Calculus Track](https://www.khanacademy.org/math/calculus-home)
 * [Calculus One](https://www.coursera.org/learn/calculus1)
+* [Calculus Two: Sequences and Series](https://www.coursera.org/learn/advanced-calculus)
 
 ### Discrete Mathematics I
 
@@ -104,14 +105,6 @@ Follows the first half of [Mathematics for Computer Scientists 2010](https://ocw
 * Capstone project
 
 ## Courses
-
-
-### Calculus
-* [Khan Calculus](https://www.khanacademy.org/math/calculus-home)
-* [Pre-calculus - Functions](https://www.coursera.org/learn/pre-calculus)
-* [Pre-calculus - Trigonometry](https://www.coursera.org/learn/trigonometry)
-* [Calculus I](https://www.coursera.org/learn/calculus1)
-* [Calculus II - Sequences and Series](https://www.coursera.org/learn/advanced-calculus)
 
 
 ### Linear Algebra
