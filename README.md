@@ -9,11 +9,13 @@
 ## Block 0
 
 #### algebra
+
 #### geometry
 
 #### Trigonometry
-* 📚 [Trigonometric Delights](http://press.princeton.edu/titles/9992.html)
 * [Khan Academny Trigonometry Track](https://www.khanacademy.org/math/trigonometry)
+
+* 📚 [Trigonometric Delights](http://press.princeton.edu/titles/9992.html)
 
 #### exponents, and logarithms
 
@@ -48,7 +50,7 @@ Follows the first half of [Mathematics for Computer Scientists 2010](https://ocw
 * [Mathematics for Computer Science (2010)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/readings/MIT6_042JF10_notes.pdf)
 * [Mathematics for Computer Science (2015)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/readings/MIT6_042JS15_textbook.pdf)
 * 📚 [How to Prove It](https://www.amazon.com/How-Prove-Structured-Approach-2nd/dp/0521675995)
-* https://www.coursera.org/learn/discrete-mathematics/home/week/1
+* https://www.coursera.org/learn/discrete-mathematics
 
 ## Block 2
 
@@ -132,29 +134,29 @@ Follows the first half of [Mathematics for Computer Scientists 2010](https://ocw
 * [Machine Learning](https://www.coursera.org/learn/machine-learning/)
 * [Machine Learning](https://www.coursera.org/specializations/machine-learning)
 
-https://www.coursera.org/learn/machine-learning
-http://yerevann.com/a-guide-to-deep-learning/
-https://www.udacity.com/ai
-https://www.udacity.com/drive
-https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009
-https://www.edx.org/xseries/data-science-engineering-apacher-sparktm
-https://www.coursera.org/specializations/data-mining
-https://www.coursera.org/specializations/machine-learning
-http://web.stanford.edu/class/cs20si/syllabus.html
-http://ai.berkeley.edu/home.html
+* https://www.coursera.org/learn/machine-learning
+* http://yerevann.com/a-guide-to-deep-learning/
+* https://www.udacity.com/ai
+* https://www.udacity.com/drive
+* https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009
+* https://www.edx.org/xseries/data-science-engineering-apacher-sparktm
+* https://www.coursera.org/specializations/data-mining
+* https://www.coursera.org/specializations/machine-learning
+* http://web.stanford.edu/class/cs20si/syllabus.html
+* http://ai.berkeley.edu/home.html
 
 ### Deep Learning 
 * [Practical Deep Learning For Coders](http://course.fast.ai/)
-http://course.fast.ai/
-http://www.deeplearningbook.org/
-http://cs231n.github.io/
-http://neuralnetworksanddeeplearning.com/
-https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH
-https://www.youtube.com/playlist?list=PLlJy-eBtNFt6EuMxFYRiNRS07MCWN5UIA
-http://rll.berkeley.edu/deeprlcourse/
-http://introtodeeplearning.com/index.html
-https://www.youtube.com/watch?v=21EiKfQYZXc&app=desktop
-https://courses.csail.mit.edu/6.042/spring17/mcs.pdf
+* http://course.fast.ai/
+* http://www.deeplearningbook.org/
+* http://cs231n.github.io/
+* http://neuralnetworksanddeeplearning.com/
+* https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH
+* https://www.youtube.com/playlist?list=PLlJy-eBtNFt6EuMxFYRiNRS07MCWN5UIA
+* http://rll.berkeley.edu/deeprlcourse/
+* http://introtodeeplearning.com/index.html
+* https://www.youtube.com/watch?v=21EiKfQYZXc&app=desktop
+* https://courses.csail.mit.edu/6.042/spring17/mcs.pdf
 
 
 ### Cryptography
@@ -164,10 +166,10 @@ https://courses.csail.mit.edu/6.042/spring17/mcs.pdf
 
 
 ### NLP
-https://github.com/oxford-cs-deepnlp-2017/lectures
+* https://github.com/oxford-cs-deepnlp-2017/lectures
 
 ### Image and Computer Vision
-https://www.coursera.org/learn/digital/home/welcome
+* https://www.coursera.org/learn/digital/home/welcome
 
 ### Electives
 * [Hotel Management II - Fundamentals of Revenue Management](https://www.coursera.org/learn/fundamentals-of-revenue-management)
@@ -175,30 +177,21 @@ https://www.coursera.org/learn/digital/home/welcome
 * Coursera Specialization - Think Again Specialization
 * [Statistical Machine Learning 10-702/36-702](http://www.stat.cmu.edu/~larry/=sml/)
 * Justice (Edx / Harvard)
-http://cs231n.github.io/python-numpy-tutorial/
-http://www.scipy-lectures.org/
-Data science in python coursera
+* http://cs231n.github.io/python-numpy-tutorial/
+* http://www.scipy-lectures.org/
+* Data science in python coursera
 
 
 ### 📚 Books
-* Case in Point
-* Raising Capital
 * Land of lisp
 * Pragmatic Programmer
-* Sapiens
-* Pragmatic Programmer
-* Just Babies
 * Cracking the coding interview
 
 ### Resources
-http://blog.interviewing.io/lessons-from-3000-technical-interviews/
-https://www.udacity.com/nanodegree
-https://www.udacity.com/courses/all
-https://ml.berkeley.edu/blog/
-Data school
-https://github.com/open-source-society/data-science
-https://cloud.google.com/blog/big-data/2017/01/learn-tensorflow-and-deep-learning-without-a-phd
+* http://blog.interviewing.io/lessons-from-3000-technical-interviews/
+* https://www.udacity.com/nanodegree
+* https://www.udacity.com/courses/all
+* https://ml.berkeley.edu/blog/
+* https://github.com/open-source-society/data-science
+* https://cloud.google.com/blog/big-data/2017/01/learn-tensorflow-and-deep-learning-without-a-phd
 
-NLP?
-Spark?
-Python/Numpy/Scipy/ScikitLearn/Pandas?
