@@ -12,8 +12,8 @@
 * [Khan Pre-Algebra](https://www.khanacademy.org/mission/pre-algebra) - 10%
 
 #### Algebra
-* [Khan Algebra I Mission](https://www.khanacademy.org/mission/algebra)
-* [Khan Algebra II Mission](https://www.khanacademy.org/mission/algebra2)
+* [Khan Algebra I Mission](https://www.khanacademy.org/mission/algebra) - 2%
+* [Khan Algebra II Mission](https://www.khanacademy.org/mission/algebra2) - 5%
 
 #### Geometry and Trigonometry
 * [Khan Highschool Geometry Mission](https://www.khanacademy.org/mission/geometry) - 12%
@@ -25,10 +25,7 @@
 
 ## Block 1
 
-* Discrete Mathematics I
-* Calculus I
 * Linear Algebra I
-* Machine Learning I - 36 %
 
 ### Calculus I (Single Variable Calculus)
 
@@ -39,9 +36,13 @@ Follows the infamous MIT 18.01 [Single Variable Calculus 2010](https://ocw.mit.e
 
 #### Supplementary Material
 * [Calculus, Better Explained: A Guide To Developing Lasting Intuition](https://betterexplained.com/calculus/lesson-1)
-* [Khan Academy Calculus Track](https://www.khanacademy.org/math/calculus-home)
+* [Khan Academy Calculus Track](https://www.khanacademy.org/math/calculus-home) - 5%
 * [Calculus One](https://www.coursera.org/learn/calculus1)
 * [Calculus Two: Sequences and Series](https://www.coursera.org/learn/advanced-calculus)
+
+### Linear Algebra I
+* [Khan Linear Algebra](https://www.khanacademy.org/math/linear-algebra)
+* [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
 
 ### Discrete Mathematics I
 
@@ -113,8 +114,6 @@ Follows the first half of [Mathematics for Computer Scientists 2010](https://ocw
 
 
 ### Linear Algebra
-* [Khan Linear Algebra](https://www.khanacademy.org/math/linear-algebra)
-* [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
 * [Coding the Matrix](http://codingthematrix.com/)
 * https://www.udacity.com/course/linear-algebra-refresher-course--ud953
 
