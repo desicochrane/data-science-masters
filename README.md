@@ -12,7 +12,7 @@
 * [Khan Pre-Algebra](https://www.khanacademy.org/mission/pre-algebra) - 20%
 
 #### Algebra
-* [Khan Algebra I Mission](https://www.khanacademy.org/mission/algebra) - 3%
+* [Khan Algebra I Mission](https://www.khanacademy.org/mission/algebra) - 5%
 * [Khan Algebra II Mission](https://www.khanacademy.org/mission/algebra2) - 5%
 
 #### Geometry and Trigonometry
@@ -25,16 +25,16 @@
 
 ## Block 1
 
-* Linear Algebra I
 
-### Calculus I (Single Variable Calculus)
+#### Calculus I
+Follow the famous MIT 18.01 [Single Variable Calculus 2010](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/index.htm)
 
-#### Pre-requisites
+**Pre-requisites**
+
 "Single Variable Calculus is a first-year, first-semester course at MIT. The prerequisites are high school algebra and trigonometry. Prior experience with calculus is helpful but not essential"
 
-Follows the infamous MIT 18.01 [Single Variable Calculus 2010](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/index.htm)
+**Supplementary Material**
 
-#### Supplementary Material
 * [Calculus, Better Explained: A Guide To Developing Lasting Intuition](https://betterexplained.com/calculus/lesson-1)
 * [Khan Academy Calculus Track](https://www.khanacademy.org/math/calculus-home) - 5%
 * [Calculus One](https://www.coursera.org/learn/calculus1)
@@ -65,7 +65,7 @@ Follows the first half of [Mathematics for Computer Scientists 2010](https://ocw
 
 ## Block 2
 
-* Discrete Mathematics II
+#### Calculus II
 * Machine Learning II
 * Linear Algebra II
 * Artificial Intelligence (https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/)
