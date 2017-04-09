@@ -9,7 +9,7 @@
 ## Block 0
 
 #### Exponents/Logarithms and Pre-Algebra
-* [Khan Pre-Algebra](https://www.khanacademy.org/mission/pre-algebra) - 10%
+* [Khan Pre-Algebra](https://www.khanacademy.org/mission/pre-algebra) - 20%
 
 #### Algebra
 * [Khan Algebra I Mission](https://www.khanacademy.org/mission/algebra) - 2%
