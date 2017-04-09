@@ -9,15 +9,15 @@
 ## Block 0
 
 #### Exponents/Logarithms and Pre-Algebra
-* [Khan Pre-Algebra](https://www.khanacademy.org/mission/pre-algebra)
+* [Khan Pre-Algebra](https://www.khanacademy.org/mission/pre-algebra) - 10%
 
 #### Algebra
 * [Khan Algebra I Mission](https://www.khanacademy.org/mission/algebra)
 * [Khan Algebra II Mission](https://www.khanacademy.org/mission/algebra2)
 
 #### Geometry and Trigonometry
-* [Khan Highschool Geometry Mission](https://www.khanacademy.org/mission/geometry)
-* [Khan Trigonometry Mission](https://www.khanacademy.org/mission/trigonometry)
+* [Khan Highschool Geometry Mission](https://www.khanacademy.org/mission/geometry) - 12%
+* [Khan Trigonometry Mission](https://www.khanacademy.org/mission/trigonometry) - 40%
 * [Pre-Calculus: Trigonometry](https://www.coursera.org/learn/trigonometry)
 * 📚 [Trigonometric Delights](http://press.princeton.edu/titles/9992.html)
 
@@ -28,7 +28,7 @@
 * Discrete Mathematics I
 * Calculus I
 * Linear Algebra I
-* Machine Learning I
+* Machine Learning I - 36 %
 
 ### Calculus I (Single Variable Calculus)
 
@@ -56,6 +56,11 @@ Follows the first half of [Mathematics for Computer Scientists 2010](https://ocw
 * [Mathematics for Computer Science (2015)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/readings/MIT6_042JS15_textbook.pdf)
 * 📚 [How to Prove It](https://www.amazon.com/How-Prove-Structured-Approach-2nd/dp/0521675995)
 * https://www.coursera.org/learn/discrete-mathematics
+
+
+### Machine Learning
+* [Machine Learning](https://www.coursera.org/learn/machine-learning/) (Week 4 out of 11)
+
 
 ## Block 2
 
@@ -129,11 +134,9 @@ Follows the first half of [Mathematics for Computer Scientists 2010](https://ocw
 
 
 ### Machine Learning
-* [Machine Learning](https://www.coursera.org/learn/machine-learning/)
 * [Machine Learning](https://www.coursera.org/specializations/machine-learning)
 
-* https://www.coursera.org/learn/machine-learning
-* http://yerevann.com/a-guide-to-deep-learning/
+
 * https://www.udacity.com/ai
 * https://www.udacity.com/drive
 * https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009
@@ -155,13 +158,12 @@ Follows the first half of [Mathematics for Computer Scientists 2010](https://ocw
 * http://introtodeeplearning.com/index.html
 * https://www.youtube.com/watch?v=21EiKfQYZXc&app=desktop
 * https://courses.csail.mit.edu/6.042/spring17/mcs.pdf
-
+* http://yerevann.com/a-guide-to-deep-learning/
 
 ### Cryptography
 * [Cryptography I](https://www.coursera.org/learn/crypto)
 * [Cryptography II](https://www.coursera.org/learn/crypto2)
 * [Bitcoin and Cryptocurrencies](https://www.coursera.org/learn/cryptocurrency)
-
 
 ### NLP
 * https://github.com/oxford-cs-deepnlp-2017/lectures
