@@ -12,7 +12,7 @@
 * [Khan Pre-Algebra](https://www.khanacademy.org/mission/pre-algebra) - 20%
 
 #### Algebra
-* [Khan Algebra I Mission](https://www.khanacademy.org/mission/algebra) - 2%
+* [Khan Algebra I Mission](https://www.khanacademy.org/mission/algebra) - 3%
 * [Khan Algebra II Mission](https://www.khanacademy.org/mission/algebra2) - 5%
 
 #### Geometry and Trigonometry
