@@ -4,9 +4,8 @@
 * Compete in Kaggle competition and be in top 20%
 * Deployed ML service to cloud for Structured data, text, Image, Video, audio
 
-# Carriculum
 
-## Block 0
+# Block 0
 
 #### Exponents/Logarithms and Pre-Algebra
 * [Khan Pre-Algebra](https://www.khanacademy.org/mission/pre-algebra) - 20%
@@ -23,10 +22,10 @@
 
 
 
-## Block 1
+# Block 1
 
 
-#### Calculus I
+## Calculus I
 Follow the famous MIT 18.01 [Single Variable Calculus 2010](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/index.htm)
 
 **Pre-requisites**
@@ -40,11 +39,11 @@ Follow the famous MIT 18.01 [Single Variable Calculus 2010](https://ocw.mit.edu/
 * [Calculus One](https://www.coursera.org/learn/calculus1)
 * [Calculus Two: Sequences and Series](https://www.coursera.org/learn/advanced-calculus)
 
-### Linear Algebra I
+## Linear Algebra I
 * [Khan Linear Algebra](https://www.khanacademy.org/math/linear-algebra)
 * [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
 
-### Discrete Mathematics I
+## Discrete Mathematics I
 
 #### Pre-requisites
 "The prerequisite is 18.01 Single Variable Calculus. In particular, some familiarity with sequences and series, limits, and differentiation and integration of functions of one variable are necessary."
@@ -59,7 +58,7 @@ Follows the first half of [Mathematics for Computer Scientists 2010](https://ocw
 * https://www.coursera.org/learn/discrete-mathematics
 
 
-### Machine Learning
+## Machine Learning
 * [Machine Learning](https://www.coursera.org/learn/machine-learning/) (Week 4 out of 11)
 
 
