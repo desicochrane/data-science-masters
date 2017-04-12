@@ -56,6 +56,7 @@ Follows the first half of [Mathematics for Computer Scientists 2010](https://ocw
 * [Mathematics for Computer Science (2015)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/readings/MIT6_042JS15_textbook.pdf)
 * 📚 [How to Prove It](https://www.amazon.com/How-Prove-Structured-Approach-2nd/dp/0521675995)
 * https://www.coursera.org/learn/discrete-mathematics
+* https://www.coursera.org/learn/enumerative-combinatorics
 
 
 ## Machine Learning
