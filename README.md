@@ -11,15 +11,17 @@
 * [Khan Pre-Algebra](https://www.khanacademy.org/mission/pre-algebra) - 28%
 
 #### Algebra
-* [Khan Algebra I Mission](https://www.khanacademy.org/mission/algebra) - 20%
-* [Khan Algebra II Mission](https://www.khanacademy.org/mission/algebra2) - 21%
+* [Khan Algebra I Mission](https://www.khanacademy.org/mission/algebra) - 29%
+* [Khan Algebra II Mission](https://www.khanacademy.org/mission/algebra2) - 22%
 
 #### Geometry and Trigonometry
 * [Khan Highschool Geometry Mission](https://www.khanacademy.org/mission/geometry) - 33%
 * [Khan Trigonometry Mission](https://www.khanacademy.org/mission/trigonometry) - 50%
-* [Pre-Calculus: Trigonometry](https://www.coursera.org/learn/trigonometry)
+[Pre-Calculus: Trigonometry](https://www.coursera.org/learn/trigonometry)
 * 📚 [Trigonometric Delights](http://press.princeton.edu/titles/9992.html)
 
+* Khan pre-calculus
+* Khan Statistics and Probability
 
 
 # Block 1
@@ -66,6 +68,7 @@ Follows the first half of [Mathematics for Computer Scientists 2010](https://ocw
 ## Block 2
 
 #### Calculus II
+* Statistics and Probability Khan
 * Machine Learning II
 * Linear Algebra II
 * Artificial Intelligence (https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/)
