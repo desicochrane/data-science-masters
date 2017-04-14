@@ -17,7 +17,7 @@
 #### Geometry and Trigonometry
 * [Khan Highschool Geometry Mission](https://www.khanacademy.org/mission/geometry) - 33%
 * [Khan Trigonometry Mission](https://www.khanacademy.org/mission/trigonometry) - 52%
-[Pre-Calculus: Trigonometry](https://www.coursera.org/learn/trigonometry)
+* [Pre-Calculus: Trigonometry](https://www.coursera.org/learn/trigonometry)
 * 📚 [Trigonometric Delights](http://press.princeton.edu/titles/9992.html)
 
 * Khan pre-calculus
