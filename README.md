@@ -8,15 +8,15 @@
 # Block 0
 
 #### Exponents/Logarithms and Pre-Algebra
-* [Khan Pre-Algebra](https://www.khanacademy.org/mission/pre-algebra) - 28%
+* [Khan Pre-Algebra](https://www.khanacademy.org/mission/pre-algebra) - 29%
 
 #### Algebra
-* [Khan Algebra I Mission](https://www.khanacademy.org/mission/algebra) - 29%
-* [Khan Algebra II Mission](https://www.khanacademy.org/mission/algebra2) - 22%
+* [Khan Algebra I Mission](https://www.khanacademy.org/mission/algebra) - 30%
+* [Khan Algebra II Mission](https://www.khanacademy.org/mission/algebra2) - 24%
 
 #### Geometry and Trigonometry
 * [Khan Highschool Geometry Mission](https://www.khanacademy.org/mission/geometry) - 33%
-* [Khan Trigonometry Mission](https://www.khanacademy.org/mission/trigonometry) - 50%
+* [Khan Trigonometry Mission](https://www.khanacademy.org/mission/trigonometry) - 52%
 [Pre-Calculus: Trigonometry](https://www.coursera.org/learn/trigonometry)
 * 📚 [Trigonometric Delights](http://press.princeton.edu/titles/9992.html)
 
