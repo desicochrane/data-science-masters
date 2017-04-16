@@ -71,7 +71,7 @@ Follows the first half of [Mathematics for Computer Scientists 2010](https://ocw
 * Statistics and Probability Khan
 * Machine Learning II
 * Linear Algebra II
-* Artificial Intelligence (https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/)
+* Artificial Intelligence (https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/) All assignments, lectures, mega-recitations, problem sets. Implement something from each week.
 
 ## Block 3
 
