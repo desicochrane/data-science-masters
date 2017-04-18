@@ -6,21 +6,24 @@
 
 
 # Block 0
-
-#### Exponents/Logarithms and Pre-Algebra
-* [Khan Pre-Algebra](https://www.khanacademy.org/mission/pre-algebra) - 29%
+Math Foundations
 
 #### Algebra
+* [Khan Pre-Algebra](https://www.khanacademy.org/mission/pre-algebra) - 29%
 * [Khan Algebra I Mission](https://www.khanacademy.org/mission/algebra) - 31%
-* [Khan Algebra II Mission](https://www.khanacademy.org/mission/algebra2) - 27%
+* [Khan Algebra II Mission](https://www.khanacademy.org/mission/algebra2) - 30%
 
 #### Geometry and Trigonometry
 * [Khan Highschool Geometry Mission](https://www.khanacademy.org/mission/geometry) - 33%
-* [Khan Trigonometry Mission](https://www.khanacademy.org/mission/trigonometry) - 53%
+* [Khan Trigonometry Mission](https://www.khanacademy.org/mission/trigonometry) - 54%
+
+#### Pre-Calculus
+* [Khan Trigonometry Mission](https://www.khanacademy.org/mission/precalculus) - 11%
+
+
 * [Pre-Calculus: Trigonometry](https://www.coursera.org/learn/trigonometry)
 * 📚 [Trigonometric Delights](http://press.princeton.edu/titles/9992.html)
 
-* Khan pre-calculus
 * Khan Statistics and Probability
 
 
