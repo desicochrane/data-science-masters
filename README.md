@@ -6,7 +6,10 @@
 
 
 # Block 0
-Math Foundations
+Math Foundations - before getting into the course, build up "basic" mathematical foundations. Basically get yourself to a level as if you had just finished top of the class in high school math at a school with awesome math teachers.
+
+Unanswered questions: 
+- Why math? Why before anything else? Why these math topics? Why these courses?
 
 #### Algebra
 * [Khan Pre-Algebra](https://www.khanacademy.org/mission/pre-algebra) - 29%
@@ -47,6 +50,8 @@ Follow the famous MIT 18.01 [Single Variable Calculus 2010](https://ocw.mit.edu/
 ## Linear Algebra I
 * [Khan Linear Algebra](https://www.khanacademy.org/math/linear-algebra)
 * [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
+* https://graphicallinearalgebra.net/
+
 
 ## Discrete Mathematics I
 
