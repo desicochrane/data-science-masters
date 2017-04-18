@@ -18,10 +18,10 @@ Unanswered questions:
 
 #### Geometry and Trigonometry
 * [Khan Highschool Geometry Mission](https://www.khanacademy.org/mission/geometry) - 33%
-* [Khan Trigonometry Mission](https://www.khanacademy.org/mission/trigonometry) - 54%
+* [Khan Trigonometry Mission](https://www.khanacademy.org/mission/trigonometry) - 55%
 
 #### Pre-Calculus
-* [Khan Pre-Calculus Mission](https://www.khanacademy.org/mission/precalculus) - 11%
+* [Khan Pre-Calculus Mission](https://www.khanacademy.org/mission/precalculus) - 15%
 
 
 * [Pre-Calculus: Trigonometry](https://www.coursera.org/learn/trigonometry)
