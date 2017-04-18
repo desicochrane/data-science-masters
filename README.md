@@ -21,7 +21,7 @@ Unanswered questions:
 * [Khan Trigonometry Mission](https://www.khanacademy.org/mission/trigonometry) - 54%
 
 #### Pre-Calculus
-* [Khan Trigonometry Mission](https://www.khanacademy.org/mission/precalculus) - 11%
+* [Khan Pre-Calculus Mission](https://www.khanacademy.org/mission/precalculus) - 11%
 
 
 * [Pre-Calculus: Trigonometry](https://www.coursera.org/learn/trigonometry)
