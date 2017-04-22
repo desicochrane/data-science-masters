@@ -130,7 +130,6 @@ Follows the first half of [Mathematics for Computer Scientists 2010](https://ocw
 * https://www.udacity.com/course/linear-algebra-refresher-course--ud953
 
 ### Probability
-* [Probability for Computer Scientists](http://web.stanford.edu/class/cs109/)
 * Edx probability (MIT)
 
 
