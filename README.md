@@ -13,22 +13,23 @@ Unanswered questions:
 
 #### Algebra
 * [Khan Pre-Algebra](https://www.khanacademy.org/mission/pre-algebra) - 29%
-* [Khan Algebra I Mission](https://www.khanacademy.org/mission/algebra) - 32%
+* [Khan Algebra I Mission](https://www.khanacademy.org/mission/algebra) - 31%
 * [Khan Algebra II Mission](https://www.khanacademy.org/mission/algebra2) - 30%
 
 #### Geometry and Trigonometry
 * [Khan Highschool Geometry Mission](https://www.khanacademy.org/mission/geometry) - 33%
-* [Khan Trigonometry Mission](https://www.khanacademy.org/mission/trigonometry) - 54%
+* [Khan Trigonometry Mission](https://www.khanacademy.org/mission/trigonometry) - 57%
 
 #### Pre-Calculus
-* [Khan Pre-Calculus Mission](https://www.khanacademy.org/mission/precalculus) - 18%
+* [Khan Pre-Calculus Mission](https://www.khanacademy.org/mission/precalculus) - 22%
 
 #### Statistics and Probability
 * Khan Statistics and Probability
 
 #### Supplementary Material
-* 📚 [Trigonometric Delights](http://press.princeton.edu/titles/9992.html)
-* 📚 [The Joy of X](https://www.amazon.com/Joy-Guided-Tour-Math-Infinity/dp/0544105850)
+
+- [ ] 📚 [Trigonometric Delights](http://press.princeton.edu/titles/9992.html)
+- [x] 📚 [The Joy of X](https://www.amazon.com/Joy-Guided-Tour-Math-Infinity/dp/0544105850)
 
 
 # Block 1
