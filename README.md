@@ -23,8 +23,7 @@ Unanswered questions:
 #### Pre-Calculus
 * [Khan Pre-Calculus Mission](https://www.khanacademy.org/mission/precalculus) - 18%
 
-
-* [Pre-Calculus: Trigonometry](https://www.coursera.org/learn/trigonometry)
+#### Statistics and Probability
 * Khan Statistics and Probability
 
 #### Supplementary Material
