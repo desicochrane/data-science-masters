@@ -32,6 +32,14 @@ Unanswered questions:
 
 # Block 1
 
+#### Discrete Mathematics - Combinatorics and Counting
+* [Introduction to Enumerative Combinatorics](https://www.coursera.org/learn/enumerative-combinatorics)
+* [Mathematics for Computer Science 2010 | Lecture 16 - Counting Rules I](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-16-counting-rules-i/)
+* [Mathematics for Computer Science 2010 | Lecture 16 - Counting Rules II](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-17-counting-rules-ii/)
+* [Khan Permutations](https://www.khanacademy.org/math/precalculus/prob-comb/combinatorics-precalc/v/factorial-and-counting-seat-arrangements)
+* [Khan Combinations](https://www.khanacademy.org/math/precalculus/prob-comb/combinations/v/introduction-to-combinations)
+* https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/recitations/MIT6_042JF10_rec15.pdf
+* https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/recitations/MIT6_042JF10_rec16.pdf
 
 ## Calculus I
 Follow the famous MIT 18.01 [Single Variable Calculus 2010](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/index.htm)
