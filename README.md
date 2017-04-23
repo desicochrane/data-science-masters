@@ -27,6 +27,7 @@ Unanswered questions:
 * [Pre-Calculus: Trigonometry](https://www.coursera.org/learn/trigonometry)
 * Khan Statistics and Probability
 
+#### Supplementary Material
 * 📚 [Trigonometric Delights](http://press.princeton.edu/titles/9992.html)
 * 📚 [The Joy of X](https://www.amazon.com/Joy-Guided-Tour-Math-Infinity/dp/0544105850)
 
