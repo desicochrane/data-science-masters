@@ -82,7 +82,8 @@ Follows the first half of [Mathematics for Computer Scientists 2010](https://ocw
 
 ## Machine Learning
 * [Machine Learning](https://www.coursera.org/learn/machine-learning/) (Week 4 out of 11)
-
+* https://work.caltech.edu/telecourse.html
+* https://www.youtube.com/watch?v=bxe2T-V8XRs
 
 ## Block 2
 
