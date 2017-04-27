@@ -13,15 +13,15 @@ Unanswered questions:
 
 #### Algebra
 * [Khan Pre-Algebra](https://www.khanacademy.org/mission/pre-algebra) - 29%
-* [Khan Algebra I Mission](https://www.khanacademy.org/mission/algebra) - 32%
-* [Khan Algebra II Mission](https://www.khanacademy.org/mission/algebra2) - 31%
+* [Khan Algebra I Mission](https://www.khanacademy.org/mission/algebra) - 33%
+* [Khan Algebra II Mission](https://www.khanacademy.org/mission/algebra2) - 32%
 
 #### Geometry and Trigonometry
 * [Khan Highschool Geometry Mission](https://www.khanacademy.org/mission/geometry) - 33%
 * [Khan Trigonometry Mission](https://www.khanacademy.org/mission/trigonometry) - 60%
 
 #### Pre-Calculus
-* [Khan Pre-Calculus Mission](https://www.khanacademy.org/mission/precalculus) - 25%
+* [Khan Pre-Calculus Mission](https://www.khanacademy.org/mission/precalculus) - 26%
 
 #### Statistics and Probability
 * Khan Statistics and Probability
