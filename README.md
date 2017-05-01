@@ -70,6 +70,7 @@ Follow the famous MIT 18.01 [Single Variable Calculus 2010](https://ocw.mit.edu/
 * [Khan Academy Calculus Track](https://www.khanacademy.org/math/calculus-home) - 5%
 * [Calculus One](https://www.coursera.org/learn/calculus1)
 * [Calculus Two: Sequences and Series](https://www.coursera.org/learn/advanced-calculus)
+* https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr
 
 ## Linear Algebra I
 * [Khan Linear Algebra](https://www.khanacademy.org/math/linear-algebra)
