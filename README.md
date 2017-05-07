@@ -21,7 +21,7 @@ Unanswered questions:
 * [Khan Trigonometry Mission](https://www.khanacademy.org/mission/trigonometry) - 60%
 
 #### Pre-Calculus
-* [Khan Pre-Calculus Mission](https://www.khanacademy.org/mission/precalculus) - 26%
+* [Khan Pre-Calculus Mission](https://www.khanacademy.org/mission/precalculus) - 28%
 
 #### Statistics and Probability
 * Khan Statistics and Probability
