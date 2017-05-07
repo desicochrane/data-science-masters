@@ -13,15 +13,15 @@ Unanswered questions:
 
 #### Algebra
 * [Khan Pre-Algebra](https://www.khanacademy.org/mission/pre-algebra) - 29%
-* [Khan Algebra I Mission](https://www.khanacademy.org/mission/algebra) - 33%
-* [Khan Algebra II Mission](https://www.khanacademy.org/mission/algebra2) - 32%
+* [Khan Algebra I Mission](https://www.khanacademy.org/mission/algebra) - 34%
+* [Khan Algebra II Mission](https://www.khanacademy.org/mission/algebra2) - 34%
 
 #### Geometry and Trigonometry
 * [Khan Highschool Geometry Mission](https://www.khanacademy.org/mission/geometry) - 33%
 * [Khan Trigonometry Mission](https://www.khanacademy.org/mission/trigonometry) - 60%
 
 #### Pre-Calculus
-* [Khan Pre-Calculus Mission](https://www.khanacademy.org/mission/precalculus) - 28%
+* [Khan Pre-Calculus Mission](https://www.khanacademy.org/mission/precalculus) - 31%
 
 #### Statistics and Probability
 * Khan Statistics and Probability
@@ -56,7 +56,7 @@ Unanswered questions:
 
 ## Calculus I
 * [Khan AP Calculus AB](https://www.khanacademy.org/mission/ap-calculus-ab) - 2%
-* [Khan AP Calculus AB](https://www.khanacademy.org/mission/ap-calculus-bc) - 3%
+* [Khan AP Calculus AB](https://www.khanacademy.org/mission/ap-calculus-bc) - 4%
 
 Follow the famous MIT 18.01 [Single Variable Calculus 2010](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/index.htm)
 
