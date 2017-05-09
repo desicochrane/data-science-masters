@@ -12,8 +12,8 @@ Unanswered questions:
 - Why math? Why before anything else? Why these math topics? Why these courses?
 
 #### Algebra
-* [Khan Pre-Algebra](https://www.khanacademy.org/mission/pre-algebra) - 29%
-* [Khan Algebra I Mission](https://www.khanacademy.org/mission/algebra) - 34%
+* [Khan Pre-Algebra](https://www.khanacademy.org/mission/pre-algebra) - 33%
+* [Khan Algebra I Mission](https://www.khanacademy.org/mission/algebra) - 35%
 * [Khan Algebra II Mission](https://www.khanacademy.org/mission/algebra2) - 34%
 
 #### Geometry and Trigonometry
