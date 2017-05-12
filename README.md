@@ -170,6 +170,12 @@ Follows the first half of [Mathematics for Computer Scientists 2010](https://ocw
 * [Algorithmic Thinking II](https://www.coursera.org/learn/algorithmic-thinking-2)
 
 
+### Artificial Intelligence
+* https://www.youtube.com/watch?feature=player_embedded&v=J6PBD-wNEDs
+* https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-868j-the-society-of-mind-fall-2011/video-lectures/
+* http://ai.berkeley.edu/lecture_videos.html
+* https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373
+
 ### Machine Learning
 * [Machine Learning](https://www.coursera.org/specializations/machine-learning)
 
@@ -181,9 +187,9 @@ Follows the first half of [Mathematics for Computer Scientists 2010](https://ocw
 * https://www.coursera.org/specializations/data-mining
 * https://www.coursera.org/specializations/machine-learning
 * http://web.stanford.edu/class/cs20si/syllabus.html
-* http://ai.berkeley.edu/home.html
+* https://work.caltech.edu/telecourse.html
 
-### Deep Learning 
+### Neural Networks and Deep Learning 
 * [Practical Deep Learning For Coders](http://course.fast.ai/)
 * http://course.fast.ai/
 * http://www.deeplearningbook.org/
@@ -192,10 +198,14 @@ Follows the first half of [Mathematics for Computer Scientists 2010](https://ocw
 * https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH
 * https://www.youtube.com/playlist?list=PLlJy-eBtNFt6EuMxFYRiNRS07MCWN5UIA
 * http://rll.berkeley.edu/deeprlcourse/
+* http://rll.berkeley.edu/deeprlcourse/#lecture-videos
+* http://rll.berkeley.edu/deeprlcourse/
 * http://introtodeeplearning.com/index.html
 * https://www.youtube.com/watch?v=21EiKfQYZXc&app=desktop
 * https://courses.csail.mit.edu/6.042/spring17/mcs.pdf
 * http://yerevann.com/a-guide-to-deep-learning/
+* https://www.coursera.org/learn/neural-networks
+* https://www.youtube.com/playlist?list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu
 
 ### Cryptography
 * [Cryptography I](https://www.coursera.org/learn/crypto)
@@ -204,9 +214,11 @@ Follows the first half of [Mathematics for Computer Scientists 2010](https://ocw
 
 ### NLP
 * https://github.com/oxford-cs-deepnlp-2017/lectures
+* https://www.youtube.com/watch?v=OQQ-W_63UgQ&list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6
 
 ### Image and Computer Vision
 * https://www.coursera.org/learn/digital/home/welcome
+* http://cs231n.stanford.edu/syllabus.html
 
 ### Electives
 * [Hotel Management II - Fundamentals of Revenue Management](https://www.coursera.org/learn/fundamentals-of-revenue-management)
@@ -222,7 +234,7 @@ Follows the first half of [Mathematics for Computer Scientists 2010](https://ocw
 ### 📚 Books
 * Land of lisp
 * Pragmatic Programmer
-* Cracking the coding interview
+
 
 ### Resources
 * http://blog.interviewing.io/lessons-from-3000-technical-interviews/
