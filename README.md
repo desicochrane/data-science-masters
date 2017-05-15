@@ -77,6 +77,7 @@ Follow the famous MIT 18.01 [Single Variable Calculus 2010](https://ocw.mit.edu/
 * [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
 * https://graphicallinearalgebra.net/
 * http://kam.mff.cuni.cz/~matousek/stml-53-matousek-1.pdf
+* https://cs.brown.edu/video/channels/coding-matrix-fall-2014/
 
 
 ## Discrete Mathematics I
