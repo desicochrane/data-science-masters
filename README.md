@@ -176,6 +176,7 @@ Follows the first half of [Mathematics for Computer Scientists 2010](https://ocw
 * https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-868j-the-society-of-mind-fall-2011/video-lectures/
 * http://ai.berkeley.edu/lecture_videos.html
 * https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373
+* http://aiplaybook.a16z.com/
 
 ### Machine Learning
 * [Machine Learning](https://www.coursera.org/specializations/machine-learning)
