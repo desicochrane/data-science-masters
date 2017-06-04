@@ -7,6 +7,7 @@ This is my personal self-study plan to acheive a Masters graduate understanding 
 * Deploy machine learning service(s) to production that deal with each of common data formats (text, image, audio, video)
 * Deep understanding of solving common AI problems (regression, classification, translation, recommender systems, games)
 * Deep understanding and implementation of the common AI techniques (linear regression, logistic regression, support vector machines, decision trees, neural networks, search)
+* Audit of the industry, top university courses, books etc.
 
 ## Motivation and Focus
 There is a lot of math and theory in this plan, and for good reason. It is tempting (and for some, sufficient) to treat a lot of data science / AI / machine learning as working with "black box" tools. That is to say, it is true that you can perform tasks like linear regression by simply plugging your data into a tool and learning to configure the tool without a deep understanding of how it works - and certainly without the ability to build the tool yourself from first principles.
