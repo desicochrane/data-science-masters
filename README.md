@@ -51,8 +51,6 @@ By the end of block 0 you should feel like you just finished at the top of your 
 - [ ] Khan Statistics and Probability
 
 #### Supplementary Material
-
-- [ ] 📚 [Trigonometric Delights](http://press.princeton.edu/titles/9992.html)
 - [x] 📚 [The Joy of X](https://www.amazon.com/Joy-Guided-Tour-Math-Infinity/dp/0544105850)
 
 
