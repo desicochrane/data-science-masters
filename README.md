@@ -216,6 +216,19 @@ Follows the first half of [Mathematics for Computer Scientists 2010](https://ocw
 * https://work.caltech.edu/telecourse.html
 
 ### Neural Networks and Deep Learning 
+
+Goals:
+
+- [ ] different activation functions (sigmoid/tanh/relu)
+- [ ] different cost functions
+- [ ] with and without bias units
+- [ ] classification and regression problems
+- [ ] text / binary / image / recommenders
+- [ ] batch vs stochastic
+- [ ] JS, Python, PHP, Matlab, TensorFlow, SciKitLearn
+- [ ] create visualizations and blog explanations
+- [ ] Audit best courses / books
+
 * [Practical Deep Learning For Coders](http://course.fast.ai/)
 * http://course.fast.ai/
 * http://www.deeplearningbook.org/
