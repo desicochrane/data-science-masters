@@ -1,15 +1,37 @@
 # Data Science Masters
 
-## Goals
-* Compete in Kaggle competition and be in top 20%
-* Deployed ML service to cloud for Structured data, text, Image, Video, audio
+This is my personal self-study plan to acheive a Masters graduate understanding of data-science.
 
+## Goals
+* Compete in [Kaggle competition](https://www.kaggle.com/) and score in top 20%
+* Deploy machine learning service(s) to production that deal with each of common data formats (text, image, audio, video)
+
+## Motivation and Focus
+There is a lot of math and theory in this plan, and for good reason. It is tempting (and for some, sufficient) to treat a lot of data science / AI / machine learning as working with "black box" tools. That is to say, it is true that you can perform tasks like linear regression and recommender systems by simply plugging your data into a tool and learning to configure the tool without a deep understanding of how the tool works, and certainly without the ability to build the tool from yourself from first principles. However, while this might be fine for some people, I believe this is shortsighted for the following reasons:
+
+* The field of AI and data science is still very much in an developmental stage. We are in a time where many unsolved problems are being solved, and innovations are being contributed. A deeper understanding of data-science is what will be the difference between a technician using tools, and a scientist able to discover new tools.
+
+* By deeply understanding the "black boxes" will you be able to appropriately diagnose and handle the cases that are unique to your problems / industry / data set. This could be the critical competitive difference between you and others.
+
+* Access to state of the art. Being able to read newly published academic papers to understand and implement means you are not limited to the existing tools. It might be a subtle discovery in a new research paper that provides just the advantage you needed to turn your intractible problem into something easily handled.
+
+* This stuff is just awesome.
+
+## Study Plan Overview
+The study plan is to be divided into blocks, designed to be taken in sequence. These can be thought of as the study semesters / terms that universities and schools tend to use to structure their programs.
+
+* Block 0 - High school math (algebra, geometry, pre-calculus)
+* Block 1 - College math (discrete math, linear algebra, and calculus) and introduction to machine learning
+* Block 2 - Computational linear algebra and statistics, and introduction to artificial intelligence
+* Block 3 - Algorithms and Deep Learning
+* ...
+
+It is "ok" to look ahead in the blocks and study a bit ahead, in fact that's been proven as a very effective way to learn. So long as the general trend is that of finishing earlier blocks before later blocks.
 
 # Block 0
-Math Foundations - before getting into the course, build up "basic" mathematical foundations. Basically get yourself to a level as if you had just finished top of the class in high school math at a school with awesome math teachers.
+High school math - build up "basic" mathematical foundations. Not everyone was lucky enough to have a good start with mathematics in school. So the goal here is to 'level the playing field' and get your foundations as strong as those lucky kids.
 
-Unanswered questions: 
-- Why math? Why before anything else? Why these math topics? Why these courses?
+By the end of block 0 you should feel like you just finished at the top of your math class at a highschool - and that you went to a highschool where the teachers were awesome.
 
 #### Algebra
 * [Khan Pre-Algebra](https://www.khanacademy.org/mission/pre-algebra) - 33%
@@ -104,7 +126,6 @@ Follows the first half of [Mathematics for Computer Scientists 2010](https://ocw
 
 ## Block 2
 
-#### Calculus II
 * Statistics and Probability Khan
 * Machine Learning II
 * Linear Algebra II
