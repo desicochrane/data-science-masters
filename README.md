@@ -7,7 +7,9 @@ This is my personal self-study plan to acheive a Masters graduate understanding 
 * Deploy machine learning service(s) to production that deal with each of common data formats (text, image, audio, video)
 
 ## Motivation and Focus
-There is a lot of math and theory in this plan, and for good reason. It is tempting (and for some, sufficient) to treat a lot of data science / AI / machine learning as working with "black box" tools. That is to say, it is true that you can perform tasks like linear regression and recommender systems by simply plugging your data into a tool and learning to configure the tool without a deep understanding of how the tool works, and certainly without the ability to build the tool from yourself from first principles. However, while this might be fine for some people, I believe this is shortsighted for the following reasons:
+There is a lot of math and theory in this plan, and for good reason. It is tempting (and for some, sufficient) to treat a lot of data science / AI / machine learning as working with "black box" tools. That is to say, it is true that you can perform tasks like linear regression by simply plugging your data into a tool and learning to configure the tool without a deep understanding of how it works - and certainly without the ability to build the tool yourself from first principles.
+
+While this approach might be suffice for some people, I believe it is shortsighted for the following reasons:
 
 * The field of AI and data science is still very much in an developmental stage. We are in a time where many unsolved problems are being solved, and innovations are being contributed. A deeper understanding of data-science is what will be the difference between a technician using tools, and a scientist able to discover new tools.
 
