@@ -258,20 +258,12 @@ Goals:
 * https://www.coursera.org/learn/digital/home/welcome
 * http://cs231n.stanford.edu/syllabus.html
 
-### Electives
-* [Hotel Management II - Fundamentals of Revenue Management](https://www.coursera.org/learn/fundamentals-of-revenue-management)
-* [Hotel Management III - Demand Management](https://www.coursera.org/learn/demandmanagement)
-* Coursera Specialization - Think Again Specialization
+* https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-868j-the-society-of-mind-fall-2011/video-lectures/
 * [Statistical Machine Learning 10-702/36-702](http://www.stat.cmu.edu/~larry/=sml/)
 * Justice (Edx / Harvard)
 * http://cs231n.github.io/python-numpy-tutorial/
 * http://www.scipy-lectures.org/
 * Data science in python coursera
-
-
-### 📚 Books
-* Land of lisp
-* Pragmatic Programmer
 
 
 ### Resources
