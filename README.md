@@ -44,8 +44,8 @@ By the end of block 0 you should feel like you just finished at the top of your 
 - [ ] [Khan Algebra II Mission](https://www.khanacademy.org/mission/algebra2) - 34%
 
 #### Geometry and Trigonometry
-- [ ] [Khan Highschool Geometry Mission](https://www.khanacademy.org/mission/geometry) - 33%
-- [ ] [Khan Trigonometry Mission](https://www.khanacademy.org/mission/trigonometry) - 62%
+- [ ] [Khan Highschool Geometry Mission](https://www.khanacademy.org/mission/geometry) - 40%
+- [ ] [Khan Trigonometry Mission](https://www.khanacademy.org/mission/trigonometry) - 65%
 
 #### Pre-Calculus
 - [ ] [Khan Pre-Calculus Mission](https://www.khanacademy.org/mission/precalculus) - 35%
