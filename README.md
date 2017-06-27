@@ -265,6 +265,7 @@ Goals:
 * http://www.scipy-lectures.org/
 * Data science in python coursera
 
+https://unsupervisedmethods.com/over-150-of-the-best-machine-learning-nlp-and-python-tutorials-ive-found-ffce2939bd78
 
 ### Resources
 * http://blog.interviewing.io/lessons-from-3000-technical-interviews/
