@@ -39,7 +39,7 @@ High school math - build up "basic" mathematical foundations. Not everyone was l
 By the end of block 0 you should feel like you just finished at the top of your math class at a highschool - and that you went to a highschool where the teachers were awesome.
 
 #### Algebra
-- [ ] [Khan Pre-Algebra](https://www.khanacademy.org/mission/pre-algebra) - 33%
+- [ ] [Khan Pre-Algebra](https://www.khanacademy.org/mission/pre-algebra) - 37%
 - [ ] [Khan Algebra I Mission](https://www.khanacademy.org/mission/algebra) - 35%
 - [ ] [Khan Algebra II Mission](https://www.khanacademy.org/mission/algebra2) - 34%
 
