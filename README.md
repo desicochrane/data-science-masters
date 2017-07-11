@@ -40,7 +40,7 @@ By the end of block 0 you should feel like you just finished at the top of your 
 
 #### Algebra
 - [ ] [Khan Pre-Algebra](https://www.khanacademy.org/mission/pre-algebra) - 38%
-- [ ] [Khan Algebra I Mission](https://www.khanacademy.org/mission/algebra) - 36%
+- [ ] [Khan Algebra I Mission](https://www.khanacademy.org/mission/algebra) - 38%
 - [ ] [Khan Algebra II Mission](https://www.khanacademy.org/mission/algebra2) - 37%
 
 #### Geometry and Trigonometry
