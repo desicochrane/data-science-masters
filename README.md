@@ -39,16 +39,16 @@ High school math - build up "basic" mathematical foundations. Not everyone was l
 By the end of block 0 you should feel like you just finished at the top of your math class at a highschool - and that you went to a highschool where the teachers were awesome.
 
 #### Algebra
-- [ ] [Khan Pre-Algebra](https://www.khanacademy.org/mission/pre-algebra) - 37%
-- [ ] [Khan Algebra I Mission](https://www.khanacademy.org/mission/algebra) - 35%
-- [ ] [Khan Algebra II Mission](https://www.khanacademy.org/mission/algebra2) - 34%
+- [ ] [Khan Pre-Algebra](https://www.khanacademy.org/mission/pre-algebra) - 38%
+- [ ] [Khan Algebra I Mission](https://www.khanacademy.org/mission/algebra) - 36%
+- [ ] [Khan Algebra II Mission](https://www.khanacademy.org/mission/algebra2) - 37%
 
 #### Geometry and Trigonometry
 - [ ] [Khan Highschool Geometry Mission](https://www.khanacademy.org/mission/geometry) - 40%
 - [ ] [Khan Trigonometry Mission](https://www.khanacademy.org/mission/trigonometry) - 65%
 
 #### Pre-Calculus
-- [ ] [Khan Pre-Calculus Mission](https://www.khanacademy.org/mission/precalculus) - 35%
+- [ ] [Khan Pre-Calculus Mission](https://www.khanacademy.org/mission/precalculus) - 36%
 
 #### Statistics and Probability
 - [ ] Khan Statistics and Probability
