@@ -48,7 +48,7 @@ By the end of block 0 you should feel like you just finished at the top of your 
 - [ ] [Khan Trigonometry Mission](https://www.khanacademy.org/mission/trigonometry) - 65%
 
 #### Pre-Calculus
-- [ ] [Khan Pre-Calculus Mission](https://www.khanacademy.org/mission/precalculus) - 36%
+- [ ] [Khan Pre-Calculus Mission](https://www.khanacademy.org/mission/precalculus) - 38%
 
 #### Statistics and Probability
 - [ ] Khan Statistics and Probability
