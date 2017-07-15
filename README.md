@@ -107,7 +107,17 @@ By the end of block 0 you should feel like you just finished at the top of your 
 
 ## Block 2 - Statistics and Machine Learning Foundations
 
-### Machine Learning
+### Applied Data Science with Python Coursera Specialization
+- [ ] [Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis)
+- [ ] Applied Plotting, Charting & Data Representation in Python
+- [ ] Applied Machine Learning in Python
+- [ ] Applied Text Mining in Python
+- [ ] Applied Social Network Analysis in Python
+
+
+### Machine Learning Courser Specialization
+
+
 * [Machine Learning](https://www.coursera.org/learn/machine-learning/) (Week 4 out of 11)
 * https://work.caltech.edu/telecourse.html
 * https://www.youtube.com/watch?v=bxe2T-V8XRs
