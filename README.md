@@ -2,6 +2,10 @@
 
 This is my personal self-study plan to acheive a Masters graduate understanding of data-science.
 
+<div style="text-align: center"><img src="/drew_conway_venn.jpg" /></div>
+
+Hacking, Math. In depth exploration.
+
 ## Goals
 * Compete in [Kaggle competition](https://www.kaggle.com/) and score in top 20%
 * Deploy machine learning service(s) to production that deal with each of common data formats (text, image, audio, video)
