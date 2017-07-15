@@ -26,76 +26,50 @@ While this approach might be suffice for some people, I believe it is shortsight
 The study plan is to be divided into blocks, designed to be taken in sequence. These can be thought of as the study semesters / terms that universities and schools tend to use to structure their programs.
 
 * Block 0 - High school math (algebra, geometry, pre-calculus)
-* Block 1 - College math (discrete math, linear algebra, and calculus) and introduction to machine learning
-* Block 2 - Computational linear algebra and statistics, and introduction to artificial intelligence
+* Block 1 - College math (discrete math, linear algebra, and calculus) 
+* Block 2 - Computational linear algebra and statistics, and introduction to artificial intelligence and introduction to machine learning
 * Block 3 - Algorithms and Deep Learning
 * ...
 
 It is "ok" to look ahead in the blocks and study a bit ahead, in fact that's been proven as a very effective way to learn. So long as the general trend is that of finishing earlier blocks before later blocks.
 
-# Block 0
-High school math - build up "basic" mathematical foundations. Not everyone was lucky enough to have a good start with mathematics in school. So the goal here is to 'level the playing field' and get your foundations as strong as those lucky kids.
+## Block 0 - Highschool Math Foundations
+
+Build up "basic" mathematical foundations. Not everyone was lucky enough to have a good start with mathematics in school. So the goal here is to 'level the playing field' and get your foundations as strong as those lucky kids.
 
 By the end of block 0 you should feel like you just finished at the top of your math class at a highschool - and that you went to a highschool where the teachers were awesome.
 
 #### Algebra
 - [ ] [Khan Pre-Algebra](https://www.khanacademy.org/mission/pre-algebra) - 42%
-- [ ] [Khan Algebra I Mission](https://www.khanacademy.org/mission/algebra) - 46%
-- [ ] [Khan Algebra II Mission](https://www.khanacademy.org/mission/algebra2) - 43%
+- [ ] [Khan Algebra I](https://www.khanacademy.org/mission/algebra) - 46%
+- [ ] [Khan Algebra II](https://www.khanacademy.org/mission/algebra2) - 43%
 
-#### Geometry and Trigonometry
-- [ ] [Khan Highschool Geometry Mission](https://www.khanacademy.org/mission/geometry) - 52%
-- [ ] [Khan Trigonometry Mission](https://www.khanacademy.org/mission/trigonometry) - 71%
+#### Geometry
+- [ ] [Khan Highschool](https://www.khanacademy.org/mission/geometry) - 52%
+- [ ] [Khan Trigonometry](https://www.khanacademy.org/mission/trigonometry) - 71%
 
-#### Pre-Calculus
+#### PreCalculus
 - [ ] [Khan Pre-Calculus Mission](https://www.khanacademy.org/mission/precalculus) - 39%
 
 #### Statistics and Probability
 - [ ] Khan Statistics and Probability
 
-#### Supplementary Material
+*Supplementary Material*
 - [x] 📚 [The Joy of X](https://www.amazon.com/Joy-Guided-Tour-Math-Infinity/dp/0544105850)
 
 
-# Block 1
-
-#### Discrete Mathematics - Proofs
-
-#### Discrete Mathematics - Graphs and Structures
-
-#### Discrete Mathematics - Combinatorics and Counting
-
-* [Introduction to Enumerative Combinatorics](https://www.coursera.org/learn/enumerative-combinatorics)
-* [Mathematics for Computer Science 2010 | Lecture 16 - Counting Rules I](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-16-counting-rules-i/)
-* [Mathematics for Computer Science 2010 | Lecture 16 - Counting Rules II](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-17-counting-rules-ii/)
-* [Khan Permutations](https://www.khanacademy.org/math/precalculus/prob-comb/combinatorics-precalc/v/factorial-and-counting-seat-arrangements)
-* [Khan Combinations](https://www.khanacademy.org/math/precalculus/prob-comb/combinations/v/introduction-to-combinations)
-
-
-* https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/recitations/MIT6_042JF10_rec15.pdf
-* https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/recitations/MIT6_042JF10_rec16.pdf
-
-#### Discrete Mathematics - Probability
-
-#### Discrete Mathematics - Recurrences
+## Block 1 - College Math
 
 ## Calculus I
-* [Khan AP Calculus AB](https://www.khanacademy.org/mission/ap-calculus-ab) - 2%
-* [Khan AP Calculus AB](https://www.khanacademy.org/mission/ap-calculus-bc) - 4%
 
-Follow the famous MIT 18.01 [Single Variable Calculus 2010](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/index.htm)
+- [ ] [Khan AP Calculus AB](https://www.khanacademy.org/mission/ap-calculus-ab) - 2%
+- [ ] [Khan AP Calculus AB](https://www.khanacademy.org/mission/ap-calculus-bc) - 4%
+- [ ] [Khan Academy Calculus Track](https://www.khanacademy.org/math/calculus-home) - 5%
+- [ ] [MIT 18.01 Single Variable Calculus 2010](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/index.htm)
 
-**Pre-requisites**
-
-"Single Variable Calculus is a first-year, first-semester course at MIT. The prerequisites are high school algebra and trigonometry. Prior experience with calculus is helpful but not essential"
-
-**Supplementary Material**
-
+#### Supplementary Material
 * [Calculus, Better Explained: A Guide To Developing Lasting Intuition](https://betterexplained.com/calculus/lesson-1)
-* [Khan Academy Calculus Track](https://www.khanacademy.org/math/calculus-home) - 5%
-* [Calculus One](https://www.coursera.org/learn/calculus1)
-* [Calculus Two: Sequences and Series](https://www.coursera.org/learn/advanced-calculus)
-* https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr
+* [Essence of Calculus](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
 
 ## Linear Algebra I
 * [Khan Linear Algebra](https://www.khanacademy.org/math/linear-algebra)
@@ -103,40 +77,56 @@ Follow the famous MIT 18.01 [Single Variable Calculus 2010](https://ocw.mit.edu/
 * https://graphicallinearalgebra.net/
 * http://kam.mff.cuni.cz/~matousek/stml-53-matousek-1.pdf
 * https://cs.brown.edu/video/channels/coding-matrix-fall-2014/
+* [Coding the Matrix](http://codingthematrix.com/)
+* https://www.udacity.com/course/linear-algebra-refresher-course--ud953
 
+## Discrete Mathematics
 
-## Discrete Mathematics I
+### Proofs
+- [ ] 📚 [How to Prove It](https://www.amazon.com/How-Prove-Structured-Approach-2nd/dp/0521675995)
 
-#### Pre-requisites
-"The prerequisite is 18.01 Single Variable Calculus. In particular, some familiarity with sequences and series, limits, and differentiation and integration of functions of one variable are necessary."
+#### Graphs and Structures
 
-Follows the first half of [Mathematics for Computer Scientists 2010](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/) and [Mathematics for Computer Scientists 2015](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/)
+### Combinatorics and Counting
+-[ ] [Introduction to Enumerative Combinatorics](https://www.coursera.org/learn/enumerative-combinatorics)
 
 #### Supplementary Material
 * [Mathematics for Computer Science (2017)](https://courses.csail.mit.edu/6.042/spring17/mcs.pdf)
 * [Mathematics for Computer Science (2010)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/readings/MIT6_042JF10_notes.pdf)
 * [Mathematics for Computer Science (2015)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/readings/MIT6_042JS15_textbook.pdf)
-* 📚 [How to Prove It](https://www.amazon.com/How-Prove-Structured-Approach-2nd/dp/0521675995)
-* https://www.coursera.org/learn/discrete-mathematics
-* https://www.coursera.org/learn/enumerative-combinatorics
+* [Khan Permutations](https://www.khanacademy.org/math/precalculus/prob-comb/combinatorics-precalc/v/factorial-and-counting-seat-arrangements)
+* [Khan Combinations](https://www.khanacademy.org/math/precalculus/prob-comb/combinations/v/introduction-to-combinations)
 
 
-## Machine Learning
+* https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/recitations/MIT6_042JF10_rec15.pdf
+* https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/recitations/MIT6_042JF10_rec16.pdf
+
+#### Probability
+
+#### Recurrences
+
+## Block 2 - Statistics and Machine Learning Foundations
+
+### Machine Learning
 * [Machine Learning](https://www.coursera.org/learn/machine-learning/) (Week 4 out of 11)
 * https://work.caltech.edu/telecourse.html
 * https://www.youtube.com/watch?v=bxe2T-V8XRs
 * https://www.youtube.com/watch?v=UVwwYZMFocg&list=PLiaHhY2iBX9ihLasvE8BKnS2Xg8AhY6iV&index=8
+* https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-868j-the-society-of-mind-fall-2011/video-lectures/
+* MIT ai course (patrick)
 
-## Block 2
+### Statistics
 
+* Edx probability (MIT)
 * Statistics and Probability Khan
-* Machine Learning II
-* Linear Algebra II
-* Artificial Intelligence (https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/) All assignments, lectures, mega-recitations, problem sets. Implement something from each week.
+
 
 ## Block 3
 
 * Probability I
+* Machine Learning II
+* Linear Algebra II
+* Artificial Intelligence (https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/) All assignments, lectures, mega-recitations, problem sets. Implement something from each week.
 * Linear Algebra III
 * *Elective*
 
@@ -174,16 +164,6 @@ Follows the first half of [Mathematics for Computer Scientists 2010](https://ocw
 
 * Capstone project
 
-## Courses
-
-
-### Linear Algebra
-* [Coding the Matrix](http://codingthematrix.com/)
-* https://www.udacity.com/course/linear-algebra-refresher-course--ud953
-
-### Probability
-* Edx probability (MIT)
-
 
 ### Algorithms
 * [Algorithms I - Divide and Conquer](https://www.coursera.org/learn/algorithms-divide-conquer)
@@ -197,15 +177,13 @@ Follows the first half of [Mathematics for Computer Scientists 2010](https://ocw
 
 ### Artificial Intelligence
 * https://www.youtube.com/watch?feature=player_embedded&v=J6PBD-wNEDs
-* https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-868j-the-society-of-mind-fall-2011/video-lectures/
+
 * http://ai.berkeley.edu/lecture_videos.html
 * https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373
 * http://aiplaybook.a16z.com/
 
 ### Machine Learning
 * [Machine Learning](https://www.coursera.org/specializations/machine-learning)
-
-
 * https://www.udacity.com/ai
 * https://www.udacity.com/drive
 * https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009
@@ -260,7 +238,6 @@ Goals:
 
 * https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-868j-the-society-of-mind-fall-2011/video-lectures/
 * [Statistical Machine Learning 10-702/36-702](http://www.stat.cmu.edu/~larry/=sml/)
-* Justice (Edx / Harvard)
 * http://cs231n.github.io/python-numpy-tutorial/
 * http://www.scipy-lectures.org/
 * Data science in python coursera
