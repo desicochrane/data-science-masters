@@ -46,14 +46,14 @@ By the end of block 0 you should feel like you just finished at the top of your 
 #### Algebra
 - [ ] [Khan Pre-Algebra](https://www.khanacademy.org/mission/pre-algebra) - 42%
 - [ ] [Khan Algebra I](https://www.khanacademy.org/mission/algebra) - 46%
-- [ ] [Khan Algebra II](https://www.khanacademy.org/mission/algebra2) - 44%
+- [ ] [Khan Algebra II](https://www.khanacademy.org/mission/algebra2) - 45%
 
 #### Geometry
-- [ ] [Khan Highschool](https://www.khanacademy.org/mission/geometry) - 52%
+- [ ] [Khan Highschool](https://www.khanacademy.org/mission/geometry) - 54%
 - [ ] [Khan Trigonometry](https://www.khanacademy.org/mission/trigonometry) - 71%
 
 #### PreCalculus
-- [ ] [Khan Pre-Calculus Mission](https://www.khanacademy.org/mission/precalculus) - 39%
+- [ ] [Khan Pre-Calculus Mission](https://www.khanacademy.org/mission/precalculus) - 42%
 
 #### Statistics and Probability
 - [ ] Khan Statistics and Probability
