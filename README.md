@@ -49,7 +49,7 @@ By the end of block 0 you should feel like you just finished at the top of your 
 - [ ] [Khan Algebra II](https://www.khanacademy.org/mission/algebra2) - 45%
 
 #### Geometry
-- [ ] [Khan Highschool](https://www.khanacademy.org/mission/geometry) - 54%
+- [ ] [Khan Highschool Geometry](https://www.khanacademy.org/mission/geometry) - 54%
 - [ ] [Khan Trigonometry](https://www.khanacademy.org/mission/trigonometry) - 71%
 
 #### PreCalculus
