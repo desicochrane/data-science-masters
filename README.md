@@ -187,7 +187,7 @@ By the end of block 0 you should feel like you just finished at the top of your 
 * [Intro to Algorithms](https://www.udacity.com/course/intro-to-algorithms--cs215)
 * [Algorithmic Thinking I](https://www.coursera.org/learn/algorithmic-thinking-1)
 * [Algorithmic Thinking II](https://www.coursera.org/learn/algorithmic-thinking-2)
-
+* https://www.youtube.com/watch?v=T_WffoMAaMA
 
 ### Artificial Intelligence
 * https://www.youtube.com/watch?feature=player_embedded&v=J6PBD-wNEDs
