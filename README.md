@@ -111,6 +111,9 @@ By the end of block 0 you should feel like you just finished at the top of your 
 
 ## Block 2 - Statistics and Machine Learning Foundations
 
+https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-10?utm_source=OCW&utm_medium=CHP&utm_campaign=OCW
+https://www.edx.org/course/introduction-computational-thinking-data-mitx-6-00-2x-5?utm_source=OCW&utm_medium=CHP&utm_campaign=OCW
+
 ### Applied Data Science with Python Coursera Specialization
 - [ ] [Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis)
 - [ ] Applied Plotting, Charting & Data Representation in Python
@@ -152,6 +155,14 @@ By the end of block 0 you should feel like you just finished at the top of your 
 
 ### Algorithms
 * [MIT 6.006 - Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/index.htm)
+
+A firm grasp of Python and a solid background in discrete mathematics are necessary prerequisites to this course. You are expected to have mastered the material presented in [6.01 Introduction to EECS I](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/) and 6.042J Mathematics for Computer Science.
+
+If you have not taken and been successful in each of these subjects, please speak with a TA or professor before enrolling. We do allow students who have equivalent, other experience with the material described above to enroll, but with the firm understanding that mastery of this material is assumed and that course staff will not feel obligated to cover it or to help students who are struggling with it.
+
+6.006 is a 12-unit (4-0-8) subject and serves as a Foundational Computer Science subject under the new curriculum. It is a direct prerequisite for 6.046 Design and Analysis of Algorithms, the theory header.
+
+
 
 1. Introduction
     * Algorithmic thinking, peak finding
@@ -207,7 +218,6 @@ By the end of block 0 you should feel like you just finished at the top of your 
 
 ### Artificial Intelligence
 * https://www.youtube.com/watch?feature=player_embedded&v=J6PBD-wNEDs
-
 * http://ai.berkeley.edu/lecture_videos.html
 * https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373
 * http://aiplaybook.a16z.com/
