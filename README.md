@@ -92,7 +92,7 @@ By the end of block 0 you should feel like you just finished at the top of your 
 #### Graphs and Structures
 
 ### Combinatorics and Counting
--[ ] [Introduction to Enumerative Combinatorics](https://www.coursera.org/learn/enumerative-combinatorics)
+- [ ] [Introduction to Enumerative Combinatorics](https://www.coursera.org/learn/enumerative-combinatorics)
 
 #### Supplementary Material
 * [Mathematics for Computer Science (2017)](https://courses.csail.mit.edu/6.042/spring17/mcs.pdf)
