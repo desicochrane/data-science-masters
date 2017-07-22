@@ -150,6 +150,21 @@ By the end of block 0 you should feel like you just finished at the top of your 
 * Algorithms I
 * *Elective*
 
+### Algorithms
+* [MIT 6.006 - Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/index.htm)
+
+1. Introduction
+    * Algorithmic thinking, peak finding
+    * Models of computation, Python cost model, document distance
+    - [ ] [Lecture 1: Algorithmic Thinking, Peak Finding](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/recitation-videos/recitation-1-asymptotic-complexity-peak-finding)
+    - [ ] [Recitation 1: Asymptotic Complexity, Peak Finding](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/recitation-videos/recitation-1-asymptotic-complexity-peak-finding)
+    - [ ] [Lecture 2: Models of Computation, Document Distance](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-2-models-of-computation-document-distance)
+    - [ ] [https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/recitation-videos/recitation-2-python-cost-model-document-distance](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/recitation-videos/recitation-2-python-cost-model-document-distance)
+    
+
+*Resources*
+📚 [Introduction to Algorithms (CLRS)](https://www.amazon.com/exec/obidos/ASIN/0262033844/ref=nosim/mitopencourse-20)
+
 ## Block 5
 
 * Algorithms II
@@ -188,6 +203,7 @@ By the end of block 0 you should feel like you just finished at the top of your 
 * [Algorithmic Thinking I](https://www.coursera.org/learn/algorithmic-thinking-1)
 * [Algorithmic Thinking II](https://www.coursera.org/learn/algorithmic-thinking-2)
 * https://www.youtube.com/watch?v=T_WffoMAaMA
+
 
 ### Artificial Intelligence
 * https://www.youtube.com/watch?feature=player_embedded&v=J6PBD-wNEDs
