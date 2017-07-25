@@ -29,8 +29,8 @@ While this approach might be suffice for some people, I believe it is shortsight
 ## Study Plan Overview
 The study plan is to be divided into blocks, designed to be taken in sequence. These can be thought of as the study semesters / terms that universities and schools tend to use to structure their programs.
 
-* Block 0 - High school math (algebra, geometry, pre-calculus)
-* Block 1 - College math (discrete math, linear algebra, and calculus) 
+* Block 0 - High school math (algebra, geometry, pre-calculus, probability and statistics)
+* Block 1 - College math (discrete math, linear algebra, calculus, probability) 
 * Block 2 - Computational linear algebra and statistics, and introduction to artificial intelligence and introduction to machine learning
 * Block 3 - Algorithms and Deep Learning
 * ...
@@ -45,15 +45,15 @@ By the end of block 0 you should feel like you just finished at the top of your 
 
 #### Algebra
 - [ ] [Khan Pre-Algebra](https://www.khanacademy.org/mission/pre-algebra) - 65%
-- [ ] [Khan Algebra I](https://www.khanacademy.org/mission/algebra) - 46%
-- [ ] [Khan Algebra II](https://www.khanacademy.org/mission/algebra2) - 46%
+- [ ] [Khan Algebra I](https://www.khanacademy.org/mission/algebra) - 47%
+- [ ] [Khan Algebra II](https://www.khanacademy.org/mission/algebra2) - 48%
 
 #### Geometry
-- [ ] [Khan Highschool Geometry](https://www.khanacademy.org/mission/geometry) - 53%
+- [ ] [Khan Highschool Geometry](https://www.khanacademy.org/mission/geometry) - 56%
 - [ ] [Khan Trigonometry](https://www.khanacademy.org/mission/trigonometry) - 71%
 
 #### PreCalculus
-- [ ] [Khan Pre-Calculus Mission](https://www.khanacademy.org/mission/precalculus) - 42%
+- [ ] [Khan Pre-Calculus Mission](https://www.khanacademy.org/mission/precalculus) - 46%
 
 #### Statistics and Probability
 - [ ] Khan Statistics and Probability
@@ -76,6 +76,7 @@ By the end of block 0 you should feel like you just finished at the top of your 
 * [Essence of Calculus](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
 
 ## Linear Algebra I
+* [Fast AI Computational Linear Algebra](https://www.youtube.com/playlist?list=PLtmWHNX-gukIc92m1K0P6bIOnZb-mg0hY)
 * [Khan Linear Algebra](https://www.khanacademy.org/math/linear-algebra)
 * [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
 * https://graphicallinearalgebra.net/
@@ -110,6 +111,10 @@ By the end of block 0 you should feel like you just finished at the top of your 
 #### Recurrences
 
 ## Block 2 - Statistics and Machine Learning Foundations
+
+### Python and Computation and Data
+* https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-10
+* https://www.edx.org/course/introduction-computational-thinking-data-mitx-6-00-2x-5
 
 https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-10?utm_source=OCW&utm_medium=CHP&utm_campaign=OCW
 https://www.edx.org/course/introduction-computational-thinking-data-mitx-6-00-2x-5?utm_source=OCW&utm_medium=CHP&utm_campaign=OCW
