@@ -2,8 +2,6 @@
 
 This is my personal self-study plan to acheive a Masters graduate understanding of data-science.
 
-<div style="text-align: center"><img src="/drew_conway_venn.jpg" /></div>
-
 Hacking, Math. In depth exploration.
 
 ## Goals
