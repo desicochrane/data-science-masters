@@ -54,7 +54,7 @@ By the end of block 0 you should feel like you just finished at the top of your 
 - [ ] [Khan Pre-Calculus Mission](https://www.khanacademy.org/mission/precalculus) - 46%
 
 #### Statistics and Probability
-- [ ] [Khan Highschool Statistics](https://www.khanacademy.org/mission/probability?ref=mission_callout) - 28%
+- [ ] [Khan Highschool Statistics](https://www.khanacademy.org/mission/probability) - 37%
 
 *Supplementary Material*
 - [x] 📚 [The Joy of X](https://www.amazon.com/Joy-Guided-Tour-Math-Infinity/dp/0544105850)
