@@ -44,17 +44,17 @@ By the end of block 0 you should feel like you just finished at the top of your 
 #### Algebra
 - [ ] [Khan Pre-Algebra](https://www.khanacademy.org/mission/pre-algebra) - 65%
 - [ ] [Khan Algebra I](https://www.khanacademy.org/mission/algebra) - 47%
-- [ ] [Khan Algebra II](https://www.khanacademy.org/mission/algebra2) - 48%
+- [ ] [Khan Algebra II](https://www.khanacademy.org/mission/algebra2) - 50%
 
 #### Geometry
-- [ ] [Khan Highschool Geometry](https://www.khanacademy.org/mission/geometry) - 56%
+- [ ] [Khan Highschool Geometry](https://www.khanacademy.org/mission/geometry) - 57%
 - [ ] [Khan Trigonometry](https://www.khanacademy.org/mission/trigonometry) - 71%
 
 #### PreCalculus
-- [ ] [Khan Pre-Calculus Mission](https://www.khanacademy.org/mission/precalculus) - 46%
+- [ ] [Khan Pre-Calculus Mission](https://www.khanacademy.org/mission/precalculus) - 48%
 
 #### Statistics and Probability
-- [ ] [Khan Highschool Statistics](https://www.khanacademy.org/mission/probability) - 37%
+- [ ] [Khan Highschool Statistics](https://www.khanacademy.org/mission/probability) - 41%
 
 *Supplementary Material*
 - [x] 📚 [The Joy of X](https://www.amazon.com/Joy-Guided-Tour-Math-Infinity/dp/0544105850)
