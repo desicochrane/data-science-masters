@@ -62,14 +62,15 @@ By the end of block 0 you should feel like you just finished at the top of your 
 
 ## Block 1 - College Math
 
-## Calculus I
+#### Calculus I
 
 - [ ] [Khan AP Calculus AB](https://www.khanacademy.org/mission/ap-calculus-ab) - 2%
 - [ ] [Khan AP Calculus AB](https://www.khanacademy.org/mission/ap-calculus-bc) - 4%
 - [ ] [Khan Academy Calculus Track](https://www.khanacademy.org/math/calculus-home) - 5%
 - [ ] [MIT 18.01 Single Variable Calculus 2010](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/index.htm)
 
-#### Supplementary Material
+*Supplementary Material*
+
 * [Calculus, Better Explained: A Guide To Developing Lasting Intuition](https://betterexplained.com/calculus/lesson-1)
 * [Essence of Calculus](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
 
@@ -83,14 +84,14 @@ By the end of block 0 you should feel like you just finished at the top of your 
 * [Coding the Matrix](http://codingthematrix.com/)
 * https://www.udacity.com/course/linear-algebra-refresher-course--ud953
 
-## Discrete Mathematics
+#### Discrete Mathematics
 
-### Proofs
+**Proofs**
 - [ ] 📚 [How to Prove It](https://www.amazon.com/How-Prove-Structured-Approach-2nd/dp/0521675995)
 
-#### Graphs and Structures
+**Graphs and Structures**
 
-### Combinatorics and Counting
+**Combinatorics and Counting**
 - [ ] [Introduction to Enumerative Combinatorics](https://www.coursera.org/learn/enumerative-combinatorics)
 
 #### Supplementary Material
@@ -110,32 +111,22 @@ By the end of block 0 you should feel like you just finished at the top of your 
 
 ## Block 2 - Statistics and Machine Learning Foundations
 
-### Python and Computation and Data
+#### Python and Computation and Data
 * https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-10
 * https://www.edx.org/course/introduction-computational-thinking-data-mitx-6-00-2x-5
 
 https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-10?utm_source=OCW&utm_medium=CHP&utm_campaign=OCW
 https://www.edx.org/course/introduction-computational-thinking-data-mitx-6-00-2x-5?utm_source=OCW&utm_medium=CHP&utm_campaign=OCW
 
-### Applied Data Science with Python Coursera Specialization
-- [ ] [Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis)
-- [ ] Applied Plotting, Charting & Data Representation in Python
-- [ ] Applied Machine Learning in Python
-- [ ] Applied Text Mining in Python
-- [ ] Applied Social Network Analysis in Python
 
+#### Machine Learning by University of Washington on Coursera
 
-### Machine Learning Courser Specialization
+- [ ] [Machine Learning Foundations: A Case Study Approach](https://www.coursera.org/learn/ml-foundations)
+- [X] [Machine Learning: Regression](https://www.coursera.org/learn/ml-regression)
+- [ ] [Machine Learning: Classification](https://www.coursera.org/learn/ml-classification)
+- [ ] [Machine Learning: Clustering & Retrieval](https://www.coursera.org/learn/ml-clustering-and-retrieval)
 
-
-* [Machine Learning](https://www.coursera.org/learn/machine-learning/) (Week 4 out of 11)
-* https://work.caltech.edu/telecourse.html
-* https://www.youtube.com/watch?v=bxe2T-V8XRs
-* https://www.youtube.com/watch?v=UVwwYZMFocg&list=PLiaHhY2iBX9ihLasvE8BKnS2Xg8AhY6iV&index=8
-* https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-868j-the-society-of-mind-fall-2011/video-lectures/
-* MIT ai course (patrick)
-
-### Statistics
+#### Statistics
 
 * Edx probability (MIT)
 * Statistics and Probability Khan
@@ -224,9 +215,9 @@ If you have not taken and been successful in each of these subjects, please spea
 * http://ai.berkeley.edu/lecture_videos.html
 * https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373
 * http://aiplaybook.a16z.com/
+* https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/
 
 ### Machine Learning
-* [Machine Learning](https://www.coursera.org/specializations/machine-learning)
 * https://www.udacity.com/ai
 * https://www.udacity.com/drive
 * https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009
@@ -235,6 +226,12 @@ If you have not taken and been successful in each of these subjects, please spea
 * https://www.coursera.org/specializations/machine-learning
 * http://web.stanford.edu/class/cs20si/syllabus.html
 * https://work.caltech.edu/telecourse.html
+* https://work.caltech.edu/telecourse.html
+* https://www.youtube.com/watch?v=bxe2T-V8XRs
+* https://www.youtube.com/watch?v=UVwwYZMFocg&list=PLiaHhY2iBX9ihLasvE8BKnS2Xg8AhY6iV&index=8
+* https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-868j-the-society-of-mind-fall-2011/video-lectures/
+
+
 
 ### Neural Networks and Deep Learning 
 
