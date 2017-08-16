@@ -216,6 +216,7 @@ If you have not taken and been successful in each of these subjects, please spea
 * https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373
 * http://aiplaybook.a16z.com/
 * https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/
+* http://rll.berkeley.edu/deeprlcourse/
 
 ### Machine Learning
 * https://www.udacity.com/ai
