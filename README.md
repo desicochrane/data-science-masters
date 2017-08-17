@@ -64,9 +64,11 @@ By the end of block 0 you should feel like you just finished at the top of your 
 
 #### Calculus I
 
+- [ ] [Khan differential Calculus](https://www.khanacademy.org/mission/differential-calculus) - 7%
+- [ ] [Khan integral calculus](https://www.khanacademy.org/mission/integral-calculus) - 6 %
 - [ ] [Khan AP Calculus AB](https://www.khanacademy.org/mission/ap-calculus-ab) - 2%
 - [ ] [Khan AP Calculus AB](https://www.khanacademy.org/mission/ap-calculus-bc) - 4%
-- [ ] [Khan Academy Calculus Track](https://www.khanacademy.org/math/calculus-home) - 5%
+
 - [ ] [MIT 18.01 Single Variable Calculus 2010](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/index.htm)
 
 *Supplementary Material*
