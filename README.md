@@ -43,8 +43,8 @@ By the end of block 0 you should feel like you just finished at the top of your 
 
 #### Algebra
 - [ ] [Khan Pre-Algebra](https://www.khanacademy.org/mission/pre-algebra) - 66%
-- [ ] [Khan Algebra I](https://www.khanacademy.org/mission/algebra) - 43%
-- [ ] [Khan Algebra II](https://www.khanacademy.org/mission/algebra2) - 65%
+- [ ] [Khan Algebra I](https://www.khanacademy.org/mission/algebra) - 44%
+- [ ] [Khan Algebra II](https://www.khanacademy.org/mission/algebra2) - 67%
 
 #### Geometry
 - [ ] [Khan Highschool Geometry](https://www.khanacademy.org/mission/geometry) - 55%
@@ -137,7 +137,7 @@ https://www.edx.org/course/introduction-computational-thinking-data-mitx-6-00-2x
 * Probability I
 * Machine Learning II
 * Linear Algebra II
-* Artificial Intelligence (https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/) All assignments, lectures, mega-recitations, problem sets. Implement something from each week.
+* Artificial Intelligence
 * Linear Algebra III
 * *Elective*
 
@@ -231,6 +231,7 @@ If you have not taken and been successful in each of these subjects, please spea
 * https://www.youtube.com/watch?v=bxe2T-V8XRs
 * https://www.youtube.com/watch?v=UVwwYZMFocg&list=PLiaHhY2iBX9ihLasvE8BKnS2Xg8AhY6iV&index=8
 * https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-868j-the-society-of-mind-fall-2011/video-lectures/
+* https://www.coursera.org/specializations/gcp-data-machine-learning
 
 
 
