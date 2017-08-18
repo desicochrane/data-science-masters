@@ -175,8 +175,14 @@ If you have not taken and been successful in each of these subjects, please spea
 ## Block 5
 
 * Algorithms II
-* Deep Learning I
-* *Elective*
+
+#### Deep Learning by deeplearning.ai on Coursera
+
+- [X] [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning/)
+- [ ] [Improving Deep Neural Networks: Hyperparameter Tuning, Regularization, and Optimization](https://www.coursera.org/learn/deep-neural-network)
+- [ ] Structuring Machine Learning Projects
+- [ ] Convolutional Neural Networks
+- [ ] Sequence Models
 
 ## Block 6
 
