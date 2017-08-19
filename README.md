@@ -5,11 +5,10 @@ Self-study plan to acheive mastery in data science.
 ## Goals
 
 * Score top 20% in [Kaggle competitions](https://www.kaggle.com/)
-* Deploy ML services that reflect:
-   * Expert with different **data types** (text, image, audio, video)
-   * Expert with different **techniques**  (regression, SVM, deep learning, genetic algorithms, etc)
-   * Familiar with modern **tooling** (python, pandas, scikit, R, tensorflow, spark, etc)
-   * Familiar with various **problems** (classification, search, clustering, prediction, recommendation, etc)
+* Expert with different **data types** (text, image, audio, video)
+* Expert with different **techniques**  (regression, SVM, deep learning, genetic algorithms, etc)
+* Familiar with modern **tooling** (python, pandas, scikit, R, tensorflow, spark, etc)
+* Expert with various **problems** (classification, search, clustering, prediction, recommendation, etc)
 
 ## Study Plan Overview
 
