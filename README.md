@@ -15,9 +15,11 @@ Self-study plan to acheive mastery in data science.
 
 * Block 0 - High school math
 * Block 1 - College math
-* Block 2 - Computational linear algebra and statistics, and introduction to artificial intelligence and introduction to machine learning
-* Block 3 - Algorithms and Deep Learning
-* ...
+* Block 2 - Computation and Algorithms
+* Block 3 - Artificial Intelligence and Machine Learning
+* Block 4 - Deep Learning and Cryptography
+* Block 5 - NLP and Computer Vision
+
 
 It is recommended to look ahead so long as the general trend is that of finishing earlier blocks before later blocks.
 
@@ -50,7 +52,7 @@ By the end of block 0 you should feel like you just finished at the top of your 
 
 Calculus, Linear Algebra, and Discrete Math
 
-#### Calculus I
+#### Calculus
 
 - [ ] [Khan differential Calculus](https://www.khanacademy.org/mission/differential-calculus) - 7%
 - [ ] [Khan integral calculus](https://www.khanacademy.org/mission/integral-calculus) - 6 %
@@ -63,7 +65,7 @@ Calculus, Linear Algebra, and Discrete Math
 * [Calculus, Better Explained: A Guide To Developing Lasting Intuition](https://betterexplained.com/calculus/lesson-1)
 * [Essence of Calculus](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
 
-#### Linear Algebra I
+#### Linear Algebra
 - [ ] [Khan Linear Algebra](https://www.khanacademy.org/math/linear-algebra)
 - [ ] [Fast AI Computational Linear Algebra](https://www.youtube.com/playlist?list=PLtmWHNX-gukIc92m1K0P6bIOnZb-mg0hY)
 - [ ] [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
@@ -95,7 +97,7 @@ Proofs, Graphs, Combinatorics, Probability, Asymtotics, Recurrences
 * [Mathematics for Computer Science (2010)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/readings/MIT6_042JF10_notes.pdf)
 * [Mathematics for Computer Science (2015)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/readings/MIT6_042JS15_textbook.pdf)
 
-## Block 2 - Computation, Statistics, and Machine Learning Foundations
+## Block 2 - Computation and Algorithms
 
 #### Python and Computation and Data
 * https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-10
@@ -103,32 +105,6 @@ Proofs, Graphs, Combinatorics, Probability, Asymtotics, Recurrences
 
 https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-10?utm_source=OCW&utm_medium=CHP&utm_campaign=OCW
 https://www.edx.org/course/introduction-computational-thinking-data-mitx-6-00-2x-5?utm_source=OCW&utm_medium=CHP&utm_campaign=OCW
-
-
-#### Machine Learning by University of Washington on Coursera
-
-- [ ] [Machine Learning Foundations: A Case Study Approach](https://www.coursera.org/learn/ml-foundations)
-- [X] [Machine Learning: Regression](https://www.coursera.org/learn/ml-regression)
-- [ ] [Machine Learning: Classification](https://www.coursera.org/learn/ml-classification)
-- [ ] [Machine Learning: Clustering & Retrieval](https://www.coursera.org/learn/ml-clustering-and-retrieval)
-
-#### Statistics
-
-* Edx probability (MIT)
-* Statistics and Probability Khan
-
-
-## Block 3 - Algorithms and Artificial Intelligence
-
-### Artificial Intelligence
-* https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-868j-the-society-of-mind-fall-2011/video-lectures/
-* https://www.youtube.com/watch?feature=player_embedded&v=J6PBD-wNEDs
-* http://ai.berkeley.edu/lecture_videos.html
-* https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373
-* http://aiplaybook.a16z.com/
-* https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/
-* http://rll.berkeley.edu/deeprlcourse/
-
 
 #### Algorithms
 * [MIT 6.006 - Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/index.htm)
@@ -163,9 +139,25 @@ If you have not taken and been successful in each of these subjects, please spea
 * https://www.youtube.com/watch?v=T_WffoMAaMA
 
 
-## Machine Learning and Cryptography Block 4 
+## Block 3 - Machine Learning and Artificial Intelligence
+
+#### Artificial Intelligence
+* https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-868j-the-society-of-mind-fall-2011/video-lectures/
+* https://www.youtube.com/watch?feature=player_embedded&v=J6PBD-wNEDs
+* http://ai.berkeley.edu/lecture_videos.html
+* https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373
+* http://aiplaybook.a16z.com/
+* https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/
+* http://rll.berkeley.edu/deeprlcourse/
 
 #### Machine Learning
+
+**Machine Learning Specialization by University of Washington on Coursera**
+- [ ] [Machine Learning Foundations: A Case Study Approach](https://www.coursera.org/learn/ml-foundations)
+- [X] [Machine Learning: Regression](https://www.coursera.org/learn/ml-regression)
+- [ ] [Machine Learning: Classification](https://www.coursera.org/learn/ml-classification)
+- [ ] [Machine Learning: Clustering & Retrieval](https://www.coursera.org/learn/ml-clustering-and-retrieval)
+
 * [Statistical Machine Learning 10-702/36-702](http://www.stat.cmu.edu/~larry/=sml/)
 * https://www.udacity.com/ai
 * https://www.udacity.com/drive
@@ -181,13 +173,12 @@ If you have not taken and been successful in each of these subjects, please spea
 * https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-868j-the-society-of-mind-fall-2011/video-lectures/
 * https://www.coursera.org/specializations/gcp-data-machine-learning
 
+## Block 4 - Deep Learning and Cryptography
 
-### Cryptography
+#### Cryptography
 * [Cryptography I](https://www.coursera.org/learn/crypto)
 * [Cryptography II](https://www.coursera.org/learn/crypto2)
 * [Bitcoin and Cryptocurrencies](https://www.coursera.org/learn/cryptocurrency)
-
-## Deep Learning Block 5
 
 #### Deep Learning by deeplearning.ai on Coursera
 
@@ -226,7 +217,7 @@ Goals:
 * https://www.youtube.com/playlist?list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu
 * https://cloud.google.com/blog/big-data/2017/01/learn-tensorflow-and-deep-learning-without-a-phd
 
-## NLP and Computer Vision Block 6
+## Block 5 - NLP and Computer Vision
 
 #### NLP
 * https://github.com/oxford-cs-deepnlp-2017/lectures
@@ -237,7 +228,7 @@ Goals:
 * http://cs231n.stanford.edu/syllabus.html
 
 
-### Resources
+#### Resources
 * http://blog.interviewing.io/lessons-from-3000-technical-interviews/
 * https://www.udacity.com/nanodegree
 * https://www.udacity.com/courses/all
