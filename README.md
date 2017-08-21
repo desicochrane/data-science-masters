@@ -1,6 +1,6 @@
 # Data Science Masters
 
-Self-study plan to acheive mastery in data science.
+Self-study plan to achieve mastery in data science.
 
 ## Goals
 
