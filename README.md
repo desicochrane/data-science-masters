@@ -42,6 +42,7 @@ By the end of block 0 you should feel like you just finished at the top of your 
 
 #### Statistics and Probability
 - [ ] [Khan Highschool Statistics](https://www.khanacademy.org/mission/probability) - 50%
+- [ ] AP Statistics
 
 *Required Reading*
 - [x] 📚 [The Joy of X](https://www.amazon.com/Joy-Guided-Tour-Math-Infinity/dp/0544105850)
