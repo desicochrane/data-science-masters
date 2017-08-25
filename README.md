@@ -30,15 +30,15 @@ By the end of block 0 you should feel like you just finished at the top of your 
 
 #### Algebra
 - [ ] [Khan Pre-Algebra](https://www.khanacademy.org/mission/pre-algebra) - 67%
-- [ ] [Khan Algebra I](https://www.khanacademy.org/mission/algebra) - 45%
-- [ ] [Khan Algebra II](https://www.khanacademy.org/mission/algebra2) - 82%
+- [ ] [Khan Algebra I](https://www.khanacademy.org/mission/algebra) - 44%
+- [ ] [Khan Algebra II](https://www.khanacademy.org/mission/algebra2) - 85%
 
 #### Geometry
 - [ ] [Khan Geometry](https://www.khanacademy.org/mission/geometry) - 55%
 - [ ] [Khan Trigonometry](https://www.khanacademy.org/mission/trigonometry) - 82%
 
 #### PreCalculus
-- [ ] [Khan Pre-Calculus](https://www.khanacademy.org/mission/precalculus) - 55%
+- [ ] [Khan Pre-Calculus](https://www.khanacademy.org/mission/precalculus) - 59%
 
 #### Statistics and Probability
 - [ ] [Khan Highschool Statistics](https://www.khanacademy.org/mission/probability) - 50%
@@ -201,6 +201,7 @@ Goals:
 - [ ] Audit best courses / books
 
 * [Practical Deep Learning For Coders](http://course.fast.ai/)
+* http://neuralnetworksanddeeplearning.com/
 * http://course.fast.ai/
 * http://www.deeplearningbook.org/
 * http://cs231n.github.io/ + https://www.youtube.com/playlist?list=PLlJy-eBtNFt6EuMxFYRiNRS07MCWN5UIA
