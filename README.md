@@ -103,8 +103,7 @@ Proofs, Graphs, Combinatorics, Probability, Asymtotics, Recurrences
 * https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-10
 * https://www.edx.org/course/introduction-computational-thinking-data-mitx-6-00-2x-5
 
-https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-10?utm_source=OCW&utm_medium=CHP&utm_campaign=OCW
-https://www.edx.org/course/introduction-computational-thinking-data-mitx-6-00-2x-5?utm_source=OCW&utm_medium=CHP&utm_campaign=OCW
+* [Introduction to Computational Thinking and Data Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-1-introduction-and-optimization-problems/)
 
 #### Algorithms
 * [MIT 6.006 - Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/index.htm)
