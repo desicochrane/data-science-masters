@@ -31,7 +31,7 @@ By the end of block 0 you should feel like you just finished at the top of your 
 #### Algebra
 - [ ] [Khan Pre-Algebra](https://www.khanacademy.org/mission/pre-algebra) - 71%
 - [ ] [Khan Algebra I](https://www.khanacademy.org/mission/algebra) - 45%
-- [ ] [Khan Algebra II](https://www.khanacademy.org/mission/algebra2) - 91%
+- [ ] [Khan Algebra II](https://www.khanacademy.org/mission/algebra2) - 92%
 
 #### Geometry
 - [ ] [Khan Geometry](https://www.khanacademy.org/mission/geometry) - 55%
