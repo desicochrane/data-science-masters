@@ -171,12 +171,7 @@ If you have not taken and been successful in each of these subjects, please spea
 * https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-868j-the-society-of-mind-fall-2011/video-lectures/
 * https://www.coursera.org/specializations/gcp-data-machine-learning
 
-## Block 4 - Deep Learning and Cryptography
-
-#### Cryptography
-* [Cryptography I](https://www.coursera.org/learn/crypto)
-* [Cryptography II](https://www.coursera.org/learn/crypto2)
-* [Bitcoin and Cryptocurrencies](https://www.coursera.org/learn/cryptocurrency)
+## Block 4 - Deep Learning
 
 #### Deep Learning by deeplearning.ai on Coursera
 
