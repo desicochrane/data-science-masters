@@ -34,10 +34,10 @@ By the end of block 0 you should feel like you just finished at the top of your 
 
 #### Geometry
 - [ ] [Khan Geometry](https://www.khanacademy.org/mission/geometry) - 62%
-- [ ] [Khan Trigonometry](https://www.khanacademy.org/mission/trigonometry) - 92%
+- [ ] [Khan Trigonometry](https://www.khanacademy.org/mission/trigonometry) - 96%
 
 #### PreCalculus
-- [ ] [Khan Pre-Calculus](https://www.khanacademy.org/mission/precalculus) - 63%
+- [ ] [Khan Pre-Calculus](https://www.khanacademy.org/mission/precalculus) - 64%
 
 #### Statistics and Probability
 - [ ] [Khan Highschool Statistics](https://www.khanacademy.org/mission/probability) - 50%
