@@ -24,9 +24,7 @@ It is recommended to look ahead so long as the general trend is that of finishin
 
 ## Block 0 - Highschool Math Foundations
 
-Build up "basic" mathematical foundations. Not everyone was lucky enough to have a good start with mathematics in school. So the goal here is to level the playing field and get your foundations as strong as those lucky kids.
-
-By the end of block 0 you should feel like you just finished at the top of your math class at a highschool - and that you went to a highschool where the teachers were awesome.
+Not everyone was lucky enough to have a good start with mathematics growing up. The goal is to level the playing field - by the end of Block 0 you should feel like you went to a highschool with world class teachers and finished top of your math class.
 
 #### Algebra
 - [ ] [Khan Algebra I](https://www.khanacademy.org/mission/algebra) - 60%
