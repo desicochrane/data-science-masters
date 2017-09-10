@@ -96,9 +96,14 @@ Proofs, Graphs, Combinatorics, Probability, Asymtotics, Recurrences
 * [Mathematics for Computer Science (2015)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/readings/MIT6_042JS15_textbook.pdf)
 * https://www.youtube.com/watch?v=h_9WjWENWV8
 * https://www.coursera.org/learn/discrete-mathematics
-
+* https://www.youtube.com/user/DrSaradaHerke/playlists?shelf_id=5&view=50&sort=dd
+* https://www.youtube.com/playlist?list=PLGxuz-nmYlQPOc4w1Kp2MZrdqOOm4Jxeo
+* https://www.youtube.com/user/DrSaradaHerke/playlists?shelf_id=5&view=50&sort=dd
 
 ## Block 2 - Computation and Algorithms
+
+#### Information Theory
+* https://www.khanacademy.org/computing/computer-science/informationtheory
 
 #### Python and Computation and Data
 * https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-10
@@ -107,6 +112,7 @@ Proofs, Graphs, Combinatorics, Probability, Asymtotics, Recurrences
 * [Introduction to Computational Thinking and Data Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-1-introduction-and-optimization-problems/)
 
 #### Algorithms
+* [Khan Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms)
 * [MIT 6.006 - Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/index.htm)
 
 A firm grasp of Python and a solid background in discrete mathematics are necessary prerequisites to this course. You are expected to have mastered the material presented in [6.01 Introduction to EECS I](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/) and 6.042J Mathematics for Computer Science.
@@ -138,6 +144,9 @@ If you have not taken and been successful in each of these subjects, please spea
 * [Algorithmic Thinking II](https://www.coursera.org/learn/algorithmic-thinking-2)
 * https://www.youtube.com/watch?v=T_WffoMAaMA
 * https://www.coursera.org/specializations/data-structures-algorithms
+* https://www.youtube.com/user/mycodeschool
+* https://www.youtube.com/watch?v=ufj5_bppBsA&list=PLFDnELG9dpVxQCxuD-9BSy2E7BWY3t5Sm&index=7
+* https://www.youtube.com/user/mikeysambol/playlists
 
 ## Block 3 - Machine Learning and Artificial Intelligence
 
@@ -158,6 +167,7 @@ If you have not taken and been successful in each of these subjects, please spea
 - [ ] [Machine Learning: Classification](https://www.coursera.org/learn/ml-classification)
 - [ ] [Machine Learning: Clustering & Retrieval](https://www.coursera.org/learn/ml-clustering-and-retrieval)
 
+* https://www.analyticsvidhya.com/blog/2015/07/top-youtube-videos-machine-learning-neural-network-deep-learning/
 * [Statistical Machine Learning 10-702/36-702](http://www.stat.cmu.edu/~larry/=sml/)
 * https://www.udacity.com/ai
 * https://www.udacity.com/drive
@@ -212,6 +222,7 @@ Goals:
 * https://www.coursera.org/learn/neural-networks
 * https://www.youtube.com/playlist?list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu
 * https://cloud.google.com/blog/big-data/2017/01/learn-tensorflow-and-deep-learning-without-a-phd
+* https://www.udacity.com/course/deep-learning--ud730
 
 ## Block 5 - NLP and Computer Vision
 
