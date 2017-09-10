@@ -83,6 +83,7 @@ Calculus, Linear Algebra, and Discrete Math
 
 Proofs, Graphs, Combinatorics, Probability, Asymtotics, Recurrences
 
+- [ ] [https://www.coursera.org/specializations/discrete-mathematics](https://www.coursera.org/specializations/discrete-mathematics)
 - [ ] [Mathematics for Computer Science (2017)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/)
 - [ ] [Mathematics for Computer Science (2010)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/index.htm)
 - [ ] [Introduction to Enumerative Combinatorics](https://www.coursera.org/learn/enumerative-combinatorics)
@@ -95,6 +96,9 @@ Proofs, Graphs, Combinatorics, Probability, Asymtotics, Recurrences
 * [Mathematics for Computer Science (2017)](https://courses.csail.mit.edu/6.042/spring17/mcs.pdf)
 * [Mathematics for Computer Science (2010)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/readings/MIT6_042JF10_notes.pdf)
 * [Mathematics for Computer Science (2015)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/readings/MIT6_042JS15_textbook.pdf)
+* https://www.youtube.com/watch?v=h_9WjWENWV8
+* https://www.coursera.org/learn/discrete-mathematics
+
 
 ## Block 2 - Computation and Algorithms
 
@@ -135,7 +139,7 @@ If you have not taken and been successful in each of these subjects, please spea
 * [Algorithmic Thinking I](https://www.coursera.org/learn/algorithmic-thinking-1)
 * [Algorithmic Thinking II](https://www.coursera.org/learn/algorithmic-thinking-2)
 * https://www.youtube.com/watch?v=T_WffoMAaMA
-
+* https://www.coursera.org/specializations/data-structures-algorithms
 
 ## Block 3 - Machine Learning and Artificial Intelligence
 
