@@ -31,7 +31,7 @@ Not everyone was lucky enough to have a good start with mathematics growing up. 
 - [X] [Khan Algebra II](https://www.khanacademy.org/mission/algebra2) - 100%
 
 #### Geometry
-- [ ] [Khan Geometry](https://www.khanacademy.org/mission/geometry) - 62%
+- [ ] [Khan Geometry](https://www.khanacademy.org/mission/geometry) - 64%
 - [ ] [Khan Trigonometry](https://www.khanacademy.org/mission/trigonometry) - 99%
 
 #### PreCalculus
