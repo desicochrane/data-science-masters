@@ -32,10 +32,10 @@ Not everyone was lucky enough to have a good start with mathematics growing up. 
 
 #### Geometry
 - [ ] [Khan Geometry](https://www.khanacademy.org/mission/geometry) - 64%
-- [ ] [Khan Trigonometry](https://www.khanacademy.org/mission/trigonometry) - 99%
+- [X] [Khan Trigonometry](https://www.khanacademy.org/mission/trigonometry) - 100%
 
 #### PreCalculus
-- [ ] [Khan Pre-Calculus](https://www.khanacademy.org/mission/precalculus) - 65%
+- [ ] [Khan Pre-Calculus](https://www.khanacademy.org/mission/precalculus) - 66%
 
 #### Statistics and Probability
 - [ ] [Khan Highschool Statistics](https://www.khanacademy.org/mission/probability) - 50%
