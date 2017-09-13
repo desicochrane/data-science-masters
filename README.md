@@ -100,6 +100,10 @@ Proofs, Graphs, Combinatorics, Probability, Asymtotics, Recurrences
 * https://www.youtube.com/playlist?list=PLGxuz-nmYlQPOc4w1Kp2MZrdqOOm4Jxeo
 * https://www.youtube.com/user/DrSaradaHerke/playlists?shelf_id=5&view=50&sort=dd
 
+## Block 1.5 Statistics
+* https://www.coursera.org/specializations/statistics
+* https://www.coursera.org/specializations/marketing-analytics
+
 ## Block 2 - Computation and Algorithms
 
 #### Information Theory
@@ -224,6 +228,19 @@ Goals:
 * https://cloud.google.com/blog/big-data/2017/01/learn-tensorflow-and-deep-learning-without-a-phd
 * https://www.udacity.com/course/deep-learning--ud730
 
+## Block 4.1
+* https://www.coursera.org/specializations/recommender-systems
+
+## Block 4.5 - Information Retrieval, Search, Data Mining
+* https://www.coursera.org/specializations/data-mining
+* https://www.coursera.org/specializations/big-data
+* https://nlp.stanford.edu/IR-book/information-retrieval-book.html
+* https://nlp.stanford.edu/IR-book/information-retrieval.html
+* https://www.coursera.org/specializations/data-warehousing
+* https://www.coursera.org/specializations/gcp-data-machine-learning
+* https://www.coursera.org/specializations/data-science
+* https://www.coursera.org/learn/scala-spark-big-data
+
 ## Block 5 - NLP and Computer Vision
 
 #### NLP
@@ -234,6 +251,14 @@ Goals:
 * https://www.coursera.org/learn/digital/home/welcome
 * http://cs231n.stanford.edu/syllabus.html
 
+
+## Electives
+https://www.coursera.org/learn/data-driven-astronomy
+https://www.coursera.org/specializations/genomic-data-science
+https://www.coursera.org/learn/data-genes-medicine
+https://www.coursera.org/specializations/systems-biology
+https://www.coursera.org/specializations/networking-basics
+https://www.coursera.org/learn/neurohacking
 
 #### Resources
 * http://blog.interviewing.io/lessons-from-3000-technical-interviews/
