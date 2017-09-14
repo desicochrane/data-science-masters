@@ -39,7 +39,6 @@ Not everyone was lucky enough to have a good start with mathematics growing up. 
 
 #### Statistics and Probability
 - [ ] [Khan Highschool Statistics](https://www.khanacademy.org/mission/probability) - 50%
-- [ ] AP Statistics
 
 *Required Reading*
 - [x] 📚 [The Joy of X](https://www.amazon.com/Joy-Guided-Tour-Math-Infinity/dp/0544105850)
@@ -101,6 +100,7 @@ Proofs, Graphs, Combinatorics, Probability, Asymtotics, Recurrences
 * https://www.youtube.com/user/DrSaradaHerke/playlists?shelf_id=5&view=50&sort=dd
 
 #### Statistics
+- [ ] Khan AP Statistics
 * https://www.coursera.org/specializations/statistics
 * https://www.coursera.org/specializations/marketing-analytics
 
