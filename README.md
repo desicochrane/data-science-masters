@@ -100,9 +100,10 @@ Proofs, Graphs, Combinatorics, Probability, Asymtotics, Recurrences
 * https://www.youtube.com/playlist?list=PLGxuz-nmYlQPOc4w1Kp2MZrdqOOm4Jxeo
 * https://www.youtube.com/user/DrSaradaHerke/playlists?shelf_id=5&view=50&sort=dd
 
-## Block 1.5 Statistics
+#### Statistics
 * https://www.coursera.org/specializations/statistics
 * https://www.coursera.org/specializations/marketing-analytics
+
 
 ## Block 2 - Computation and Algorithms
 
@@ -118,14 +119,6 @@ Proofs, Graphs, Combinatorics, Probability, Asymtotics, Recurrences
 #### Algorithms
 * [Khan Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms)
 * [MIT 6.006 - Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/index.htm)
-
-A firm grasp of Python and a solid background in discrete mathematics are necessary prerequisites to this course. You are expected to have mastered the material presented in [6.01 Introduction to EECS I](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/) and 6.042J Mathematics for Computer Science.
-
-If you have not taken and been successful in each of these subjects, please speak with a TA or professor before enrolling. We do allow students who have equivalent, other experience with the material described above to enroll, but with the firm understanding that mastery of this material is assumed and that course staff will not feel obligated to cover it or to help students who are struggling with it.
-
-6.006 is a 12-unit (4-0-8) subject and serves as a Foundational Computer Science subject under the new curriculum. It is a direct prerequisite for 6.046 Design and Analysis of Algorithms, the theory header.
-
-
 
 1. Introduction
     * Algorithmic thinking, peak finding
@@ -228,10 +221,12 @@ Goals:
 * https://cloud.google.com/blog/big-data/2017/01/learn-tensorflow-and-deep-learning-without-a-phd
 * https://www.udacity.com/course/deep-learning--ud730
 
-## Block 4.1
+
+## Block 5 - Data Mining and Recommenders
+
 * https://www.coursera.org/specializations/recommender-systems
 
-## Block 4.5 - Information Retrieval, Search, Data Mining
+
 * https://www.coursera.org/specializations/data-mining
 * https://www.coursera.org/specializations/big-data
 * https://nlp.stanford.edu/IR-book/information-retrieval-book.html
@@ -241,7 +236,7 @@ Goals:
 * https://www.coursera.org/specializations/data-science
 * https://www.coursera.org/learn/scala-spark-big-data
 
-## Block 5 - NLP and Computer Vision
+## Block 6 - NLP and Computer Vision
 
 #### NLP
 * https://github.com/oxford-cs-deepnlp-2017/lectures
@@ -253,19 +248,22 @@ Goals:
 * https://www.udacity.com/course/interactive-3d-graphics--cs291
 * https://www.youtube.com/watch?v=01YSK5gIEYQ&list=PL_w_qWAQZtAZhtzPI5pkAtcUVgmzdAP8g
 
+## Block 7 - Architectures / Data Centers etc
+
+* ....
+
 ## Electives
-https://www.coursera.org/learn/data-driven-astronomy
-https://www.coursera.org/specializations/genomic-data-science
-https://www.coursera.org/learn/data-genes-medicine
-https://www.coursera.org/specializations/systems-biology
-https://www.coursera.org/specializations/networking-basics
-https://www.coursera.org/learn/neurohacking
+* https://www.coursera.org/learn/data-driven-astronomy
+* https://www.coursera.org/specializations/genomic-data-science
+* https://www.coursera.org/learn/data-genes-medicine
+* https://www.coursera.org/specializations/systems-biology
+* https://www.coursera.org/specializations/networking-basics
+* https://www.coursera.org/learn/neurohacking
+
+## Projects
+Recommender, chatbot, graphics simulation with AI (e.g. ball and paddle), ... 
 
 #### Resources
-* http://blog.interviewing.io/lessons-from-3000-technical-interviews/
-* https://www.udacity.com/nanodegree
-* https://www.udacity.com/courses/all
-* https://ml.berkeley.edu/blog/
 * https://github.com/open-source-society/data-science
-https://unsupervisedmethods.com/over-150-of-the-best-machine-learning-nlp-and-python-tutorials-ive-found-ffce2939bd78
+* https://unsupervisedmethods.com/over-150-of-the-best-machine-learning-nlp-and-python-tutorials-ive-found-ffce2939bd78
 * http://www.scipy-lectures.org/
