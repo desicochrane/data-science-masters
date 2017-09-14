@@ -250,7 +250,8 @@ Goals:
 #### Image and Computer Vision
 * https://www.coursera.org/learn/digital/home/welcome
 * http://cs231n.stanford.edu/syllabus.html
-
+* https://www.udacity.com/course/interactive-3d-graphics--cs291
+* https://www.youtube.com/watch?v=01YSK5gIEYQ&list=PL_w_qWAQZtAZhtzPI5pkAtcUVgmzdAP8g
 
 ## Electives
 https://www.coursera.org/learn/data-driven-astronomy
