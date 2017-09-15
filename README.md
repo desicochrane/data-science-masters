@@ -107,6 +107,10 @@ Proofs, Graphs, Combinatorics, Probability, Asymtotics, Recurrences
 
 ## Block 2 - Computation and Algorithms
 
+#### R Programming
+* https://www.coursera.org/specializations/statistics
+* https://www.coursera.org/specializations/r
+
 #### Information Theory
 * https://www.khanacademy.org/computing/computer-science/informationtheory
 
@@ -255,6 +259,9 @@ Goals:
 * https://www.coursera.org/specializations/cloud-computing
 * https://www.coursera.org/specializations/data-science
 * https://www.coursera.org/specializations/big-data
+* https://www.coursera.org/specializations/scala
+* https://www.coursera.org/learn/hadoop
+
 
 ## Electives
 * https://www.coursera.org/learn/data-driven-astronomy
