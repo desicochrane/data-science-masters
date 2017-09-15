@@ -10,8 +10,8 @@ Self-study plan to achieve mastery in data science.
 * Familiar with modern **tooling** (python, pandas, scikit, R, tensorflow, apache spark, etc)
 * Expert with various **problems** (classification, search, clustering, prediction, recommendation, etc)
 
-* fundamentals (able to read and implement technical papers)
-* building at scale pipelines / architectures
+- fundamentals (able to read and implement technical papers)
+- building at scale pipelines / architectures
 
 ## Study Plan Overview
 
