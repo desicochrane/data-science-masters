@@ -7,8 +7,11 @@ Self-study plan to achieve mastery in data science.
 * Score top 20% in [Kaggle competitions](https://www.kaggle.com/)
 * Expert with different **data types** (text, image, audio, video)
 * Expert with different **techniques**  (regression, SVM, deep learning, genetic algorithms, etc)
-* Familiar with modern **tooling** (python, pandas, scikit, R, tensorflow, spark, etc)
+* Familiar with modern **tooling** (python, pandas, scikit, R, tensorflow, apache spark, etc)
 * Expert with various **problems** (classification, search, clustering, prediction, recommendation, etc)
+
+* fundamentals (able to read and implement technical papers)
+* building at scale pipelines / architectures
 
 ## Study Plan Overview
 
