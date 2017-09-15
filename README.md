@@ -250,7 +250,11 @@ Goals:
 
 ## Block 7 - Architectures / Data Centers etc
 
-* ....
+* https://www.coursera.org/specializations/gcp-architecture
+* https://www.coursera.org/specializations/gcp-data-machine-learning
+* https://www.coursera.org/specializations/cloud-computing
+* https://www.coursera.org/specializations/data-science
+* https://www.coursera.org/specializations/big-data
 
 ## Electives
 * https://www.coursera.org/learn/data-driven-astronomy
