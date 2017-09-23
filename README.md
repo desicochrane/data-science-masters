@@ -210,6 +210,7 @@ Goals:
 - [ ] Audit best courses / books
 
 * [Practical Deep Learning For Coders](http://course.fast.ai/)
+* https://classroom.udacity.com/courses/ud730
 * http://neuralnetworksanddeeplearning.com/
 * http://course.fast.ai/
 * http://www.deeplearningbook.org/
@@ -227,7 +228,9 @@ Goals:
 * https://www.youtube.com/playlist?list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu
 * https://cloud.google.com/blog/big-data/2017/01/learn-tensorflow-and-deep-learning-without-a-phd
 * https://www.udacity.com/course/deep-learning--ud730
-
+* http://nbviewer.jupyter.org/github/domluna/labs/blob/master/Build%20Your%20Own%20TensorFlow.ipynb
+* https://goc.vivint.com/problems/mlc
+* http://blog.floydhub.com/coding-the-history-of-deep-learning/
 
 ## Block 5 - Data Mining and Recommenders
 
