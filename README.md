@@ -38,10 +38,10 @@ Not everyone was lucky enough to have a good start with mathematics growing up. 
 - [X] [Khan Trigonometry](https://www.khanacademy.org/mission/trigonometry) - 100%
 
 #### PreCalculus
-- [ ] [Khan Pre-Calculus](https://www.khanacademy.org/mission/precalculus) - 86%
+- [ ] [Khan Pre-Calculus](https://www.khanacademy.org/mission/precalculus) - 90%
 
 #### Statistics and Probability
-- [ ] [Khan Highschool Statistics](https://www.khanacademy.org/mission/probability) - 50%
+- [ ] [Khan Highschool Statistics](https://www.khanacademy.org/mission/probability) - 51%
 
 *Required Reading*
 - [x] 📚 [The Joy of X](https://www.amazon.com/Joy-Guided-Tour-Math-Infinity/dp/0544105850)
