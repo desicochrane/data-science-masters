@@ -38,7 +38,7 @@ Not everyone was lucky enough to have a good start with mathematics growing up. 
 - [X] [Khan Trigonometry](https://www.khanacademy.org/mission/trigonometry) - 100%
 
 #### PreCalculus
-- [ ] [Khan Pre-Calculus](https://www.khanacademy.org/mission/precalculus) - 90%
+- [ ] [Khan Pre-Calculus](https://www.khanacademy.org/mission/precalculus) - 92%
 
 #### Statistics and Probability
 - [ ] [Khan Highschool Statistics](https://www.khanacademy.org/mission/probability) - 51%
@@ -53,10 +53,10 @@ Calculus, Linear Algebra, and Discrete Math
 
 #### Calculus
 
-- [ ] [Khan differential Calculus](https://www.khanacademy.org/mission/differential-calculus) - 7%
-- [ ] [Khan integral calculus](https://www.khanacademy.org/mission/integral-calculus) - 6 %
+- [ ] [Khan differential Calculus](https://www.khanacademy.org/mission/differential-calculus) - 8%
+- [ ] [Khan integral calculus](https://www.khanacademy.org/mission/integral-calculus) - 7%
 - [ ] [Khan AP Calculus AB](https://www.khanacademy.org/mission/ap-calculus-ab) - 2%
-- [ ] [Khan AP Calculus AB](https://www.khanacademy.org/mission/ap-calculus-bc) - 4%
+- [ ] [Khan AP Calculus AB](https://www.khanacademy.org/mission/ap-calculus-bc) - 2%
 - [ ] [MIT 18.01 Single Variable Calculus 2010](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/index.htm)
 
 *Supplementary Material*
