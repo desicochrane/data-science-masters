@@ -15,19 +15,20 @@ Self-study plan to achieve mastery in data science.
 
 ## Study Plan Overview
 
-* Block 0 - High school math
-* Block 1 - College math
+* Block 0 - Highschool Math
+* Block 1 - College Math
 * Block 2 - Computation and Algorithms
 * Block 3 - Artificial Intelligence and Machine Learning
-* Block 4 - Deep Learning and Cryptography
-* Block 5 - NLP and Computer Vision
-
+* Block 4 - Deep Learning
+* Block 5 - Data Mining and Recommenders
+* Block 6 - NLP and Computer Vision
+* Block 7 - Cloud Computing Architectures / Data Center Engineering
 
 It is recommended to look ahead so long as the general trend is that of finishing earlier blocks before later blocks.
 
-## Block 0 - Highschool Math Foundations
+## Block 0 - Highschool math
 
-Not everyone was lucky enough to have a good start with mathematics growing up. The goal is to level the playing field - by the end of Block 0 you should feel like you went to a highschool with world class teachers and finished top of your math class.
+Not everyone was lucky enough to have a good start with math growing up. The goal is to level the playing field - by the end of Block 0 you should feel like you went to a highschool with world class teachers and finished top of your math class.
 
 #### Algebra
 - [ ] [Khan Algebra I](https://www.khanacademy.org/mission/algebra) - 63%
@@ -152,7 +153,7 @@ Proofs, Graphs, Combinatorics, Probability, Asymtotics, Recurrences
 * https://www.youtube.com/watch?v=ufj5_bppBsA&list=PLFDnELG9dpVxQCxuD-9BSy2E7BWY3t5Sm&index=7
 * https://www.youtube.com/user/mikeysambol/playlists
 
-## Block 3 - Machine Learning and Artificial Intelligence
+## Block 3 - Artificial Intelligence and Machine Learning
 
 #### Artificial Intelligence
 * https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-868j-the-society-of-mind-fall-2011/video-lectures/
@@ -258,7 +259,7 @@ Goals:
 * https://www.udacity.com/course/interactive-3d-graphics--cs291
 * https://www.youtube.com/watch?v=01YSK5gIEYQ&list=PL_w_qWAQZtAZhtzPI5pkAtcUVgmzdAP8g
 
-## Block 7 - Architectures / Data Centers etc
+## Block 7 - Architectures / Data Centers
 
 * https://www.coursera.org/specializations/gcp-architecture
 * https://www.coursera.org/specializations/gcp-data-machine-learning
