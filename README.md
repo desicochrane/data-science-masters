@@ -64,6 +64,7 @@ Calculus, Linear Algebra, and Discrete Math
 
 * [Calculus, Better Explained: A Guide To Developing Lasting Intuition](https://betterexplained.com/calculus/lesson-1)
 * [Essence of Calculus](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
+* https://www.youtube.com/watch?v=PaBnLWc_17g&list=PLDDGPdw7e6Aj1kTRn-MxD0YVZ-zEL5vBb
 
 #### Linear Algebra
 - [ ] [Khan Linear Algebra](https://www.khanacademy.org/math/linear-algebra)
@@ -79,6 +80,7 @@ Calculus, Linear Algebra, and Discrete Math
 - [Essence of Linear Algebra](https://www.youtube.com/watch?v=kjBOesZCoqc&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 - https://cs.brown.edu/video/channels/coding-matrix-fall-2014/
 - https://www.udacity.com/course/linear-algebra-refresher-course--ud953
+- https://www.youtube.com/watch?v=yGJjYWEcQs8&list=PLDDGPdw7e6AjJacaEe9awozSaOou-NIx_
 
 #### Discrete Mathematics
 
@@ -102,6 +104,9 @@ Proofs, Graphs, Combinatorics, Probability, Asymtotics, Recurrences
 * https://www.youtube.com/user/DrSaradaHerke/playlists?shelf_id=5&view=50&sort=dd
 * https://www.youtube.com/playlist?list=PLGxuz-nmYlQPOc4w1Kp2MZrdqOOm4Jxeo
 * https://www.youtube.com/user/DrSaradaHerke/playlists?shelf_id=5&view=50&sort=dd
+* https://www.youtube.com/watch?v=tyDKR4FG3Yw&list=PLDDGPdw7e6Ag1EIznZ-m-qXu4XX3A0cIz
+* https://www.youtube.com/watch?v=DBugSTeX1zw&list=PLDDGPdw7e6Aj0amDsYInT_8p6xTSTGEi2
+* https://www.youtube.com/watch?v=qoB-2nJkKBM&list=PLDDGPdw7e6AhsNuxXP3D-45Is96L8sdSG
 
 #### Statistics
 - [ ] Khan AP Statistics
