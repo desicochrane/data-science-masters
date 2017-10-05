@@ -31,7 +31,7 @@ It is recommended to look ahead so long as the general trend is that of finishin
 Not everyone was lucky enough to have a good start with math growing up. The goal is to level the playing field - by the end of Block 0 you should feel like you went to a highschool with world class teachers and finished top of your math class.
 
 #### Algebra
-- [ ] [Khan Algebra I](https://www.khanacademy.org/mission/algebra) - 75%
+- [ ] [Khan Algebra I](https://www.khanacademy.org/mission/algebra) - 76%
 - [X] [Khan Algebra II](https://www.khanacademy.org/mission/algebra2) - 100%
 
 #### Geometry
