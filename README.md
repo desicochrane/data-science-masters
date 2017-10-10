@@ -31,18 +31,18 @@ It is recommended to look ahead so long as the general trend is that of finishin
 Not everyone was lucky enough to have a good start with math growing up. The goal is to level the playing field - by the end of Block 0 you should feel like you went to a highschool with world class teachers and finished top of your math class.
 
 #### Algebra
-- [ ] [Khan Algebra I](https://www.khanacademy.org/mission/algebra) - 76%
-- [X] [Khan Algebra II](https://www.khanacademy.org/mission/algebra2) - 100%
+- [ ] [Khan - Algebra I](https://www.khanacademy.org/mission/algebra) - 76%
+- [X] [Khan - Algebra II](https://www.khanacademy.org/mission/algebra2) - 100%
 
 #### Geometry
-- [ ] [Khan Geometry](https://www.khanacademy.org/mission/geometry) - 67%
-- [X] [Khan Trigonometry](https://www.khanacademy.org/mission/trigonometry) - 100%
+- [ ] [Khan - Geometry](https://www.khanacademy.org/mission/geometry) - 67%
+- [X] [Khan - Trigonometry](https://www.khanacademy.org/mission/trigonometry) - 100%
 
-#### PreCalculus
-- [X] [Khan Pre-Calculus](https://www.khanacademy.org/mission/precalculus) - 100%
+#### Pre Calculus
+- [X] [Khan - Pre-Calculus](https://www.khanacademy.org/mission/precalculus) - 100%
 
 #### Statistics and Probability
-- [ ] [Khan Highschool Statistics](https://www.khanacademy.org/mission/probability) - 63%
+- [ ] [Khan - Highschool Statistics](https://www.khanacademy.org/mission/probability) - 63%
 
 *Required Reading*
 - [x] 📚 [The Joy of X](https://www.amazon.com/Joy-Guided-Tour-Math-Infinity/dp/0544105850)
@@ -50,26 +50,24 @@ Not everyone was lucky enough to have a good start with math growing up. The goa
 
 ## Block 1 - College Math
 
-Calculus, Linear Algebra, and Discrete Math
+Calculus, Linear Algebra, Discrete Math, and Statistics.
 
 #### Calculus
 
-- [ ] [Khan differential Calculus](https://www.khanacademy.org/mission/differential-calculus) - 8%
-- [ ] [Khan integral calculus](https://www.khanacademy.org/mission/integral-calculus) - 7%
-- [ ] [Khan AP Calculus AB](https://www.khanacademy.org/mission/ap-calculus-ab) - 2%
-- [ ] [Khan AP Calculus AB](https://www.khanacademy.org/mission/ap-calculus-bc) - 2%
-- [ ] [MIT 18.01 Single Variable Calculus 2010](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/index.htm)
+- [ ] [Khan - Differential Calculus](https://www.khanacademy.org/mission/differential-calculus) - 8%
+- [ ] [Khan - Integral Calculus](https://www.khanacademy.org/mission/integral-calculus) - 7%
+- [ ] [Khan - AP Calculus AB](https://www.khanacademy.org/mission/ap-calculus-ab) - 2%
+- [ ] [Khan - AP Calculus BC](https://www.khanacademy.org/mission/ap-calculus-bc) - 2%
+- [ ] [MIT - Single Variable Calculus](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/index.htm)
 
 *Supplementary Material*
-
-* [Calculus, Better Explained: A Guide To Developing Lasting Intuition](https://betterexplained.com/calculus/lesson-1)
+* [Calculus, Better Explained](https://betterexplained.com/calculus/lesson-1)
 * [Essence of Calculus](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
-* https://www.youtube.com/watch?v=PaBnLWc_17g&list=PLDDGPdw7e6Aj1kTRn-MxD0YVZ-zEL5vBb
 
 #### Linear Algebra
-- [ ] [Khan Linear Algebra](https://www.khanacademy.org/math/linear-algebra)
-- [ ] [Fast AI Computational Linear Algebra](https://www.youtube.com/playlist?list=PLtmWHNX-gukIc92m1K0P6bIOnZb-mg0hY)
-- [ ] [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
+- [ ] [Khan - Linear Algebra](https://www.khanacademy.org/math/linear-algebra)
+- [ ] [Fast AI - Computational Linear Algebra](https://www.youtube.com/playlist?list=PLtmWHNX-gukIc92m1K0P6bIOnZb-mg0hY)
+- [ ] [MIT - Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
 
 *Required Reading*
 - [ ] 📚 [Linear Algebra and its Applications](https://www.amazon.com/Linear-Algebra-Its-Applications-4th/dp/0030105676)
@@ -78,41 +76,43 @@ Calculus, Linear Algebra, and Discrete Math
 *Supplementary Material*
 - [Graphical linear algebra](https://graphicallinearalgebra.net/)
 - [Essence of Linear Algebra](https://www.youtube.com/watch?v=kjBOesZCoqc&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
-- https://cs.brown.edu/video/channels/coding-matrix-fall-2014/
-- https://www.udacity.com/course/linear-algebra-refresher-course--ud953
-- https://www.youtube.com/watch?v=yGJjYWEcQs8&list=PLDDGPdw7e6AjJacaEe9awozSaOou-NIx_
+- [Brown University - Coding the Matrix](https://cs.brown.edu/video/channels/coding-matrix-fall-2014/)
+- [Udacity - Linear Algebra Refresher Course](https://www.udacity.com/course/linear-algebra-refresher-course--ud953)
 
 #### Discrete Mathematics
 
 Proofs, Graphs, Combinatorics, Probability, Asymtotics, Recurrences
 
-- [ ] [https://www.coursera.org/specializations/discrete-mathematics](https://www.coursera.org/specializations/discrete-mathematics)
-- [ ] [Mathematics for Computer Science (2017)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/)
-- [ ] [Mathematics for Computer Science (2010)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/index.htm)
-- [ ] [Introduction to Enumerative Combinatorics](https://www.coursera.org/learn/enumerative-combinatorics)
+- [ ] [Coursera - What is a Proof?](https://www.coursera.org/learn/what-is-a-proof)
+- [ ] [Coursera - Combinatorics and Probability](https://www.coursera.org/learn/combinatorics)
+- [ ] [Coursera - Introduction to Graph Theory](https://www.coursera.org/learn/graphs)
+- [ ] [Coursera - Number Theory and Cryptography](https://www.coursera.org/learn/number-theory-cryptography)
+- [ ] [Coursera - Solving the Delivery Problem](https://www.coursera.org/learn/delivery-problem)
+- [ ] [Coursera - Introduction to Enumerative Combinatorics](https://www.coursera.org/learn/enumerative-combinatorics)
+
 
 *Required Reading*
 - [ ] 📚 [How to Prove It](https://www.amazon.com/How-Prove-Structured-Approach-2nd/dp/0521675995)
 - [ ] 📚 [Introduction to Graph Theory](https://www.amazon.com.au/Introduction-Graph-Theory-Dover-Mathematics-ebook/dp/B00BX1DX9U)
 
 *Supplementary Material*
-* [Mathematics for Computer Science (2017)](https://courses.csail.mit.edu/6.042/spring17/mcs.pdf)
-* [Mathematics for Computer Science (2010)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/readings/MIT6_042JF10_notes.pdf)
-* [Mathematics for Computer Science (2015)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/readings/MIT6_042JS15_textbook.pdf)
-* https://www.youtube.com/watch?v=h_9WjWENWV8
-* https://www.coursera.org/learn/discrete-mathematics
-* https://www.youtube.com/user/DrSaradaHerke/playlists?shelf_id=5&view=50&sort=dd
-* https://www.youtube.com/playlist?list=PLGxuz-nmYlQPOc4w1Kp2MZrdqOOm4Jxeo
-* https://www.youtube.com/user/DrSaradaHerke/playlists?shelf_id=5&view=50&sort=dd
-* https://www.youtube.com/watch?v=tyDKR4FG3Yw&list=PLDDGPdw7e6Ag1EIznZ-m-qXu4XX3A0cIz
-* https://www.youtube.com/watch?v=DBugSTeX1zw&list=PLDDGPdw7e6Aj0amDsYInT_8p6xTSTGEi2
-* https://www.youtube.com/watch?v=qoB-2nJkKBM&list=PLDDGPdw7e6AhsNuxXP3D-45Is96L8sdSG
+* [MIT - Mathematics for Computer Science (2017)](https://courses.csail.mit.edu/6.042/spring17/mcs.pdf)
+* [MIT - Mathematics for Computer Science (2015)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/)
+* [MIT - Mathematics for Computer Science (2010)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/index.htm)
+* [Arsdigita University - Discrete Mathematics](https://www.youtube.com/watch?v=h_9WjWENWV8)
+* [Coursera - Discrete Mathematics](https://www.coursera.org/learn/discrete-mathematics)
+* [Sarada Herke - Discrete Math](https://www.youtube.com/user/DrSaradaHerke)
 
-#### Statistics
-- [ ] Khan AP Statistics
-* https://www.coursera.org/specializations/statistics
-* https://www.coursera.org/specializations/marketing-analytics
-
+#### Probability and Statistics
+- [ ] [Khan - AP Statistics](https://www.khanacademy.org/math/ap-statistics)
+- [ ] [Coursera/Duke Uni - Introduction to Probability and Data](https://www.coursera.org/learn/probability-intro)
+- [ ] [Coursera/Duke Uni - Inferential Statistics](https://www.coursera.org/learn/inferential-statistics-intro)
+- [ ] [Coursera/Duke Uni - Linear Regression and Modeling](https://www.coursera.org/learn/linear-regression-model)
+- [ ] [Coursera/Duke Uni - Bayesian Statistics](https://www.coursera.org/learn/bayesian)
+- [ ] [Coursera/Duke Uni - Statistics with R Capstone](https://www.coursera.org/learn/statistics-project)
+- [ ] [Edx/Uni Texas - Foundations of Data Analysis - Part 1: Statistics Using R](https://www.edx.org/course/foundations-data-analysis-part-1-utaustinx-ut-7-11x-0)
+- [ ] [EdX/Uni Texas - Foundations of Data Analysis - Part 2: Inferential Statistics](https://www.edx.org/course/foundations-data-analysis-part-2-utaustinx-ut-7-21x-0)
+- [ ] [EdX/MIT - Introduction to Probability - The Science of Uncertainty](https://www.edx.org/course/introduction-probability-science-mitx-6-041x-2)
 
 ## Block 2 - Computation and Algorithms
 
