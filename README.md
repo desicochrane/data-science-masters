@@ -42,7 +42,7 @@ Not everyone was lucky enough to have a good start with math growing up. The goa
 - [X] [Khan - Pre-Calculus](https://www.khanacademy.org/mission/precalculus) - 100%
 
 #### Statistics and Probability
-- [ ] [Khan - Highschool Statistics](https://www.khanacademy.org/mission/probability) - 68%
+- [ ] [Khan - Highschool Statistics](https://www.khanacademy.org/mission/probability) - 75%
 
 *Required Reading*
 - [x] 📚 [The Joy of X](https://www.amazon.com/Joy-Guided-Tour-Math-Infinity/dp/0544105850)
