@@ -31,11 +31,13 @@ It is recommended to look ahead so long as the general trend is that of finishin
 Not everyone was lucky enough to have a good start with math growing up. The goal is to level the playing field - by the end of Block 0 you should feel like you went to a highschool with world class teachers and finished top of your math class.
 
 #### Algebra
+
 - [ ] [Khan - Pre-Algebra](https://www.khanacademy.org/mission/pre-algebra) - 81%
 - [ ] [Khan - Algebra I](https://www.khanacademy.org/mission/algebra) - 80%
 - [X] [Khan - Algebra II](https://www.khanacademy.org/mission/algebra2) - 100%
 
 #### Geometry
+
 - [ ] [Khan - Geometry](https://www.khanacademy.org/mission/geometry) - 67%
 - [X] [Khan - Trigonometry](https://www.khanacademy.org/mission/trigonometry) - 100%
 
@@ -46,7 +48,7 @@ Not everyone was lucky enough to have a good start with math growing up. The goa
 - [ ] [Khan - Highschool Statistics](https://www.khanacademy.org/mission/probability) - 91%
 
 *Required Reading*
-- [x] 📚 [The Joy of X](https://www.amazon.com/Joy-Guided-Tour-Math-Infinity/dp/0544105850)
+- [X] 📚 [The Joy of X](https://www.amazon.com/Joy-Guided-Tour-Math-Infinity/dp/0544105850)
 
 
 ## Block 1 - College Math
