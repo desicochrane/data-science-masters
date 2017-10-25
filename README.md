@@ -163,6 +163,8 @@ Proofs, Graphs, Combinatorics, Probability, Asymtotics, Recurrences
 
 ## Block 3 - Artificial Intelligence and Machine Learning
 
+https://www.coursera.org/specializations/aml
+
 #### Artificial Intelligence
 * https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-868j-the-society-of-mind-fall-2011/video-lectures/
 * https://www.youtube.com/watch?feature=player_embedded&v=J6PBD-wNEDs
