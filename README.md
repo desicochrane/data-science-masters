@@ -271,6 +271,7 @@ Goals:
 
 ## Block 7 - Architectures / Data Centers
 
+* https://www.coursera.org/specializations/big-data-engineering
 * https://www.coursera.org/specializations/gcp-architecture
 * https://www.coursera.org/specializations/gcp-data-machine-learning
 * https://www.coursera.org/specializations/cloud-computing
