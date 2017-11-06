@@ -33,7 +33,7 @@ Not everyone was lucky enough to have a good start with math growing up. The goa
 #### Algebra
 
 - [ ] [Khan - Pre-Algebra](https://www.khanacademy.org/mission/pre-algebra) - 82%
-- [ ] [Khan - Algebra I](https://www.khanacademy.org/mission/algebra) - 99%
+- [X] [Khan - Algebra I](https://www.khanacademy.org/mission/algebra) - 100%
 - [X] [Khan - Algebra II](https://www.khanacademy.org/mission/algebra2) - 100%
 
 #### Geometry
