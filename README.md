@@ -32,13 +32,13 @@ Not everyone was lucky enough to have a good start with math growing up. The goa
 
 #### Algebra
 
-- [ ] [Khan - Pre-Algebra](https://www.khanacademy.org/mission/pre-algebra) - 92%
+- [X] [Khan - Pre-Algebra](https://www.khanacademy.org/mission/pre-algebra) - 100%
 - [X] [Khan - Algebra I](https://www.khanacademy.org/mission/algebra) - 100%
 - [X] [Khan - Algebra II](https://www.khanacademy.org/mission/algebra2) - 100%
 
 #### Geometry
 
-- [ ] [Khan - Geometry](https://www.khanacademy.org/mission/geometry) - 91%
+- [ ] [Khan - Geometry](https://www.khanacademy.org/mission/geometry) - 97%
 - [X] [Khan - Trigonometry](https://www.khanacademy.org/mission/trigonometry) - 100%
 
 #### Pre Calculus
@@ -81,6 +81,8 @@ Calculus, Linear Algebra, Discrete Math, and Statistics.
 - [Essence of Linear Algebra](https://www.youtube.com/watch?v=kjBOesZCoqc&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 - [Brown University - Coding the Matrix](https://cs.brown.edu/video/channels/coding-matrix-fall-2014/)
 - [Udacity - Linear Algebra Refresher Course](https://www.udacity.com/course/linear-algebra-refresher-course--ud953)
+- https://open.math.uwaterloo.ca/
+- https://www.youtube.com/playlist?list=PL44B6B54CBF6A72DF
 
 #### Discrete Mathematics
 
@@ -160,6 +162,7 @@ Proofs, Graphs, Combinatorics, Probability, Asymtotics, Recurrences
 * https://www.youtube.com/user/mycodeschool
 * https://www.youtube.com/watch?v=ufj5_bppBsA&list=PLFDnELG9dpVxQCxuD-9BSy2E7BWY3t5Sm&index=7
 * https://www.youtube.com/user/mikeysambol/playlists
+* https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/
 
 ## Block 3 - Artificial Intelligence and Machine Learning
 
@@ -242,6 +245,8 @@ Goals:
 * http://nbviewer.jupyter.org/github/domluna/labs/blob/master/Build%20Your%20Own%20TensorFlow.ipynb
 * https://goc.vivint.com/problems/mlc
 * http://blog.floydhub.com/coding-the-history-of-deep-learning/
+* https://www.udacity.com/course/deep-learning--ud730
+* https://stats385.github.io/
 
 ## Block 5 - Data Mining and Recommenders
 
@@ -289,6 +294,7 @@ Goals:
 * https://www.coursera.org/specializations/systems-biology
 * https://www.coursera.org/specializations/networking-basics
 * https://www.coursera.org/learn/neurohacking
+* https://www.youtube.com/playlist?list=PLUl4u3cNGP62K2DjQLRxDNRi0z2IRWnNh
 
 ## Projects
 Recommender, chatbot, graphics simulation with AI (e.g. ball and paddle), ... 
