@@ -301,6 +301,7 @@ Goals:
 Recommender, chatbot, graphics simulation with AI (e.g. ball and paddle), ... 
 
 #### Resources
+* https://www.youtube.com/playlist?list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu&disable_polymer=true
 * https://github.com/open-source-society/data-science
 * https://unsupervisedmethods.com/over-150-of-the-best-machine-learning-nlp-and-python-tutorials-ive-found-ffce2939bd78
 * http://www.scipy-lectures.org/
