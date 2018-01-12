@@ -306,3 +306,6 @@ Recommender, chatbot, graphics simulation with AI (e.g. ball and paddle), ...
 * https://unsupervisedmethods.com/over-150-of-the-best-machine-learning-nlp-and-python-tutorials-ive-found-ffce2939bd78
 * http://www.scipy-lectures.org/
 * https://github.com/mr-mig/every-programmer-should-know
+
+
+* computational geometry https://www.youtube.com/watch?v=rho8QqiHOe4
