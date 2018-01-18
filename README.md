@@ -111,6 +111,7 @@ Proofs, Graphs, Combinatorics, Probability, Asymtotics, Recurrences
 
 #### Probability and Statistics
 - [ ] [Khan - AP Statistics](https://www.khanacademy.org/math/ap-statistics)
+- [ ] https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/unit-i/
 - [ ] [Coursera/Duke Uni - Introduction to Probability and Data](https://www.coursera.org/learn/probability-intro)
 - [ ] [Coursera/Duke Uni - Inferential Statistics](https://www.coursera.org/learn/inferential-statistics-intro)
 - [ ] [Coursera/Duke Uni - Linear Regression and Modeling](https://www.coursera.org/learn/linear-regression-model)
