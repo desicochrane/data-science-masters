@@ -120,7 +120,7 @@ Proofs, Graphs, Combinatorics, Probability, Asymtotics, Recurrences
 - [ ] [Edx/Uni Texas - Foundations of Data Analysis - Part 1: Statistics Using R](https://www.edx.org/course/foundations-data-analysis-part-1-utaustinx-ut-7-11x-0)
 - [ ] [EdX/Uni Texas - Foundations of Data Analysis - Part 2: Inferential Statistics](https://www.edx.org/course/foundations-data-analysis-part-2-utaustinx-ut-7-21x-0)
 - [ ] [EdX/MIT - Introduction to Probability - The Science of Uncertainty](https://www.edx.org/course/introduction-probability-science-mitx-6-041x-2)
-
+- [ ] [EdX/MIT - Introduction to Probability Part II - Inferences and Processes](https://www.edx.org/course/introduction-to-probability-part-2-inference-processes) 
 ## Block 2 - Computation and Algorithms
 
 #### R Programming
@@ -310,3 +310,6 @@ Recommender, chatbot, graphics simulation with AI (e.g. ball and paddle), ...
 
 
 * computational geometry https://www.youtube.com/watch?v=rho8QqiHOe4
+* kaggle school https://www.kaggle.com/learn/overview
+* MIT self driving https://selfdrivingcars.mit.edu/
+* MIT GAI https://agi.mit.edu/
