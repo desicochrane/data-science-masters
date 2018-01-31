@@ -62,6 +62,7 @@ Calculus, Linear Algebra, Discrete Math, and Statistics.
 - [ ] [Khan - AP Calculus AB](https://www.khanacademy.org/mission/ap-calculus-ab) - 2%
 - [ ] [Khan - AP Calculus BC](https://www.khanacademy.org/mission/ap-calculus-bc) - 2%
 - [ ] [MIT - Single Variable Calculus](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/index.htm)
+- [ ] http://parrt.cs.usfca.edu/doc/matrix-calculus/index.html
 
 *Supplementary Material*
 * [Calculus, Better Explained](https://betterexplained.com/calculus/lesson-1)
