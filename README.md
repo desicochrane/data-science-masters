@@ -55,6 +55,9 @@ Not everyone was lucky enough to have a good start with math growing up. The goa
 
 Calculus, Linear Algebra, Discrete Math, and Statistics.
 
+
+Matrix Calculus for Deep Learning - http://parrt.cs.usfca.edu/doc/matrix-calculus/index.html
+
 #### Calculus
 
 - [ ] [Khan - Differential Calculus](https://www.khanacademy.org/mission/differential-calculus) - 8%
