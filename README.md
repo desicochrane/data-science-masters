@@ -16,10 +16,10 @@ Self-study plan to achieve zero to mastery in data science.
 ## Study Plan Overview
 
 * Module 0 - Highschool Math
-* Module 1 - College Math (Calculus)
-* Module 2 - College Math (Linear Algebra)
-* Module 3 - College Math (Discrete Math)
-* Module 4 - College Math (Probability and Statistics)
+* Module 1 - College Math I (Calculus)
+* Module 2 - College Math II (Linear Algebra)
+* Module 3 - College Math III (Discrete Math)
+* Module 4 - College Math IV (Probability and Statistics)
 * Module 5 - Computation and Algorithms
 * Module 6 - Artificial Intelligence and Machine Learning
 * Module 7 - Deep Learning
