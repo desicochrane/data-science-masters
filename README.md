@@ -15,18 +15,21 @@ Self-study plan to achieve zero to mastery in data science.
 
 ## Study Plan Overview
 
-* Block 0 - Highschool Math
-* Block 1 - College Math
-* Block 2 - Computation and Algorithms
-* Block 3 - Artificial Intelligence and Machine Learning
-* Block 4 - Deep Learning
-* Block 5 - Data Mining and Recommenders
-* Block 6 - NLP and Computer Vision
-* Block 7 - Cloud Computing Architectures / Data Center Engineering
+* Module 0 - Highschool Math
+* Module 1 - College Math (Calculus)
+* Module 2 - College Math (Linear Algebra)
+* Module 3 - College Math (Discrete Math)
+* Module 4 - College Math (Probability and Statistics)
+* Module 5 - Computation and Algorithms
+* Module 6 - Artificial Intelligence and Machine Learning
+* Module 7 - Deep Learning
+* Module 8 - Data Mining and Recommenders
+* Module 9 - NLP and Computer Vision
+* Module 10 - Cloud Computing Architectures / Data Center Engineering
 
 It is recommended to look ahead so long as the general trend is that of finishing earlier blocks before later blocks.
 
-## Block 0: Highschool math
+## Module 0 - Highschool math
 
 Not everyone was lucky enough to have a good start with math growing up. The goal is to level the playing field - by the end of Block 0 you should feel like you went to a highschool with world class teachers and finished top of your math class.
 
@@ -51,7 +54,7 @@ Not everyone was lucky enough to have a good start with math growing up. The goa
 - [X] 📚 [The Joy of X](https://www.amazon.com/Joy-Guided-Tour-Math-Infinity/dp/0544105850)
 
 
-## Block 1: College Math I - Calculus
+## Module 1 - College Math I (Calculus)
 
 - [ ] [Khan - Differential Calculus](https://www.khanacademy.org/mission/differential-calculus) - 8%
 - [ ] [Khan - Integral Calculus](https://www.khanacademy.org/mission/integral-calculus) - 7%
@@ -64,7 +67,7 @@ Not everyone was lucky enough to have a good start with math growing up. The goa
 * [Calculus, Better Explained](https://betterexplained.com/calculus/lesson-1)
 * [Essence of Calculus](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
 
-## Block 2: College Math II - Linear Algebra
+## Module 2 - College Math II (Linear Algebra)
 
 Matrix Calculus for Deep Learning - http://parrt.cs.usfca.edu/doc/matrix-calculus/index.html
 
@@ -85,7 +88,7 @@ Matrix Calculus for Deep Learning - http://parrt.cs.usfca.edu/doc/matrix-calculu
 - https://www.youtube.com/playlist?list=PL44B6B54CBF6A72DF
 
 
-## Block 3: College Math III - Discrete Math
+## Module 3 - College Math III (Discrete Math)
 
 Proofs, Graphs, Combinatorics, Probability, Asymtotics, Recurrences
 
@@ -112,7 +115,7 @@ Proofs, Graphs, Combinatorics, Probability, Asymtotics, Recurrences
 
 
 
-## Block 4 - College Math IV - Probability and Statistics
+## Module 4 - College Math IV (Probability and Statistics)
 
 - [ ] [Khan - AP Statistics](https://www.khanacademy.org/math/ap-statistics)
 - [ ] https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/unit-i/
@@ -127,7 +130,7 @@ Proofs, Graphs, Combinatorics, Probability, Asymtotics, Recurrences
 - [ ] [EdX/MIT - Introduction to Probability Part II - Inferences and Processes](https://www.edx.org/course/introduction-to-probability-part-2-inference-processes) 
 
 
-## Block 5 - Computation and Algorithms
+## Module 5 - Computation and Algorithms
 
 #### R Programming
 * https://www.coursera.org/specializations/statistics
@@ -172,7 +175,7 @@ Proofs, Graphs, Combinatorics, Probability, Asymtotics, Recurrences
 * https://www.youtube.com/user/mikeysambol/playlists
 * https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/
 
-## Block 6 - Artificial Intelligence and Machine Learning
+## Module 6 - Artificial Intelligence and Machine Learning
 
 https://www.coursera.org/specializations/aml
 
@@ -209,7 +212,7 @@ https://www.coursera.org/specializations/aml
 * https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-868j-the-society-of-mind-fall-2011/video-lectures/
 * https://www.coursera.org/specializations/gcp-data-machine-learning
 
-## Block 7 - Deep Learning
+## Module 7 - Deep Learning
 
 #### Deep Learning by deeplearning.ai on Coursera
 
@@ -256,7 +259,7 @@ Goals:
 * https://www.udacity.com/course/deep-learning--ud730
 * https://stats385.github.io/
 
-## Block 8 - Data Mining and Recommenders
+## Module 8 - Data Mining and Recommenders
 
 * https://www.coursera.org/specializations/recommender-systems
 
@@ -270,7 +273,7 @@ Goals:
 * https://www.coursera.org/specializations/data-science
 * https://www.coursera.org/learn/scala-spark-big-data
 
-## Block 9 - NLP and Computer Vision
+## Module 9 - NLP and Computer Vision
 
 #### NLP
 * https://github.com/oxford-cs-deepnlp-2017/lectures
@@ -282,7 +285,7 @@ Goals:
 * https://www.udacity.com/course/interactive-3d-graphics--cs291
 * https://www.youtube.com/watch?v=01YSK5gIEYQ&list=PL_w_qWAQZtAZhtzPI5pkAtcUVgmzdAP8g
 
-## Block 10 - Architectures / Data Centers
+## Module 10 - Architectures / Data Centers
 
 * https://www.coursera.org/specializations/data-warehousing
 * https://www.coursera.org/specializations/big-data-engineering
