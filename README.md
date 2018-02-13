@@ -56,6 +56,7 @@ Not everyone was lucky enough to have a good start with math growing up. The goa
 
 ## Module 1 - College Math I (Calculus)
 
+- [ ] [Engineering Math](https://www.youtube.com/watch?v=oL15D_1Y0wk&list=PLwV-9DG53NDzJ32JwfCQLpbdK5Ys4bM4P)
 - [ ] [Khan - Differential Calculus](https://www.khanacademy.org/mission/differential-calculus) - 8%
 - [ ] [Khan - Integral Calculus](https://www.khanacademy.org/mission/integral-calculus) - 7%
 - [ ] [Khan - AP Calculus AB](https://www.khanacademy.org/mission/ap-calculus-ab) - 2%
