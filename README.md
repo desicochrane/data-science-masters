@@ -92,6 +92,7 @@ Matrix Calculus for Deep Learning - http://parrt.cs.usfca.edu/doc/matrix-calculu
 
 Proofs, Graphs, Combinatorics, Probability, Asymtotics, Recurrences
 
+- [ ] [Visual Group Theory](https://www.youtube.com/watch?v=UwTQdOop-nU&list=PLwV-9DG53NDxU337smpTwm6sef4x-SCLv)
 - [ ] [Coursera - What is a Proof?](https://www.coursera.org/learn/what-is-a-proof)
 - [ ] [Coursera - Combinatorics and Probability](https://www.coursera.org/learn/combinatorics)
 - [ ] [Coursera - Introduction to Graph Theory](https://www.coursera.org/learn/graphs)
