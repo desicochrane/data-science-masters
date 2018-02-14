@@ -301,6 +301,7 @@ Goals:
 
 
 ## Electives
+* http://cagd.cs.byu.edu/~557/text/ch1.pdf
 * https://www.coursera.org/learn/data-driven-astronomy
 * https://www.coursera.org/specializations/genomic-data-science
 * https://www.coursera.org/learn/data-genes-medicine
