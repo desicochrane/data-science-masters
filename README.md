@@ -56,6 +56,7 @@ Not everyone was lucky enough to have a good start with math growing up. The goa
 
 ## Module 1 - College Math I (Calculus)
 
+- [ ] https://www.coursera.org/learn/complex-analysis/home/welcome
 - [ ] [Engineering Math](https://www.youtube.com/watch?v=oL15D_1Y0wk&list=PLwV-9DG53NDzJ32JwfCQLpbdK5Ys4bM4P)
 - [ ] [Khan - Differential Calculus](https://www.khanacademy.org/mission/differential-calculus) - 8%
 - [ ] [Khan - Integral Calculus](https://www.khanacademy.org/mission/integral-calculus) - 7%
@@ -93,6 +94,7 @@ Matrix Calculus for Deep Learning - http://parrt.cs.usfca.edu/doc/matrix-calculu
 
 Proofs, Graphs, Combinatorics, Probability, Asymtotics, Recurrences
 
+- [ ] https://www.coursera.org/learn/analytic-combinatorics
 - [ ] [Visual Group Theory](https://www.youtube.com/watch?v=UwTQdOop-nU&list=PLwV-9DG53NDxU337smpTwm6sef4x-SCLv)
 - [ ] [Coursera - What is a Proof?](https://www.coursera.org/learn/what-is-a-proof)
 - [ ] [Coursera - Combinatorics and Probability](https://www.coursera.org/learn/combinatorics)
