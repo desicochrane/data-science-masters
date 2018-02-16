@@ -71,11 +71,10 @@ Not everyone was lucky enough to have a good start with math growing up. The goa
 
 ## Module 2 - College Math II (Linear Algebra)
 
-Matrix Calculus for Deep Learning - http://parrt.cs.usfca.edu/doc/matrix-calculus/index.html
-
 - [ ] [Khan - Linear Algebra](https://www.khanacademy.org/math/linear-algebra)
 - [ ] [Fast AI - Computational Linear Algebra](https://www.youtube.com/playlist?list=PLtmWHNX-gukIc92m1K0P6bIOnZb-mg0hY)
 - [ ] [MIT - Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
+- [ ] [Matrix Calculus for Deep Learning](http://parrt.cs.usfca.edu/doc/matrix-calculus/index.html)
 
 *Required Reading*
 - [ ] 📚 [Linear Algebra and its Applications](https://www.amazon.com/Linear-Algebra-Its-Applications-4th/dp/0030105676)
@@ -94,20 +93,20 @@ Matrix Calculus for Deep Learning - http://parrt.cs.usfca.edu/doc/matrix-calculu
 
 Proofs, Graphs, Combinatorics, Probability, Asymtotics, Recurrences
 
-- [ ] https://www.coursera.org/learn/analytic-combinatorics
-- [ ] [Visual Group Theory](https://www.youtube.com/watch?v=UwTQdOop-nU&list=PLwV-9DG53NDxU337smpTwm6sef4x-SCLv)
+
 - [ ] [Coursera - What is a Proof?](https://www.coursera.org/learn/what-is-a-proof)
 - [ ] [Coursera - Combinatorics and Probability](https://www.coursera.org/learn/combinatorics)
 - [ ] [Coursera - Introduction to Graph Theory](https://www.coursera.org/learn/graphs)
 - [ ] [Coursera - Number Theory and Cryptography](https://www.coursera.org/learn/number-theory-cryptography)
 - [ ] [Coursera - Solving the Delivery Problem](https://www.coursera.org/learn/delivery-problem)
 - [ ] [Coursera - Introduction to Enumerative Combinatorics](https://www.coursera.org/learn/enumerative-combinatorics)
-
+- [ ] [Coursera/Princeton - Analytic Combinatorics](https://www.coursera.org/learn/analytic-combinatorics)
 
 *Required Reading*
 - [ ] 📚 [How to Prove It](https://www.amazon.com/How-Prove-Structured-Approach-2nd/dp/0521675995)
 - [ ] 📚 [Introduction to Graph Theory](https://www.amazon.com.au/Introduction-Graph-Theory-Dover-Mathematics-ebook/dp/B00BX1DX9U)
 - [ ] 📚 [Book of Proof](http://www.people.vcu.edu/~rhammack/BookOfProof/BookOfProof.pdf)
+- [ ] 📚 [From Mathematics to Generic Programming](https://www.amazon.com/Mathematics-Generic-Programming-Alexander-Stepanov/dp/0321942043)
 
 *Supplementary Material*
 * [MIT - Mathematics for Computer Science (2017)](https://courses.csail.mit.edu/6.042/spring17/mcs.pdf)
@@ -116,7 +115,7 @@ Proofs, Graphs, Combinatorics, Probability, Asymtotics, Recurrences
 * [Arsdigita University - Discrete Mathematics](https://www.youtube.com/watch?v=h_9WjWENWV8)
 * [Coursera - Discrete Mathematics](https://www.coursera.org/learn/discrete-mathematics)
 * [Sarada Herke - Discrete Math](https://www.youtube.com/user/DrSaradaHerke)
-
+* [Visual Group Theory](https://www.youtube.com/watch?v=UwTQdOop-nU&list=PLwV-9DG53NDxU337smpTwm6sef4x-SCLv)
 
 
 ## Module 4 - College Math IV (Probability and Statistics)
@@ -135,6 +134,10 @@ Proofs, Graphs, Combinatorics, Probability, Asymtotics, Recurrences
 
 
 ## Module 5 - Computation and Algorithms
+
+- [ ] [Programming Conversations](https://www.youtube.com/playlist?list=PLHxtyCq_WDLV5N5zUCBCDC2WqF1VBDGg1)
+- [ ] [Efficient Programming with Components](https://www.youtube.com/playlist?list=PLHxtyCq_WDLXryyw91lahwdtpZsmo4BGD)
+- [ ] [Four Algorithmic Journeys](https://www.youtube.com/playlist?list=PLHxtyCq_WDLV5N5zUCBCDC2WqF1VBDGg1)
 
 #### R Programming
 * https://www.coursera.org/specializations/statistics
