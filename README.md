@@ -153,6 +153,8 @@ Proofs, Graphs, Combinatorics, Probability, Asymtotics, Recurrences
 * [Introduction to Computational Thinking and Data Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-1-introduction-and-optimization-problems/)
 
 #### Algorithms
+
+* http://www3.cs.stonybrook.edu/~algorith/
 * [Khan Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms)
 * [MIT 6.006 - Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/index.htm)
 
