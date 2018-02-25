@@ -56,36 +56,39 @@ Not everyone was lucky enough to have a good start with math growing up. The goa
 
 ## Module 1 - College Math I (Calculus)
 
-- [ ] https://www.coursera.org/specializations/mathematics-machine-learning
-- [ ] https://www.coursera.org/learn/complex-analysis/home/welcome
-- [ ] [Engineering Math](https://www.youtube.com/watch?v=oL15D_1Y0wk&list=PLwV-9DG53NDzJ32JwfCQLpbdK5Ys4bM4P)
 - [ ] [Khan - Differential Calculus](https://www.khanacademy.org/mission/differential-calculus) - 8%
 - [ ] [Khan - Integral Calculus](https://www.khanacademy.org/mission/integral-calculus) - 7%
+- [ ] [Coursera - Mathematics for Machine Learning: Multivariate Calculus](https://www.coursera.org/specializations/mathematics-machine-learning)
 - [ ] [Khan - AP Calculus AB](https://www.khanacademy.org/mission/ap-calculus-ab) - 2%
 - [ ] [Khan - AP Calculus BC](https://www.khanacademy.org/mission/ap-calculus-bc) - 2%
 - [ ] [MIT - Single Variable Calculus](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/index.htm)
-- [ ] http://parrt.cs.usfca.edu/doc/matrix-calculus/index.html
+- [ ] [Coursera - Introduction to Complex Analysis](https://www.coursera.org/learn/complex-analysis/home/welcome)
+
 
 *Supplementary Material*
 * [Calculus, Better Explained](https://betterexplained.com/calculus/lesson-1)
 * [Essence of Calculus](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
+* [Engineering Math](https://www.youtube.com/watch?v=oL15D_1Y0wk&list=PLwV-9DG53NDzJ32JwfCQLpbdK5Ys4bM4P)
+
 
 ## Module 2 - College Math II (Linear Algebra)
 
 - [ ] [Khan - Linear Algebra](https://www.khanacademy.org/math/linear-algebra)
+- [ ] [Coursera - Mathematics for Machine Learning: Linear Algebra](https://www.coursera.org/specializations/mathematics-machine-learning)
+- [ ] [Coursera - Mathematics for Machine Learning: Principle Component Analysis](https://www.coursera.org/specializations/mathematics-machine-learning)
 - [ ] [Fast AI - Computational Linear Algebra](https://www.youtube.com/playlist?list=PLtmWHNX-gukIc92m1K0P6bIOnZb-mg0hY)
 - [ ] [MIT - Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
-- [ ] [Matrix Calculus for Deep Learning](http://parrt.cs.usfca.edu/doc/matrix-calculus/index.html)
 
 *Required Reading*
 - [ ] 📚 [Linear Algebra and its Applications](https://www.amazon.com/Linear-Algebra-Its-Applications-4th/dp/0030105676)
 - [ ] 📚 [Coding the Matrix](http://codingthematrix.com/)
 
 *Supplementary Material*
-- [Graphical linear algebra](https://graphicallinearalgebra.net/)
-- [Essence of Linear Algebra](https://www.youtube.com/watch?v=kjBOesZCoqc&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
-- [Brown University - Coding the Matrix](https://cs.brown.edu/video/channels/coding-matrix-fall-2014/)
-- [Udacity - Linear Algebra Refresher Course](https://www.udacity.com/course/linear-algebra-refresher-course--ud953)
+* [Matrix Calculus for Deep Learning](http://parrt.cs.usfca.edu/doc/matrix-calculus/index.html)
+* [Graphical linear algebra](https://graphicallinearalgebra.net/)
+* [Essence of Linear Algebra](https://www.youtube.com/watch?v=kjBOesZCoqc&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+* [Brown University - Coding the Matrix](https://cs.brown.edu/video/channels/coding-matrix-fall-2014/)
+* [Udacity - Linear Algebra Refresher Course](https://www.udacity.com/course/linear-algebra-refresher-course--ud953)
 - https://open.math.uwaterloo.ca/
 - https://www.youtube.com/playlist?list=PL44B6B54CBF6A72DF
 
@@ -93,7 +96,6 @@ Not everyone was lucky enough to have a good start with math growing up. The goa
 ## Module 3 - College Math III (Discrete Math)
 
 Proofs, Graphs, Combinatorics, Probability, Asymtotics, Recurrences
-
 
 - [ ] [Coursera - What is a Proof?](https://www.coursera.org/learn/what-is-a-proof)
 - [ ] [Coursera - Combinatorics and Probability](https://www.coursera.org/learn/combinatorics)
