@@ -123,6 +123,7 @@ Proofs, Graphs, Combinatorics, Probability, Asymtotics, Recurrences
 
 ## Module 4 - College Math IV (Probability and Statistics)
 
+- [ ] [Discrete Stochastic Processes](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-262-discrete-stochastic-processes-spring-2011/)
 - [ ] [Khan - AP Statistics](https://www.khanacademy.org/math/ap-statistics)
 - [ ] https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/unit-i/
 - [ ] [Coursera/Duke Uni - Introduction to Probability and Data](https://www.coursera.org/learn/probability-intro)
