@@ -108,6 +108,7 @@ Proofs, Graphs, Combinatorics, Probability, Asymtotics, Recurrences
 *Required Reading*
 - [ ] 📚 [How to Prove It](https://www.amazon.com/How-Prove-Structured-Approach-2nd/dp/0521675995)
 - [ ] 📚 [Introduction to Graph Theory](https://www.amazon.com.au/Introduction-Graph-Theory-Dover-Mathematics-ebook/dp/B00BX1DX9U)
+
 - [ ] 📚 [Book of Proof](http://www.people.vcu.edu/~rhammack/BookOfProof/BookOfProof.pdf)
 - [ ] 📚 [From Mathematics to Generic Programming](https://www.amazon.com/Mathematics-Generic-Programming-Alexander-Stepanov/dp/0321942043)
 
@@ -331,8 +332,21 @@ Recommender, chatbot, graphics simulation with AI (e.g. ball and paddle), ...
 * http://www.scipy-lectures.org/
 * https://github.com/mr-mig/every-programmer-should-know
 
-
 * computational geometry https://www.youtube.com/watch?v=rho8QqiHOe4
 * kaggle school https://www.kaggle.com/learn/overview
 * MIT self driving https://selfdrivingcars.mit.edu/
 * MIT GAI https://agi.mit.edu/
+
+## Reading List
+
+- [ ] [The Art of Unix Programming](https://www.bol.com/nl/p/the-art-of-unix-programming/1001004010307550/?Referrer=ADVNLGOO002011B-G-50461511163-S-402982354031-1001004010307550&gclid=EAIaIQobChMI5Jvdq9_G2QIVh-cbCh2V6A2pEAYYAiABEgLGw_D_BwE)
+- [ ] [The C programming language](https://www.bol.com/nl/f/c-programming-language/30129487/)
+- [ ] Gödel, Escher, Bach: An Eternal Golden Braid
+- [ ] Compilers: Principles, Techniques, and Tools (dragaon book)
+- [ ] [Code](https://www.amazon.com/Code-Language-Computer-Hardware-Software/dp/0735611319)
+- [ ] [The elements of statistical learning](https://www.amazon.com/Elements-Statistical-Learning-Prediction-Statistics/dp/0387848576/ref=sr_1_4?s=books&ie=UTF8&qid=1519805396&sr=1-4&keywords=elements+of+statistical+learning)
+- [ ] [The structure and intepretation of computer programs](https://www.amazon.com/Structure-Interpretation-Computer-Programs-Engineering/dp/0262510871/ref=pd_sim_14_1?_encoding=UTF8&pd_rd_i=0262510871&pd_rd_r=PK0YXR61WT82HXNS292Y&pd_rd_w=xmFvL&pd_rd_wg=Hf8EG&psc=1&refRID=PK0YXR61WT82HXNS292Y&dpID=51H17R%252BbW8L&preST=_SY291_BO1,204,203,200_QL40_&dpSrc=detail)
+- [ ] [Hackers Delight](https://www.amazon.com/Hackers-Delight-2nd-Henry-Warren/dp/0321842685/ref=pd_bxgy_14_3?_encoding=UTF8&pd_rd_i=0321842685&pd_rd_r=HZTEXAA2FP9RWGFXDCFF&pd_rd_w=YNZNu&pd_rd_wg=ejR4S&psc=1&refRID=HZTEXAA2FP9RWGFXDCFF&dpID=41KHlIadcWL&preST=_SY291_BO1,204,203,200_QL40_&dpSrc=detail)
+- [ ] [Concrete Mathematics](https://www.amazon.com/Concrete-Mathematics-Foundation-Computer-Science/dp/0201558025/ref=pd_lpo_sbs_14_img_0?_encoding=UTF8&psc=1&refRID=HZTEXAA2FP9RWGFXDCFF&dpID=61oqP3wQsiL&preST=_SY291_BO1,204,203,200_QL40_&dpSrc=detail)
+- [ ] [The Art of Computer Programming](https://www.amazon.com/Computer-Programming-Volumes-1-4A-Boxed/dp/0321751043)
+- [ ] [Artificial Intelligence: A Modern Approach](https://www.amazon.com/Artificial-Intelligence-Modern-Approach-3rd/dp/0136042597)
