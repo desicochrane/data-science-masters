@@ -336,6 +336,8 @@ Recommender, chatbot, graphics simulation with AI (e.g. ball and paddle), ...
 * kaggle school https://www.kaggle.com/learn/overview
 * MIT self driving https://selfdrivingcars.mit.edu/
 * MIT GAI https://agi.mit.edu/
+* https://ai.google/education
+
 
 ## Reading List
 
@@ -350,3 +352,4 @@ Recommender, chatbot, graphics simulation with AI (e.g. ball and paddle), ...
 - [ ] [Concrete Mathematics](https://www.amazon.com/Concrete-Mathematics-Foundation-Computer-Science/dp/0201558025/ref=pd_lpo_sbs_14_img_0?_encoding=UTF8&psc=1&refRID=HZTEXAA2FP9RWGFXDCFF&dpID=61oqP3wQsiL&preST=_SY291_BO1,204,203,200_QL40_&dpSrc=detail)
 - [ ] [The Art of Computer Programming](https://www.amazon.com/Computer-Programming-Volumes-1-4A-Boxed/dp/0321751043)
 - [ ] [Artificial Intelligence: A Modern Approach](https://www.amazon.com/Artificial-Intelligence-Modern-Approach-3rd/dp/0136042597)
+
