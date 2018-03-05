@@ -95,21 +95,36 @@ Not everyone was lucky enough to have a good start with math growing up. The goa
 
 ## Module 3 - College Math III (Discrete Math)
 
-Proofs, Graphs, Combinatorics, Probability, Asymtotics, Recurrences
+#### Proofs
+Proofs, Set theory, propositional logic, induction, invariants, state-machines
 
 - [ ] [Coursera - What is a Proof?](https://www.coursera.org/learn/what-is-a-proof)
-- [ ] [Coursera - Combinatorics and Probability](https://www.coursera.org/learn/combinatorics)
+- [ ] [MIT - Mathematics for Computer Science (2015)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/)
+    - [ ] Lectures: Unit 1
+    - [ ] Readings: Unit 1
+- [ ] [MIT - Mathematics for Computer Science (2010)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/)
+    - [ ] Lectures: 1,2,3
+    - [ ] Readings: Chapter 1,2,3
+    - [ ] Recitations: 1,2,3
+
+*Required Reading*
+- [ ] 📚 [How to Prove It](https://www.amazon.com/How-Prove-Structured-Approach-2nd/dp/0521675995)
+- [ ] 📚 [Book of Proof](http://www.people.vcu.edu/~rhammack/BookOfProof/BookOfProof.pdf)
+
+
+#### Graph Theory
 - [ ] [Coursera - Introduction to Graph Theory](https://www.coursera.org/learn/graphs)
+
+*Required Reading*
+- [ ] 📚 [Introduction to Graph Theory](https://www.amazon.com.au/Introduction-Graph-Theory-Dover-Mathematics-
+
+- [ ] [Coursera - Combinatorics and Probability](https://www.coursera.org/learn/combinatorics)
 - [ ] [Coursera - Number Theory and Cryptography](https://www.coursera.org/learn/number-theory-cryptography)
 - [ ] [Coursera - Solving the Delivery Problem](https://www.coursera.org/learn/delivery-problem)
 - [ ] [Coursera - Introduction to Enumerative Combinatorics](https://www.coursera.org/learn/enumerative-combinatorics)
 - [ ] [Coursera/Princeton - Analytic Combinatorics](https://www.coursera.org/learn/analytic-combinatorics)
 
-*Required Reading*
-- [ ] 📚 [How to Prove It](https://www.amazon.com/How-Prove-Structured-Approach-2nd/dp/0521675995)
-- [ ] 📚 [Introduction to Graph Theory](https://www.amazon.com.au/Introduction-Graph-Theory-Dover-Mathematics-ebook/dp/B00BX1DX9U)
-
-- [ ] 📚 [Book of Proof](http://www.people.vcu.edu/~rhammack/BookOfProof/BookOfProof.pdf)
+ebook/dp/B00BX1DX9U)
 - [ ] 📚 [From Mathematics to Generic Programming](https://www.amazon.com/Mathematics-Generic-Programming-Alexander-Stepanov/dp/0321942043)
 
 *Supplementary Material*
