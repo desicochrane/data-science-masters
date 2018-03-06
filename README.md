@@ -98,7 +98,7 @@ Not everyone was lucky enough to have a good start with math growing up. The goa
 #### Proofs
 Proofs, Set theory, propositional logic, induction, invariants, state-machines
 
-- [ ] [Coursera - What is a Proof?](https://www.coursera.org/learn/what-is-a-proof)
+- [X] [Coursera - What is a Proof?](https://www.coursera.org/learn/what-is-a-proof)
 - [ ] [MIT - Mathematics for Computer Science (2015): Unit 1](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/)
 - [ ] [MIT - Mathematics for Computer Science (2010): Weeks 1,2,3](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/)
 - [ ] 📚 [How to Prove It](https://www.amazon.com/How-Prove-Structured-Approach-2nd/dp/0521675995)
