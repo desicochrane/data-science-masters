@@ -99,33 +99,34 @@ Not everyone was lucky enough to have a good start with math growing up. The goa
 Proofs, Set theory, propositional logic, induction, invariants, state-machines
 
 - [ ] [Coursera - What is a Proof?](https://www.coursera.org/learn/what-is-a-proof)
-- [ ] [MIT - Mathematics for Computer Science (2015)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/)
-    - [ ] Lectures: Unit 1
-    - [ ] Readings: Unit 1
-- [ ] [MIT - Mathematics for Computer Science (2010)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/)
-    - [ ] Lectures: 1,2,3
-    - [ ] Readings: Chapter 1,2,3
-    - [ ] Recitations: 1,2,3
-
-*Required Reading*
+- [ ] [MIT - Mathematics for Computer Science (2015): Unit 1](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/)
+- [ ] [MIT - Mathematics for Computer Science (2010): Weeks 1,2,3](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/)
 - [ ] 📚 [How to Prove It](https://www.amazon.com/How-Prove-Structured-Approach-2nd/dp/0521675995)
 - [ ] 📚 [Book of Proof](http://www.people.vcu.edu/~rhammack/BookOfProof/BookOfProof.pdf)
 
 
 #### Graph Theory
 - [ ] [Coursera - Introduction to Graph Theory](https://www.coursera.org/learn/graphs)
-
-*Required Reading*
-- [ ] 📚 [Introduction to Graph Theory](https://www.amazon.com.au/Introduction-Graph-Theory-Dover-Mathematics-
-
-- [ ] [Coursera - Combinatorics and Probability](https://www.coursera.org/learn/combinatorics)
-- [ ] [Coursera - Number Theory and Cryptography](https://www.coursera.org/learn/number-theory-cryptography)
 - [ ] [Coursera - Solving the Delivery Problem](https://www.coursera.org/learn/delivery-problem)
+- [ ] 📚 [Introduction to Graph Theory](https://www.amazon.com.au/Introduction-Graph-Theory-Dover-Mathematics-
+- [ ] [Sarada Herke - Graph Theory Course](https://www.youtube.com/user/DrSaradaHerke/playlists?shelf_id=5&view=50&sort=dd)
+
+#### Combinatorics
+- [ ] [Coursera - Combinatorics and Probability](https://www.coursera.org/learn/combinatorics)
 - [ ] [Coursera - Introduction to Enumerative Combinatorics](https://www.coursera.org/learn/enumerative-combinatorics)
 - [ ] [Coursera/Princeton - Analytic Combinatorics](https://www.coursera.org/learn/analytic-combinatorics)
 
-ebook/dp/B00BX1DX9U)
+#### Series, Sequences, Recurrences
+
+#### Number Theory
+- [ ] [Coursera - Number Theory and Cryptography](https://www.coursera.org/learn/number-theory-cryptography)
 - [ ] 📚 [From Mathematics to Generic Programming](https://www.amazon.com/Mathematics-Generic-Programming-Alexander-Stepanov/dp/0321942043)
+
+### Discrete Probability
+
+
+#### Abstract Algebra
+- [ ] [Visual Group Theory](https://www.youtube.com/watch?v=UwTQdOop-nU&list=PLwV-9DG53NDxU337smpTwm6sef4x-SCLv)
 
 *Supplementary Material*
 * [MIT - Mathematics for Computer Science (2017)](https://courses.csail.mit.edu/6.042/spring17/mcs.pdf)
@@ -133,9 +134,6 @@ ebook/dp/B00BX1DX9U)
 * [MIT - Mathematics for Computer Science (2010)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/index.htm)
 * [Arsdigita University - Discrete Mathematics](https://www.youtube.com/watch?v=h_9WjWENWV8)
 * [Coursera - Discrete Mathematics](https://www.coursera.org/learn/discrete-mathematics)
-* [Sarada Herke - Discrete Math](https://www.youtube.com/user/DrSaradaHerke)
-* [Visual Group Theory](https://www.youtube.com/watch?v=UwTQdOop-nU&list=PLwV-9DG53NDxU337smpTwm6sef4x-SCLv)
-
 
 ## Module 4 - College Math IV (Probability and Statistics)
 
