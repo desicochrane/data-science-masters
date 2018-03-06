@@ -108,7 +108,7 @@ Proofs, Set theory, propositional logic, induction, invariants, state-machines
 #### Graph Theory
 - [ ] [Coursera - Introduction to Graph Theory](https://www.coursera.org/learn/graphs)
 - [ ] [Coursera - Solving the Delivery Problem](https://www.coursera.org/learn/delivery-problem)
-- [ ] 📚 [Introduction to Graph Theory](https://www.amazon.com.au/Introduction-Graph-Theory-Dover-Mathematics-
+- [ ] 📚 [Introduction to Graph Theory](https://www.amazon.com.au/Introduction-Graph-Theory-RICHARD-TRUDEAU/dp/0486678709/ref=sr_1_1?ie=UTF8&qid=1520325817&sr=8-1&keywords=introduction+to+graph+theory)
 - [ ] [Sarada Herke - Graph Theory Course](https://www.youtube.com/user/DrSaradaHerke/playlists?shelf_id=5&view=50&sort=dd)
 
 #### Combinatorics
