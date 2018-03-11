@@ -338,9 +338,6 @@ Goals:
 * https://www.coursera.org/learn/neurohacking
 * https://www.youtube.com/playlist?list=PLUl4u3cNGP62K2DjQLRxDNRi0z2IRWnNh
 
-## Projects
-Recommender, chatbot, graphics simulation with AI (e.g. ball and paddle), ... 
-
 #### Resources
 * https://www.youtube.com/playlist?list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu&disable_polymer=true
 * https://github.com/open-source-society/data-science
