@@ -64,6 +64,9 @@ Not everyone was lucky enough to have a good start with math growing up. The goa
 - [ ] [MIT - Single Variable Calculus](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/index.htm)
 - [ ] [Coursera - Introduction to Complex Analysis](https://www.coursera.org/learn/complex-analysis/home/welcome)
 
+#### Differential Equations
+- [ ] https://ocw.mit.edu/courses/mathematics/18-03sc-differential-equations-fall-2011/
+- [ ] https://www.khanacademy.org/math/differential-equations
 
 *Supplementary Material*
 * [Calculus, Better Explained](https://betterexplained.com/calculus/lesson-1)
