@@ -123,7 +123,9 @@ Proofs, Set theory, propositional logic, induction, invariants, state-machines
 
 #### Number Theory
 divisibility, gcd, modular arithmetic, bezouts identity, eulers totient theorem, fermats little theorem, "water-jug pouring", prime factorization, diophantine equations, fundemental theorem of arithmetic
+
 - [ ] [Coursera - Number Theory and Cryptography](https://www.coursera.org/learn/number-theory-cryptography)
+- [ ] [MIT - Mathematics for Computer Science (2010): Weeks 4,5](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/)
 - [ ] 📚 [From Mathematics to Generic Programming](https://www.amazon.com/Mathematics-Generic-Programming-Alexander-Stepanov/dp/0321942043)
 
 ### Discrete Probability
