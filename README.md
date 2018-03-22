@@ -27,11 +27,11 @@ Self-study plan to achieve zero to mastery in data science.
 * Module 9 - NLP and Computer Vision
 * Module 10 - Cloud Computing Architectures / Data Center Engineering
 
-It is recommended to look ahead so long as the general trend is that of finishing earlier blocks before later blocks.
+It is recommended to look ahead so long as the general trend is that of finishing earlier modules before later modules.
 
 ## Module 0 - Highschool math
 
-Not everyone was lucky enough to have a good start with math growing up. The goal is to level the playing field - by the end of Block 0 you should feel like you went to a highschool with world class teachers and finished top of your math class.
+Not everyone was lucky enough to have a good start with math growing up. The goal is to level the playing field - by the end of module 0 you should feel like you went to a highschool with world class teachers and finished top of your math class.
 
 #### Algebra
 
