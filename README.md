@@ -115,6 +115,7 @@ Proofs, Set theory, propositional logic, induction, invariants, state-machines
 - [ ] [Sarada Herke - Graph Theory Course](https://www.youtube.com/user/DrSaradaHerke/playlists?shelf_id=5&view=50&sort=dd)
 
 #### Combinatorics
+Counting
 - [ ] [Coursera - Combinatorics and Probability](https://www.coursera.org/learn/combinatorics)
 - [ ] [Coursera - Introduction to Enumerative Combinatorics](https://www.coursera.org/learn/enumerative-combinatorics)
 - [ ] [Coursera/Princeton - Analytic Combinatorics](https://www.coursera.org/learn/analytic-combinatorics)
@@ -125,14 +126,15 @@ Proofs, Set theory, propositional logic, induction, invariants, state-machines
 divisibility, bezouts identity, modular arithmetic, eulers totient theorem, fermats little theorem, factorization, diophantine equations, fundemental theorem of arithmetic, chinese remainder theorem
 
 - [ ] [Coursera - Number Theory and Cryptography](https://www.coursera.org/learn/number-theory-cryptography)
-- [ ] [MIT - Mathematics for Computer Science (2010): Weeks 4,5](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/)
-- [ ] 📚 [From Mathematics to Generic Programming](https://www.amazon.com/Mathematics-Generic-Programming-Alexander-Stepanov/dp/0321942043)
-
+- [ ] [MIT - Mathematics for Computer Science (2010): Weeks 4,5](https://ocw.mit.edu/courses/electrical-engineering-and-
+* https://ocw.mit.edu/courses/mathematics/18-781-theory-of-numbers-spring-2012/lecture-notes/MIT18_781S12_lec1.pdf
 ### Discrete Probability
 
 
 #### Abstract Algebra
 - [ ] [Visual Group Theory](https://www.youtube.com/watch?v=UwTQdOop-nU&list=PLwV-9DG53NDxU337smpTwm6sef4x-SCLv)
+computer-science/6-042j-mathematics-for-computer-science-fall-2010/)
+- [ ] 📚 [From Mathematics to Generic Programming](https://www.amazon.com/Mathematics-Generic-Programming-Alexander-Stepanov/dp/0321942043)
 
 *Supplementary Material*
 * [MIT - Mathematics for Computer Science (2017)](https://courses.csail.mit.edu/6.042/spring17/mcs.pdf)
