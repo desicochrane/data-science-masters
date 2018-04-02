@@ -125,7 +125,7 @@ Counting
 #### Number Theory
 divisibility, bezouts identity, modular arithmetic, eulers totient theorem, fermats little theorem, factorization, diophantine equations, fundemental theorem of arithmetic, chinese remainder theorem
 
-- [ ] [Coursera - Number Theory and Cryptography](https://www.coursera.org/learn/number-theory-cryptography)
+- [X] [Coursera - Number Theory and Cryptography](https://www.coursera.org/learn/number-theory-cryptography)
 - [ ] [MIT - Mathematics for Computer Science (2010): Weeks 4,5](https://ocw.mit.edu/courses/electrical-engineering-and-
 * https://ocw.mit.edu/courses/mathematics/18-781-theory-of-numbers-spring-2012/lecture-notes/MIT18_781S12_lec1.pdf
 ### Discrete Probability
