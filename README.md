@@ -98,7 +98,7 @@ Not everyone was lucky enough to have a good start with math growing up. The goa
 
 ## Module 3 - College Math III (Discrete Math)
 
-#### Proofs
+### Proofs
 Proofs, Set theory, propositional logic, induction, invariants, state-machines
 
 - [X] [Coursera - What is a Proof?](https://www.coursera.org/learn/what-is-a-proof)
@@ -108,21 +108,23 @@ Proofs, Set theory, propositional logic, induction, invariants, state-machines
 - [ ] 📚 [Book of Proof](http://www.people.vcu.edu/~rhammack/BookOfProof/BookOfProof.pdf)
 
 
-#### Graph Theory
+### Graph Theory
 - [ ] [Coursera - Introduction to Graph Theory](https://www.coursera.org/learn/graphs)
 - [ ] [Coursera - Solving the Delivery Problem](https://www.coursera.org/learn/delivery-problem)
 - [ ] 📚 [Introduction to Graph Theory](https://www.amazon.com.au/Introduction-Graph-Theory-RICHARD-TRUDEAU/dp/0486678709/ref=sr_1_1?ie=UTF8&qid=1520325817&sr=8-1&keywords=introduction+to+graph+theory)
 - [ ] [Sarada Herke - Graph Theory Course](https://www.youtube.com/user/DrSaradaHerke/playlists?shelf_id=5&view=50&sort=dd)
 
-#### Combinatorics
+### Combinatorics
 Counting
 - [ ] [Coursera - Combinatorics and Probability](https://www.coursera.org/learn/combinatorics)
 - [ ] [Coursera - Introduction to Enumerative Combinatorics](https://www.coursera.org/learn/enumerative-combinatorics)
 - [ ] [Coursera/Princeton - Analytic Combinatorics](https://www.coursera.org/learn/analytic-combinatorics)
 
-#### Series, Sequences, Recurrences
+### Series, Sequences, Recurrences
+todo
 
-#### Number Theory
+
+### Number Theory
 divisibility, bezouts identity, modular arithmetic, eulers totient theorem, fermats little theorem, factorization, diophantine equations, fundemental theorem of arithmetic, chinese remainder theorem, rsa
 
 - [X] [Coursera - Number Theory and Cryptography](https://www.coursera.org/learn/number-theory-cryptography)
@@ -138,7 +140,7 @@ divisibility, bezouts identity, modular arithmetic, eulers totient theorem, ferm
 ### Discrete Probability
 
 
-#### Abstract Algebra
+### Abstract Algebra
 - [ ] [Visual Group Theory](https://www.youtube.com/watch?v=UwTQdOop-nU&list=PLwV-9DG53NDxU337smpTwm6sef4x-SCLv)
 computer-science/6-042j-mathematics-for-computer-science-fall-2010/)
 - [ ] 📚 [From Mathematics to Generic Programming](https://www.amazon.com/Mathematics-Generic-Programming-Alexander-Stepanov/dp/0321942043)
