@@ -126,8 +126,10 @@ Counting
 divisibility, bezouts identity, modular arithmetic, eulers totient theorem, fermats little theorem, factorization, diophantine equations, fundemental theorem of arithmetic, chinese remainder theorem
 
 - [X] [Coursera - Number Theory and Cryptography](https://www.coursera.org/learn/number-theory-cryptography)
-- [ ] [MIT - Mathematics for Computer Science (2010): Weeks 4,5](https://ocw.mit.edu/courses/electrical-engineering-and-
-* https://ocw.mit.edu/courses/mathematics/18-781-theory-of-numbers-spring-2012/lecture-notes/MIT18_781S12_lec1.pdf
+- [X] [MIT - Mathematics for Computer Science (2010): Recitation 4 Greatest common divisor](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/recitations/MIT6_042JF10_rec04.pdf)
+- [ ] [MIT - Mathematics for Computer Science (2010): Recitation 5 ](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/recitations/MIT6_042JF10_rec05.pdf)
+- [ ] MIT - Mathematics for Computer Science (2015)
+
 ### Discrete Probability
 
 
