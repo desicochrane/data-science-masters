@@ -123,7 +123,7 @@ Counting
 #### Series, Sequences, Recurrences
 
 #### Number Theory
-divisibility, bezouts identity, modular arithmetic, eulers totient theorem, fermats little theorem, factorization, diophantine equations, fundemental theorem of arithmetic, chinese remainder theorem
+divisibility, bezouts identity, modular arithmetic, eulers totient theorem, fermats little theorem, factorization, diophantine equations, fundemental theorem of arithmetic, chinese remainder theorem, rsa
 
 - [X] [Coursera - Number Theory and Cryptography](https://www.coursera.org/learn/number-theory-cryptography)
 - [ ] [IT - Mathematics for Computer Science (2010) - Number Theory I](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-4-number-theory-i/)
