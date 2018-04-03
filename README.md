@@ -35,20 +35,20 @@ Not everyone was lucky enough to have a good start with math growing up. The goa
 
 #### Algebra
 
-- [X] [Khan - Pre-Algebra](https://www.khanacademy.org/mission/pre-algebra) - 100%
-- [X] [Khan - Algebra I](https://www.khanacademy.org/mission/algebra) - 100%
-- [X] [Khan - Algebra II](https://www.khanacademy.org/mission/algebra2) - 100%
+- [X] [Khan - Pre-Algebra](https://www.khanacademy.org/mission/pre-algebra)
+- [X] [Khan - Algebra I](https://www.khanacademy.org/mission/algebra)
+- [X] [Khan - Algebra II](https://www.khanacademy.org/mission/algebra2)
 
 #### Geometry
 
-- [X] [Khan - Geometry](https://www.khanacademy.org/mission/geometry) - 100%
-- [X] [Khan - Trigonometry](https://www.khanacademy.org/mission/trigonometry) - 100%
+- [X] [Khan - Geometry](https://www.khanacademy.org/mission/geometry)
+- [X] [Khan - Trigonometry](https://www.khanacademy.org/mission/trigonometry)
 
 #### Pre Calculus
-- [X] [Khan - Pre-Calculus](https://www.khanacademy.org/mission/precalculus) - 100%
+- [X] [Khan - Pre-Calculus](https://www.khanacademy.org/mission/precalculus)
 
 #### Statistics and Probability
-- [X] [Khan - Highschool Statistics](https://www.khanacademy.org/mission/probability) - 100%
+- [X] [Khan - Highschool Statistics](https://www.khanacademy.org/mission/probability)
 
 *Required Reading*
 - [X] 📚 [The Joy of X](https://www.amazon.com/Joy-Guided-Tour-Math-Infinity/dp/0544105850)
