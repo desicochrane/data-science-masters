@@ -128,13 +128,13 @@ todo
 divisibility, bezouts identity, modular arithmetic, eulers totient theorem, fermats little theorem, factorization, diophantine equations, fundemental theorem of arithmetic, chinese remainder theorem, rsa
 
 - [X] [Coursera - Number Theory and Cryptography](https://www.coursera.org/learn/number-theory-cryptography)
-- [ ] [IT - Mathematics for Computer Science (2010) - Number Theory I](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-4-number-theory-i/)
-- [ ] [IT - Mathematics for Computer Science (2010) - Number Theory II](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-5-number-theory-ii/)
+- [ ] [MIT - Mathematics for Computer Science (2010) - Number Theory I](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-4-number-theory-i/)
+- [ ] [MIT - Mathematics for Computer Science (2010) - Number Theory II](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-5-number-theory-ii/)
 - [ ] MIT - Mathematics for Computer Science (2015)
 
 *Problem Sets*
 - [X] [MIT - Mathematics for Computer Science (2010): Recitation 4 Greatest common divisor](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/recitations/MIT6_042JF10_rec04.pdf)
-- [ ] [MIT - Mathematics for Computer Science (2010): Recitation 5 ](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/recitations/MIT6_042JF10_rec05.pdf)
+- [ ] [MIT - Mathematics for Computer Science (2010): Recitation 5](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/recitations/MIT6_042JF10_rec05.pdf)
 
 
 ### Discrete Probability
