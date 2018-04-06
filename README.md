@@ -129,7 +129,7 @@ divisibility, bezouts identity, modular arithmetic, eulers totient theorem, ferm
 
 - [X] [Coursera - Number Theory and Cryptography](https://www.coursera.org/learn/number-theory-cryptography)
 - [X] [MIT - Mathematics for Computer Science (2010) - Number Theory I](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-4-number-theory-i/)
-- [ ] [MIT - Mathematics for Computer Science (2010) - Number Theory II](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-5-number-theory-ii/)
+- [X] [MIT - Mathematics for Computer Science (2010) - Number Theory II](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-5-number-theory-ii/)
 - [ ] MIT - Mathematics for Computer Science (2015)
 
 *Problem Sets*
