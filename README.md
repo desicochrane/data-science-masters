@@ -135,6 +135,7 @@ divisibility, bezouts identity, modular arithmetic, eulers totient theorem, ferm
 *Problem Sets*
 - [X] [MIT - Mathematics for Computer Science (2010): Recitation 4 Greatest common divisor](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/recitations/MIT6_042JF10_rec04.pdf)
 - [ ] [MIT - Mathematics for Computer Science (2010): Recitation 5](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/recitations/MIT6_042JF10_rec05.pdf)
+- [ ] [MIT - Mathematics for Computer Science (2010): Assignment 3](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/assignments/MIT6_042JF10_assn03.pdf)
 
 
 ### Discrete Probability
