@@ -98,7 +98,7 @@ Not everyone was lucky enough to have a good start with math growing up. The goa
 
 ## Module 3 - College Math III (Discrete Math)
 
-### Proofs
+### 3.1 Proofs and Logic
 Proofs, Set theory, propositional logic, induction, invariants, state-machines
 
 - [X] [Coursera - What is a Proof?](https://www.coursera.org/learn/what-is-a-proof)
@@ -107,7 +107,7 @@ Proofs, Set theory, propositional logic, induction, invariants, state-machines
 - [ ] 📚 [How to Prove It](https://www.amazon.com/How-Prove-Structured-Approach-2nd/dp/0521675995)
 - [ ] 📚 [Book of Proof](http://www.people.vcu.edu/~rhammack/BookOfProof/BookOfProof.pdf)
 
-### Number Theory
+### 3.2 Number Theory
 Number theory is fundamental in reasoning about numbers as discrete mathematic structures with applications in cryptography and efficient numerical computation.
 
 By the end of this sub-module you should be very confident proving and reasoning about concepts including: divisibility, bezouts identity, modular arithmetic, eulers totient theorem, fermats little theorem, integer factorization, diophantine equations, the fundemental theorem of arithmetic, chinese remainder theorem, RSA and the discrete logarithm problem.
@@ -127,37 +127,35 @@ By the end of this sub-module you should be very confident proving and reasoning
 - [X] [MIT - Mathematics for Computer Science (2010): Assignment 3](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/assignments/MIT6_042JF10_assn03.pdf)
 ** [Worked Solutions](https://github.com/desicochrane/mathematics-for-computer-science/blob/master/number-theory.ipynb) **
 
-
-### Graph Theory
-- [ ] [Coursera - Introduction to Graph Theory](https://www.coursera.org/learn/graphs)
-- [ ] [Coursera - Solving the Delivery Problem](https://www.coursera.org/learn/delivery-problem)
-- [ ] 📚 [Introduction to Graph Theory](https://www.amazon.com.au/Introduction-Graph-Theory-RICHARD-TRUDEAU/dp/0486678709/ref=sr_1_1?ie=UTF8&qid=1520325817&sr=8-1&keywords=introduction+to+graph+theory)
-- [ ] [Sarada Herke - Graph Theory Course](https://www.youtube.com/user/DrSaradaHerke/playlists?shelf_id=5&view=50&sort=dd)
-
-### Combinatorics
+### 3.3 Combinatorics
 Counting
 - [ ] [Coursera - Combinatorics and Probability](https://www.coursera.org/learn/combinatorics)
 - [ ] [Coursera - Introduction to Enumerative Combinatorics](https://www.coursera.org/learn/enumerative-combinatorics)
 - [ ] [Coursera/Princeton - Analytic Combinatorics](https://www.coursera.org/learn/analytic-combinatorics)
 
-### Series, Sequences, Recurrences
+### 3.4 Graph Theory
+- [ ] [Coursera - Introduction to Graph Theory](https://www.coursera.org/learn/graphs)
+- [ ] [Coursera - Solving the Delivery Problem](https://www.coursera.org/learn/delivery-problem)
+- [ ] 📚 [Introduction to Graph Theory](https://www.amazon.com.au/Introduction-Graph-Theory-RICHARD-TRUDEAU/dp/0486678709/ref=sr_1_1?ie=UTF8&qid=1520325817&sr=8-1&keywords=introduction+to+graph+theory)
+- [ ] [Sarada Herke - Graph Theory Course](https://www.youtube.com/user/DrSaradaHerke/playlists?shelf_id=5&view=50&sort=dd)
+
+
+### 3.5 Series, Sequences, Recurrences
 todo
 
+### 3.6 Discrete Probability
+todo
 
-### Discrete Probability
+### Discrete Math Supplementary Material
 
-
-### Abstract Algebra
-- [ ] [Visual Group Theory](https://www.youtube.com/watch?v=UwTQdOop-nU&list=PLwV-9DG53NDxU337smpTwm6sef4x-SCLv)
-computer-science/6-042j-mathematics-for-computer-science-fall-2010/)
-- [ ] 📚 [From Mathematics to Generic Programming](https://www.amazon.com/Mathematics-Generic-Programming-Alexander-Stepanov/dp/0321942043)
-
-*Supplementary Material*
 * [MIT - Mathematics for Computer Science (2017)](https://courses.csail.mit.edu/6.042/spring17/mcs.pdf)
 * [MIT - Mathematics for Computer Science (2015)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/)
 * [MIT - Mathematics for Computer Science (2010)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/index.htm)
 * [Arsdigita University - Discrete Mathematics](https://www.youtube.com/watch?v=h_9WjWENWV8)
 * [Coursera - Discrete Mathematics](https://www.coursera.org/learn/discrete-mathematics)
+* 📚 [From Mathematics to Generic Programming](https://www.amazon.com/Mathematics-Generic-Programming-Alexander-Stepanov/dp/0321942043)
+* [Visual Group Theory](https://www.youtube.com/watch?v=UwTQdOop-nU&list=PLwV-9DG53NDxU337smpTwm6sef4x-SCLv)
+computer-science/6-042j-mathematics-for-computer-science-fall-2010/)
 
 ## Module 4 - College Math IV (Probability and Statistics)
 
