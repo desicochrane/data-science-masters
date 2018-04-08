@@ -113,7 +113,7 @@ Number theory is fundamental in reasoning about numbers as discrete mathematic s
 By the end of this sub-module you should be very confident proving and reasoning about concepts including: divisibility, bezouts identity, modular arithmetic, eulers totient theorem, fermats little theorem, integer factorization, diophantine equations, the fundemental theorem of arithmetic, chinese remainder theorem, RSA and the discrete logarithm problem.
 
 - [X] [Coursera - Number Theory and Cryptography](https://www.coursera.org/learn/number-theory-cryptography)
-- [X] [MIT - Mathematics for Computer Science (2010) - Number Theory I & II](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-4-number-theory-i/)
+- [X] [MIT - Mathematics for Computer Science (2010) - Number Theory I and II](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-4-number-theory-i/)
 - [X] [MIT - Mathematics for Computer Science (2015) - GCDs, Congruences, Euler's Theorem, and RSA](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/)
 
 *Problem Sets*
