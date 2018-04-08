@@ -125,7 +125,8 @@ By the end of this sub-module you should be very confident proving and reasoning
 - [X] [MIT - Mathematics for Computer Science (2010): Recitation 4 Greatest common divisor](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/recitations/MIT6_042JF10_rec04.pdf)
 - [X] [MIT - Mathematics for Computer Science (2010): Recitation 5](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/recitations/MIT6_042JF10_rec05.pdf)
 - [X] [MIT - Mathematics for Computer Science (2010): Assignment 3](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/assignments/MIT6_042JF10_assn03.pdf)
-** [Worked Solutions](https://github.com/desicochrane/mathematics-for-computer-science/blob/master/number-theory.ipynb) **
+
+*Worked solutions to problem sets [here](https://github.com/desicochrane/mathematics-for-computer-science/blob/master/number-theory.ipynb)*
 
 ### 3.3 Combinatorics
 Counting
