@@ -116,14 +116,14 @@ By the end of this sub-module you should be very confident proving and reasoning
 - [X] [MIT - Mathematics for Computer Science (2010) - Number Theory I and II](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-4-number-theory-i/)
 - [X] [MIT - Mathematics for Computer Science (2015) - GCDs, Congruences, Euler's Theorem, and RSA](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/)
 
-*Problem Sets*
+**Problem Sets**
 - [X] [MIT - Mathematics for Computer Science (2010): Recitation 4](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/recitations/MIT6_042JF10_rec04.pdf)
 - [X] [MIT - Mathematics for Computer Science (2010): Recitation 5](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/recitations/MIT6_042JF10_rec05.pdf)
 - [X] [MIT - Mathematics for Computer Science (2010): Assignment 3](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/assignments/MIT6_042JF10_assn03.pdf)
 
 *Worked solutions to problem sets [here](https://github.com/desicochrane/mathematics-for-computer-science/blob/master/number-theory.ipynb)*
 
-*Optional Supplementary Material*
+**Optional Supplementary Material**
 - [X] [Classical Cryptosystems and Core Concepts](https://www.coursera.org/learn/classical-cryptosystems)
 - [X] [Mathematical Foundations for Cryptography](https://www.coursera.org/learn/mathematical-foundations-cryptography)
 
