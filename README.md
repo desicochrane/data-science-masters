@@ -123,6 +123,10 @@ By the end of this sub-module you should be very confident proving and reasoning
 
 *Worked solutions to problem sets [here](https://github.com/desicochrane/mathematics-for-computer-science/blob/master/number-theory.ipynb)*
 
+*Optional Supplementary Material*
+- [X] [Classical Cryptosystems and Core Concepts](https://www.coursera.org/learn/classical-cryptosystems)
+- [X] [Mathematical Foundations for Cryptography](https://www.coursera.org/learn/mathematical-foundations-cryptography)
+
 ### 3.3 Combinatorics
 Counting
 - [ ] [Coursera - Combinatorics and Probability](https://www.coursera.org/learn/combinatorics)
