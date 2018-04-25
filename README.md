@@ -127,11 +127,19 @@ By the end of this sub-module you should be very confident proving and reasoning
 - [X] [Coursera - Classical Cryptosystems and Core Concepts](https://www.coursera.org/learn/classical-cryptosystems)
 - [X] [Coursera - Mathematical Foundations for Cryptography](https://www.coursera.org/learn/mathematical-foundations-cryptography)
 
+
+
 ### 3.3 Combinatorics
-Counting
 - [ ] [Coursera - Combinatorics and Probability](https://www.coursera.org/learn/combinatorics)
 - [ ] [Coursera - Introduction to Enumerative Combinatorics](https://www.coursera.org/learn/enumerative-combinatorics)
-- [ ] [Coursera/Princeton - Analytic Combinatorics](https://www.coursera.org/learn/analytic-combinatorics)
+- [ ] [MIT - Mathematics for Computer Science (2010) - Counting Rules I and II](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-16-counting-rules-i/)
+- [ ] [MIT - Mathematics for Computer Science (2015) - Counting](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/counting/)
+
+**Problem Sets**
+- [ ] [MIT - Mathematics for Computer Science (2010): Recitation 15](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/recitations/MIT6_042JF10_rec15.pdf)
+- [ ] [MIT - Mathematics for Computer Science (2010): Recitation 16](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/recitations/MIT6_042JF10_rec16.pd)
+- [ ] [MIT - Mathematics for Computer Science (2010): Assignment 9](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/assignments/MIT6_042JF10_assn09.pdf)
+
 
 ### 3.4 Graph Theory
 - [ ] [Coursera - Introduction to Graph Theory](https://www.coursera.org/learn/graphs)
