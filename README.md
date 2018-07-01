@@ -291,6 +291,7 @@ Goals:
 - [ ] create visualizations and blog explanations
 - [ ] Audit best courses / books
 
+* http://explained.ai/matrix-calculus/index.html
 * [Practical Deep Learning For Coders](http://course.fast.ai/)
 * https://classroom.udacity.com/courses/ud730
 * http://neuralnetworksanddeeplearning.com/
