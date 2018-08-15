@@ -55,7 +55,7 @@ Not everyone was lucky enough to have a good start with math growing up. The goa
 
 
 ## Module 1 - College Math I (Calculus)
-
+- [ ] https://www.youtube.com/watch?v=fYyARMqiaag&list=PLF797E961509B4EB5
 - [ ] [Khan - Differential Calculus](https://www.khanacademy.org/mission/differential-calculus) - 8%
 - [ ] [Khan - Integral Calculus](https://www.khanacademy.org/mission/integral-calculus) - 7%
 - [ ] [Coursera - Mathematics for Machine Learning: Multivariate Calculus](https://www.coursera.org/specializations/mathematics-machine-learning)
