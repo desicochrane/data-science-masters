@@ -179,7 +179,8 @@ computer-science/6-042j-mathematics-for-computer-science-fall-2010/)
 - [ ] [EdX/Uni Texas - Foundations of Data Analysis - Part 2: Inferential Statistics](https://www.edx.org/course/foundations-data-analysis-part-2-utaustinx-ut-7-21x-0)
 - [ ] [EdX/MIT - Introduction to Probability - The Science of Uncertainty](https://www.edx.org/course/introduction-probability-science-mitx-6-041x-2)
 - [ ] [EdX/MIT - Introduction to Probability Part II - Inferences and Processes](https://www.edx.org/course/introduction-to-probability-part-2-inference-processes) 
-
+* https://www.coursera.org/specializations/statistics
+* https://www.coursera.org/specializations/r
 
 ## Module 5 - Computation and Algorithms
 
@@ -187,9 +188,7 @@ computer-science/6-042j-mathematics-for-computer-science-fall-2010/)
 - [ ] [Efficient Programming with Components](https://www.youtube.com/playlist?list=PLHxtyCq_WDLXryyw91lahwdtpZsmo4BGD)
 - [ ] [Four Algorithmic Journeys](https://www.youtube.com/playlist?list=PLHxtyCq_WDLV5N5zUCBCDC2WqF1VBDGg1)
 
-#### R Programming
-* https://www.coursera.org/specializations/statistics
-* https://www.coursera.org/specializations/r
+
 
 #### Information Theory
 * https://www.khanacademy.org/computing/computer-science/informationtheory
@@ -200,34 +199,27 @@ computer-science/6-042j-mathematics-for-computer-science-fall-2010/)
 
 * [Introduction to Computational Thinking and Data Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-1-introduction-and-optimization-problems/)
 
-#### Algorithms
+### Algorithms
 
-* http://www3.cs.stonybrook.edu/~algorith/
-* [Khan Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms)
-* [MIT 6.006 - Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/index.htm)
+- [X] [Coursera - Divide and Conquer, Sorting and Searching, and Randomized Algorithms](https://www.coursera.org/learn/algorithms-divide-conquer)
+- [ ] [Algorithms II - Graph Search, Shortest Path, and Data Structures](https://www.coursera.org/learn/algorithms-graphs-data-structures)
+- [ ] [Algorithms III - Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming](https://www.coursera.org/learn/algorithms-greedy)
+- [ ] [Algorithms IV - Shortest Paths Revisited, NP-Complete Problems](https://www.coursera.org/learn/algorithms-npcomplete)
 
-1. Introduction
-    * Algorithmic thinking, peak finding
-    * Models of computation, Python cost model, document distance
-    - [ ] [Lecture 1: Algorithmic Thinking, Peak Finding](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/recitation-videos/recitation-1-asymptotic-complexity-peak-finding)
-    - [ ] [Recitation 1: Asymptotic Complexity, Peak Finding](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/recitation-videos/recitation-1-asymptotic-complexity-peak-finding)
-    - [ ] [Lecture 2: Models of Computation, Document Distance](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-2-models-of-computation-document-distance)
-    - [ ] [https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/recitation-videos/recitation-2-python-cost-model-document-distance](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/recitation-videos/recitation-2-python-cost-model-document-distance)
-    
 
 *Resources*
-📚 [Introduction to Algorithms (CLRS)](https://www.amazon.com/exec/obidos/ASIN/0262033844/ref=nosim/mitopencourse-20)
+- [ ] 📚 [Introduction to Algorithms (CLRS)](https://www.amazon.com/exec/obidos/ASIN/0262033844/ref=nosim/mitopencourse-20)
+- [ ] 📚 [The Algorithm Design Manual](https://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1849967202)
 
-* [Algorithms I - Divide and Conquer](https://www.coursera.org/learn/algorithms-divide-conquer)
-* [Algorithms II - Graph Search, Shortest Path, and Data Structures](https://www.coursera.org/learn/algorithms-graphs-data-structures)
-* [Algorithms III - Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming](https://www.coursera.org/learn/algorithms-greedy)
-* [Algorithms IV - Shortest Paths Revisited, NP-Complete Problems](https://www.coursera.org/learn/algorithms-npcomplete)
+* [Khan Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms)
+* [MIT 6.006 - Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/index.htm)
 * [Intro to Algorithms](https://www.udacity.com/course/intro-to-algorithms--cs215)
 * [Algorithmic Thinking I](https://www.coursera.org/learn/algorithmic-thinking-1)
 * [Algorithmic Thinking II](https://www.coursera.org/learn/algorithmic-thinking-2)
 * https://www.youtube.com/watch?v=T_WffoMAaMA
 * https://www.coursera.org/specializations/data-structures-algorithms
 * https://www.youtube.com/user/mycodeschool
+* http://www3.cs.stonybrook.edu/~algorith/
 * https://www.youtube.com/watch?v=ufj5_bppBsA&list=PLFDnELG9dpVxQCxuD-9BSy2E7BWY3t5Sm&index=7
 * https://www.youtube.com/user/mikeysambol/playlists
 * https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/
@@ -385,7 +377,7 @@ Goals:
 - [ ] [The Art of Unix Programming](https://www.bol.com/nl/p/the-art-of-unix-programming/1001004010307550/?Referrer=ADVNLGOO002011B-G-50461511163-S-402982354031-1001004010307550&gclid=EAIaIQobChMI5Jvdq9_G2QIVh-cbCh2V6A2pEAYYAiABEgLGw_D_BwE)
 - [ ] [The C programming language](https://www.bol.com/nl/f/c-programming-language/30129487/)
 - [ ] Gödel, Escher, Bach: An Eternal Golden Braid
-- [ ] Compilers: Principles, Techniques, and Tools (dragaon book)
+- [ ] Compilers: Principles, Techniques, and Tools (dragon book)
 - [ ] [Code](https://www.amazon.com/Code-Language-Computer-Hardware-Software/dp/0735611319)
 - [ ] [The elements of statistical learning](https://www.amazon.com/Elements-Statistical-Learning-Prediction-Statistics/dp/0387848576/ref=sr_1_4?s=books&ie=UTF8&qid=1519805396&sr=1-4&keywords=elements+of+statistical+learning)
 - [ ] [The structure and intepretation of computer programs](https://www.amazon.com/Structure-Interpretation-Computer-Programs-Engineering/dp/0262510871/ref=pd_sim_14_1?_encoding=UTF8&pd_rd_i=0262510871&pd_rd_r=PK0YXR61WT82HXNS292Y&pd_rd_w=xmFvL&pd_rd_wg=Hf8EG&psc=1&refRID=PK0YXR61WT82HXNS292Y&dpID=51H17R%252BbW8L&preST=_SY291_BO1,204,203,200_QL40_&dpSrc=detail)
