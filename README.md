@@ -184,21 +184,6 @@ computer-science/6-042j-mathematics-for-computer-science-fall-2010/)
 
 ## Module 5 - Computation and Algorithms
 
-- [ ] [Programming Conversations](https://www.youtube.com/playlist?list=PLHxtyCq_WDLV5N5zUCBCDC2WqF1VBDGg1)
-- [ ] [Efficient Programming with Components](https://www.youtube.com/playlist?list=PLHxtyCq_WDLXryyw91lahwdtpZsmo4BGD)
-- [ ] [Four Algorithmic Journeys](https://www.youtube.com/playlist?list=PLHxtyCq_WDLV5N5zUCBCDC2WqF1VBDGg1)
-
-
-
-#### Information Theory
-* https://www.khanacademy.org/computing/computer-science/informationtheory
-
-#### Python and Computation and Data
-* https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-10
-* https://www.edx.org/course/introduction-computational-thinking-data-mitx-6-00-2x-5
-
-* [Introduction to Computational Thinking and Data Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-1-introduction-and-optimization-problems/)
-
 ### Algorithms
 
 - [X] [Coursera - Divide and Conquer, Sorting and Searching, and Randomized Algorithms](https://www.coursera.org/learn/algorithms-divide-conquer)
@@ -223,6 +208,21 @@ computer-science/6-042j-mathematics-for-computer-science-fall-2010/)
 * https://www.youtube.com/watch?v=ufj5_bppBsA&list=PLFDnELG9dpVxQCxuD-9BSy2E7BWY3t5Sm&index=7
 * https://www.youtube.com/user/mikeysambol/playlists
 * https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/
+
+- [ ] [Programming Conversations](https://www.youtube.com/playlist?list=PLHxtyCq_WDLV5N5zUCBCDC2WqF1VBDGg1)
+- [ ] [Efficient Programming with Components](https://www.youtube.com/playlist?list=PLHxtyCq_WDLXryyw91lahwdtpZsmo4BGD)
+- [ ] [Four Algorithmic Journeys](https://www.youtube.com/playlist?list=PLHxtyCq_WDLV5N5zUCBCDC2WqF1VBDGg1)
+
+
+
+#### Information Theory
+* https://www.khanacademy.org/computing/computer-science/informationtheory
+
+#### Python and Computation and Data
+* https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-10
+* https://www.edx.org/course/introduction-computational-thinking-data-mitx-6-00-2x-5
+
+* [Introduction to Computational Thinking and Data Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-1-introduction-and-optimization-problems/)
 
 ## Module 6 - Artificial Intelligence and Machine Learning
 
