@@ -128,7 +128,6 @@ By the end of this sub-module you should be very confident proving and reasoning
 - [X] [Coursera - Mathematical Foundations for Cryptography](https://www.coursera.org/learn/mathematical-foundations-cryptography)
 
 
-
 ### 3.3 Combinatorics
 - [X] [Coursera - Combinatorics and Probability](https://www.coursera.org/learn/combinatorics)
 - [ ] [Coursera - Introduction to Enumerative Combinatorics](https://www.coursera.org/learn/enumerative-combinatorics)
@@ -187,7 +186,7 @@ computer-science/6-042j-mathematics-for-computer-science-fall-2010/)
 ### Algorithms
 
 - [X] [Coursera - Divide and Conquer, Sorting and Searching, and Randomized Algorithms](https://www.coursera.org/learn/algorithms-divide-conquer)
-- [ ] [Coursera - Graph Search, Shortest Path, and Data Structures](https://www.coursera.org/learn/algorithms-graphs-data-structures)
+- [X] [Coursera - Graph Search, Shortest Path, and Data Structures](https://www.coursera.org/learn/algorithms-graphs-data-structures)
 - [ ] [Coursera - Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming](https://www.coursera.org/learn/algorithms-greedy)
 - [ ] [Coursera - Shortest Paths Revisited, NP-Complete Problems](https://www.coursera.org/learn/algorithms-npcomplete)
 
