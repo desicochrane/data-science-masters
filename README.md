@@ -72,7 +72,7 @@ Not everyone was lucky enough to have a good start with math growing up. The goa
 * [Calculus, Better Explained](https://betterexplained.com/calculus/lesson-1)
 * [Essence of Calculus](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
 * [Engineering Math](https://www.youtube.com/watch?v=oL15D_1Y0wk&list=PLwV-9DG53NDzJ32JwfCQLpbdK5Ys4bM4P)
-
+* http://adit.io/posts/2018-02-18-Introduction-To-Calculus-With-Derivatives.html
 
 ## Module 2 - College Math II (Linear Algebra)
 
