@@ -163,6 +163,12 @@ todo
 * 📚 [From Mathematics to Generic Programming](https://www.amazon.com/Mathematics-Generic-Programming-Alexander-Stepanov/dp/0321942043)
 * [Visual Group Theory](https://www.youtube.com/watch?v=UwTQdOop-nU&list=PLwV-9DG53NDxU337smpTwm6sef4x-SCLv)
 computer-science/6-042j-mathematics-for-computer-science-fall-2010/)
+* https://www.coursera.org/learn/discrete-mathematics#%20
+* https://www.youtube.com/playlist?list=PLZzHxk_TPOStgPtqRZ6KzmkUQBQ8TSWVX
+
+* 📚 [Discrete-Mathematics-Applications](https://www.amazon.com/Discrete-Mathematics-Applications-Kenneth-Rosen/dp/125967651X/ref=dp_ob_title_bk)
+* 📚 [Concrete Mathematics](https://www.amazon.com/exec/obidos/ASIN/0201558025/)
+* [Proofs from the book](https://www.amazon.com/exec/obidos/ASIN/3662442043/ref=as_at/mitopencourse-20?linkCode=w61&imprToken=anv0R-crBxnY9LYUMZHkDQ&slotNum=0)
 
 ## Module 4 - College Math IV (Probability and Statistics)
 
@@ -194,6 +200,9 @@ computer-science/6-042j-mathematics-for-computer-science-fall-2010/)
 *Resources*
 - [ ] 📚 [Introduction to Algorithms (CLRS)](https://www.amazon.com/exec/obidos/ASIN/0262033844/ref=nosim/mitopencourse-20)
 - [ ] 📚 [The Algorithm Design Manual](https://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1849967202)
+- [ ] 📚 [Algorithms (Dasgupta)](https://www.amazon.com/Algorithms-Sanjoy-Dasgupta/dp/0073523402) 
+- [ ] 📚 [Algorithm Design (Tardos and Kleinberg)](https://www.amazon.com/Algorithm-Design-Jon-Kleinberg/dp/0321295358)
+- [ ] 📚 [Algorithms (Sedgewick)](https://www.amazon.com/Algorithms-4th-Robert-Sedgewick/dp/032157351X)
 
 * [Khan Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms)
 * [MIT 6.006 - Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/index.htm)
