@@ -184,8 +184,11 @@ computer-science/6-042j-mathematics-for-computer-science-fall-2010/)
 - [ ] [EdX/Uni Texas - Foundations of Data Analysis - Part 2: Inferential Statistics](https://www.edx.org/course/foundations-data-analysis-part-2-utaustinx-ut-7-21x-0)
 - [ ] [EdX/MIT - Introduction to Probability - The Science of Uncertainty](https://www.edx.org/course/introduction-probability-science-mitx-6-041x-2)
 - [ ] [EdX/MIT - Introduction to Probability Part II - Inferences and Processes](https://www.edx.org/course/introduction-to-probability-part-2-inference-processes) 
+- [ ] [MIT Probablistic Systems](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/index.htm)
+- [ ] [MIT Intro to Probability (2018)](https://ocw.mit.edu/resources/res-6-012-introduction-to-probability-spring-2018/)
 * https://www.coursera.org/specializations/statistics
 * https://www.coursera.org/specializations/r
+
 
 ## Module 5 - Computation and Algorithms
 
@@ -224,13 +227,29 @@ computer-science/6-042j-mathematics-for-computer-science-fall-2010/)
 
 
 #### Information Theory
-* https://www.khanacademy.org/computing/computer-science/informationtheory
+
 
 #### Python and Computation and Data
 * https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-10
 * https://www.edx.org/course/introduction-computational-thinking-data-mitx-6-00-2x-5
 
 * [Introduction to Computational Thinking and Data Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-1-introduction-and-optimization-problems/)
+
+
+## Module 5.5 - Databases, and Computer Architecture
+- [ ] [Coursera - Data Systems Specialization](https://www.coursera.org/specializations/data-systems)
+- [ ] [Coursera - Data Visualization Specialization](https://www.coursera.org/specializations/datavisualization)
+- [ ] [Coursera - Computer Architecture](https://www.coursera.org/learn/comparch)
+- [ ] [MIT Computer System Engineering](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-033-computer-system-engineering-spring-2009/video-lectures/)
+- [ ] [MIT Information and Entropy](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-050j-information-and-entropy-spring-2008/videos-homework-and-readings/)
+- [ ] [Coursera - Computer Science Algs, Theory, Machines](https://www.coursera.org/learn/cs-algorithms-theory-machines)
+
+**Supplementary**
+* https://www.coursera.org/learn/introduction-mongodb
+* https://university.mongodb.com/
+* https://www.khanacademy.org/computing/computer-science/informationtheory
+
+
 
 ## Module 6 - Artificial Intelligence and Machine Learning
 
