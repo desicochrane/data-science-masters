@@ -201,6 +201,8 @@ computer-science/6-042j-mathematics-for-computer-science-fall-2010/)
 
 
 *Resources*
+- [X] 📚 [Grokking Algorithms](https://www.manning.com/books/grokking-algorithms)
+- [X] 📚 [Algorithms to Live By](https://www.amazon.com/Algorithms-Live-Computer-Science-Decisions/dp/1627790365)
 - [ ] 📚 [Introduction to Algorithms (CLRS)](https://www.amazon.com/exec/obidos/ASIN/0262033844/ref=nosim/mitopencourse-20)
 - [ ] 📚 [The Algorithm Design Manual](https://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1849967202)
 - [ ] 📚 [Algorithms (Dasgupta)](https://www.amazon.com/Algorithms-Sanjoy-Dasgupta/dp/0073523402) 
@@ -219,10 +221,9 @@ computer-science/6-042j-mathematics-for-computer-science-fall-2010/)
 * https://www.youtube.com/watch?v=ufj5_bppBsA&list=PLFDnELG9dpVxQCxuD-9BSy2E7BWY3t5Sm&index=7
 * https://www.youtube.com/user/mikeysambol/playlists
 * https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/
-
-- [ ] [Programming Conversations](https://www.youtube.com/playlist?list=PLHxtyCq_WDLV5N5zUCBCDC2WqF1VBDGg1)
-- [ ] [Efficient Programming with Components](https://www.youtube.com/playlist?list=PLHxtyCq_WDLXryyw91lahwdtpZsmo4BGD)
-- [ ] [Four Algorithmic Journeys](https://www.youtube.com/playlist?list=PLHxtyCq_WDLV5N5zUCBCDC2WqF1VBDGg1)
+* [Programming Conversations](https://www.youtube.com/playlist?list=PLHxtyCq_WDLV5N5zUCBCDC2WqF1VBDGg1)
+* [Efficient Programming with Components](https://www.youtube.com/playlist?list=PLHxtyCq_WDLXryyw91lahwdtpZsmo4BGD)
+* [Four Algorithmic Journeys](https://www.youtube.com/playlist?list=PLHxtyCq_WDLV5N5zUCBCDC2WqF1VBDGg1)
 
 
 
@@ -397,14 +398,18 @@ Goals:
 * MIT self driving https://selfdrivingcars.mit.edu/
 * MIT GAI https://agi.mit.edu/
 * https://ai.google/education
-
+* https://mlcourse.ai/
+* https://mml-book.github.io/
 
 ## Reading List
 
 - [ ] [The Art of Unix Programming](https://www.bol.com/nl/p/the-art-of-unix-programming/1001004010307550/?Referrer=ADVNLGOO002011B-G-50461511163-S-402982354031-1001004010307550&gclid=EAIaIQobChMI5Jvdq9_G2QIVh-cbCh2V6A2pEAYYAiABEgLGw_D_BwE)
 - [ ] [The C programming language](https://www.bol.com/nl/f/c-programming-language/30129487/)
 - [ ] Gödel, Escher, Bach: An Eternal Golden Braid
-- [ ] Compilers: Principles, Techniques, and Tools (dragon book)
+- [ ] [Deep Learning (Goodfellow, Bengio, Courville)](https://www.amazon.com/Deep-Learning-Adaptive-Computation-Machine/dp/0262035618/ref=sr_1_1?ie=UTF8&qid=1472485235&sr=8-1&keywords=deep+learning+book)
+- [ ] [Grokking Deep Learing](https://www.manning.com/books/grokking-deep-learning)
+- [ ] [Grokking Deep Reinforcement Learning](https://www.manning.com/books/grokking-deep-reinforcement-learning)
+- [ ] [Compilers: Principles, Techniques, and Tools (Dragon book)](https://www.amazon.com/Compilers-Pearson-International-Principles-Techniques/dp/1292024348/ref=dp_ob_title_bk)
 - [ ] [Code](https://www.amazon.com/Code-Language-Computer-Hardware-Software/dp/0735611319)
 - [ ] [The elements of statistical learning](https://www.amazon.com/Elements-Statistical-Learning-Prediction-Statistics/dp/0387848576/ref=sr_1_4?s=books&ie=UTF8&qid=1519805396&sr=1-4&keywords=elements+of+statistical+learning)
 - [ ] [The structure and intepretation of computer programs](https://www.amazon.com/Structure-Interpretation-Computer-Programs-Engineering/dp/0262510871/ref=pd_sim_14_1?_encoding=UTF8&pd_rd_i=0262510871&pd_rd_r=PK0YXR61WT82HXNS292Y&pd_rd_w=xmFvL&pd_rd_wg=Hf8EG&psc=1&refRID=PK0YXR61WT82HXNS292Y&dpID=51H17R%252BbW8L&preST=_SY291_BO1,204,203,200_QL40_&dpSrc=detail)
