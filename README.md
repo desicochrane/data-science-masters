@@ -130,6 +130,8 @@ By the end of this sub-module you should be very confident proving and reasoning
 
 
 ### 3.3 Combinatorics
+Combinatorics is a vital skill in reasoning about the size of finite sets.
+
 - [X] [Coursera - Combinatorics and Probability](https://www.coursera.org/learn/combinatorics)
 - [ ] [Coursera - Introduction to Enumerative Combinatorics](https://www.coursera.org/learn/enumerative-combinatorics)
 - [ ] [MIT - Mathematics for Computer Science (2010) - Counting Rules I and II](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-16-counting-rules-i/)
