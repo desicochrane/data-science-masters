@@ -274,6 +274,7 @@ https://www.coursera.org/specializations/aml
 * http://aiplaybook.a16z.com/
 * https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/
 * http://rll.berkeley.edu/deeprlcourse/
+* https://intellipaat.com/blog/tutorial/machine-learning-tutorial/
 
 #### Machine Learning
 
